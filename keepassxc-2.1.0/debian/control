@@ -1,15 +1,33 @@
 Source: keepassxc
-Section: unknown
+Section: utils
 Priority: optional
 Maintainer: Manolis Agkopian <m.agkopian@gmail.com>
-Build-Depends: debhelper (>= 9), cmake
+Build-Depends: debhelper (>= 9),
+               cmake (>= 2.8.12),
+               qtbase5-dev (>= 5.2),
+               qttools5-dev (>= 5.2),
+               qttools5-dev-tools (>= 5.2),
+               libgcrypt20-dev (>= 1.6),
+               zlib1g-dev,
+               libmicrohttpd-dev,
+               libxi-dev,
+               libxtst-dev,
+               libqt5x11extras5-dev
 Standards-Version: 3.9.5
-Homepage: <insert the upstream URL, if relevant>
-#Vcs-Git: git://anonscm.debian.org/collab-maint/keepassxc.git
-#Vcs-Browser: http://anonscm.debian.org/?p=collab-maint/keepassxc.git;a=summary
+Homepage: https://keepassxc.org/
+Vcs-Git: https://github.com/keepassxreboot/keepassxc.git
+Vcs-Browser: https://github.com/keepassxreboot/keepassxc
 
 Package: keepassxc
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: Cross Platform Password Manager
+ KeePassXC is a free/open-source password manager or safe which helps you
+ to manage your passwords in a secure way. You can put all your
+ passwords in one database, which is locked with one master key or a
+ key-disk. So you only have to remember one single master password or
+ insert the key-disk to unlock the whole database. The databases are
+ encrypted using the algorithms AES or Twofish.
+ .
+ Additionally, KeePassXC provides keepasshttp support for use with PassIFox 
+ for Mozilla Firefox and chromeIPass for Google Chrome.

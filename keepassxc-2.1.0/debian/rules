@@ -19,14 +19,19 @@ include /usr/share/dpkg/default.mk
 
 # main packaging script based on dh7 syntax
 %:
-	dh $@ 
+	dh $@ --parallel
 
 # debmake generated override targets
 # This is example for Cmake (See http://bugs.debian.org/641051 )
-#override_dh_auto_configure:
-#	dh_auto_configure -- \
-#	-DCMAKE_LIBRARY_PATH=$(DEB_HOST_MULTIARCH)
+override_dh_auto_configure:
+	dh_auto_configure -- \
+	-DWITH_TESTS=ON -DWITH_GUI_TESTS=ON -DWITH_XC_AUTOTYPE=ON -DWITH_XC_HTTP=ON
 
-
-
-
+override_dh_auto_test:
+	dh_auto_test -- \
+	ARGS+="-E testgui"
+#	xvfb-run -a --server-args="-screen 0 800x600x24" dh_auto_test -- \
+#	ARGS+="-R testgui"
+	
+#override_dh_makeshlibs:
+#	dh_makeshlibs -X/usr/lib/$(DEB_HOST_MULTIARCH)/keepassxc
