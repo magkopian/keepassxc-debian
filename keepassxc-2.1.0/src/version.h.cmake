@@ -1,0 +1,5 @@
+#define GIT_HEAD "@GIT_HEAD@"
+#define GIT_DESCRIBE "@GIT_DESCRIBE@"
+
+#define DIST_HASH "8a3ac7a26e7d6e2355dc1eb4829bdce96ded2a27"
+#define DIST_DATE "1485112594"
