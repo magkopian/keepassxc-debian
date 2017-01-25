@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 24 Jan 2017 19:21:55 +0200
+Source: keepassxc
+Binary: keepassxc
+Architecture: source
+Version: 2.1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: Manolis Agkopian <m.agkopian@gmail.com>
+Changed-By: Manolis Agkopian <m.agkopian@gmail.com>
+Description:
+ keepassxc  - Cross Platform Password Manager
+Changes:
+ keepassxc (2.1.0-1) unstable; urgency=low
+ .
+   * Initial release
+Checksums-Sha1:
+ 5d44788cbff1f174d7632d649d6d9efbe0ec2903 1140 keepassxc_2.1.0-1.dsc
+ 581958716c4c3d3c57b65e061eba2b0fc4c4b002 3213870 keepassxc_2.1.0.orig.tar.gz
+ 7e33ffc8f29e973c6757396e087ca6e628dc3e1c 7876 keepassxc_2.1.0-1.debian.tar.xz
+Checksums-Sha256:
+ a364a8970fca5bb2509f7be5ddeba50b8b91170ac22a165fd571b0173f0f58ce 1140 keepassxc_2.1.0-1.dsc
+ 15442c5094b2aeb7e54a8b39aa19f47ae1561695ac6949e74409294370700d48 3213870 keepassxc_2.1.0.orig.tar.gz
+ a48195deae2bacd49a5bd7ba6a9f1ec063deb715909a7cee5fc66963b0661bb4 7876 keepassxc_2.1.0-1.debian.tar.xz
+Files:
+ 001c929d8e6fcad8b74e3789f0683675 1140 utils optional keepassxc_2.1.0-1.dsc
+ 765de5963cf1eb841591bd4074c659f6 3213870 utils optional keepassxc_2.1.0.orig.tar.gz
+ bf886d60887c2baba4b2b36d1a698cea 7876 utils optional keepassxc_2.1.0-1.debian.tar.xz

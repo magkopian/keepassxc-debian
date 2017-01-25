@@ -13,7 +13,7 @@ Build-Depends: debhelper (>= 9),
                libxi-dev,
                libxtst-dev,
                libqt5x11extras5-dev
-Standards-Version: 3.9.5
+Standards-Version: 3.9.8
 Homepage: https://keepassxc.org/
 Vcs-Git: https://github.com/keepassxreboot/keepassxc.git
 Vcs-Browser: https://github.com/keepassxreboot/keepassxc
