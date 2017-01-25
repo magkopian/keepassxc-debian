@@ -57,7 +57,7 @@ First, obtain a fresh copy of the source package using `git clone`.
 git clone https://github.com/magkopian/keepassxc-debian.git
 ```
 
-Next, `cd` into the `keepassxc-debian/` directory and using the `pbuilder` program create a `chroot` environment of the target Debian release (e.g. unstable) that you want to build the package for.
+Next, `cd` into the `keepassxc-debian` directory and using the `pbuilder` program create a `chroot` environment of the target Debian release (e.g. unstable) that you want to build the package for.
 
 ```bash
 cd keepassxc-debian
@@ -70,14 +70,14 @@ Finally, using the `dsc` file build the package in the `chroot` environment you 
 ```bash
 sudo pbuilder --build keepassxc_<version>.dsc
 ```
-The newly built package will be located inside the `/var/cache/pbuilder/result/` directory, owned by your user account.
+The newly built package will be located inside the `/var/cache/pbuilder/result` directory, owned by your user account.
 
 ## Making Changes to the Package Sources
 
-If you make changes to the package sources instead of using the previous `pbuilder` command for building the package, you will need to run `pdebuild` from the `keepassxc-<version>/` directory.
+If you make changes to the package sources instead of using the previous `pbuilder` command for building the package, you will need to run `pdebuild` from the `keepassxc-<version>` directory.
 
 ```bash
-cd keepassxc-<version>/
+cd keepassxc-<version>
 pdebuild
 ```
 
