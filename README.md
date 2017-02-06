@@ -1,7 +1,7 @@
 KeePassXC Debian Package
 ================
 
-This repository contains the necessary files for building Debian binary packages of KeePassXC.
+This repository contains the necessary files for building Debian binary packages of [KeePassXC](https://keepassxc.org/).
 
 ## Building Dependencies
 
