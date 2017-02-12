@@ -1,0 +1,429 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: KeePassXC
+Source: https://github.com/keepassxreboot/keepassxc/
+
+Files: *
+Copyright: 2010-2012, Felix Geyer <debfx@fobos.de>
+           2011-2012, Florian Geyer <blueice@fobos.de>
+           2012, Tobias Tangemann
+           2007, Trolltech ASA <info@trolltech.com>
+           2012, Intel Corporation
+           2012, Nokia Corporation and/or its subsidiary(-ies)
+           2000-2008, Tom Sato <VEF00200@nifty.ne.jp>
+           2013, Laszlo Papp <lpapp@kde.org>
+           2013, David Faure <faure@kde.org>
+           2016, KeePassXC Team
+License: GPL-2 or GPL-3
+
+Files: cmake/GNUInstallDirs.cmake
+Copyright: 2011 Nikita Krupen'ko <krnekit@gmail.com>
+           2011 Kitware, Inc.
+License: BSD-3-clause
+
+Files: share/icons/application/*/apps/keepassxc.png
+       share/icons/application/scalable/apps/keepassxc.svgz
+       share/icons/application/*/apps/keepassxc-dark.png
+       share/icons/application/scalable/apps/keepassxc-dark.svgz
+       share/icons/application/*/apps/keepassxc-locked.png
+       share/icons/application/scalable/apps/keepassxc-locked.svgz
+       share/icons/application/*/mimetypes/application-x-keepassxc.png
+       share/icons/application/scalable/mimetypes/application-x-keepassxc.svgz
+Copyright: 2016, Lorenzo Stella <lorenzo.stl@gmail.com>
+License: LGPL-2.1
+
+Files: share/icons/application/*/actions/auto-type.png
+       share/icons/application/*/actions/database-change-key.png
+       share/icons/application/*/actions/entry-clone.png
+       share/icons/application/*/actions/entry-edit.png
+       share/icons/application/*/actions/entry-new.png
+       share/icons/application/*/actions/password-generate.png
+       share/icons/database/C00_Password.png
+       share/icons/database/C01_Package_Network.png
+       share/icons/database/C02_MessageBox_Warning.png
+       share/icons/database/C03_Server.png
+       share/icons/database/C04_Klipper.png
+       share/icons/database/C05_Edu_Languages.png
+       share/icons/database/C06_KCMDF.png
+       share/icons/database/C07_Kate.png
+       share/icons/database/C08_Socket.png
+       share/icons/database/C09_Identity.png
+       share/icons/database/C10_Kontact.png
+       share/icons/database/C11_Camera.png
+       share/icons/database/C12_IRKickFlash.png
+       share/icons/database/C13_KGPG_Key3.png
+       share/icons/database/C14_Laptop_Power.png
+       share/icons/database/C15_Scanner.png
+       share/icons/database/C16_Mozilla_Firebird.png
+       share/icons/database/C17_CDROM_Unmount.png
+       share/icons/database/C18_Display.png
+       share/icons/database/C19_Mail_Generic.png
+       share/icons/database/C20_Misc.png
+       share/icons/database/C21_KOrganizer.png
+       share/icons/database/C22_ASCII.png
+       share/icons/database/C23_Icons.png
+       share/icons/database/C24_Connect_Established.png
+       share/icons/database/C25_Folder_Mail.png
+       share/icons/database/C26_FileSave.png
+       share/icons/database/C27_NFS_Unmount.png
+       share/icons/database/C28_QuickTime.png
+       share/icons/database/C29_KGPG_Term.png
+       share/icons/database/C30_Konsole.png
+       share/icons/database/C31_FilePrint.png
+       share/icons/database/C32_FSView.png
+       share/icons/database/C33_Run.png
+       share/icons/database/C34_Configure.png
+       share/icons/database/C35_KRFB.png
+       share/icons/database/C36_Ark.png
+       share/icons/database/C37_KPercentage.png
+       share/icons/database/C38_Samba_Unmount.png
+       share/icons/database/C39_History.png
+       share/icons/database/C40_Mail_Find.png
+       share/icons/database/C41_VectorGfx.png
+       share/icons/database/C42_KCMMemory.png
+       share/icons/database/C43_EditTrash.png
+       share/icons/database/C44_KNotes.png
+       share/icons/database/C45_Cancel.png
+       share/icons/database/C46_Help.png
+       share/icons/database/C47_KPackage.png
+       share/icons/database/C48_Folder.png
+       share/icons/database/C49_Folder_Blue_Open.png
+       share/icons/database/C50_Folder_Tar.png
+       share/icons/database/C51_Decrypted.png
+       share/icons/database/C52_Encrypted.png
+       share/icons/database/C53_Apply.png
+       share/icons/database/C54_Signature.png
+       share/icons/database/C55_Thumbnail.png
+       share/icons/database/C56_KAddressBook.png
+       share/icons/database/C57_View_Text.png
+       share/icons/database/C58_KGPG.png
+       share/icons/database/C59_Package_Development.png
+       share/icons/database/C60_KFM_Home.png
+       share/icons/database/C61_Services.png
+Copyright: 2003-2004, David Vignoni <david@icon-king.com>
+License: LGPL-2.1
+Comment: from Nuvola icon theme
+
+Files: share/icons/application/*/actions/entry-delete.png
+       share/icons/application/*/actions/group-delete.png
+       share/icons/application/*/actions/group-edit.png
+       share/icons/application/*/actions/group-new.png
+Copyright: 2003-2004, David Vignoni <david@icon-king.com>
+           2012, Felix Geyer <debfx@fobos.de>
+License: LGPL-2.1
+Comment: based on Nuvola icon theme
+
+Files: share/icons/application/*/actions/application-exit.png
+       share/icons/application/*/actions/configure.png
+       share/icons/application/*/actions/dialog-close.png
+       share/icons/application/*/actions/dialog-ok.png
+       share/icons/application/*/actions/document-close.png
+       share/icons/application/*/actions/document-edit.png
+       share/icons/application/*/actions/document-encrypt.png
+       share/icons/application/*/actions/document-new.png
+       share/icons/application/*/actions/document-open.png
+       share/icons/application/*/actions/document-save.png
+       share/icons/application/*/actions/document-save-as.png
+       share/icons/application/*/actions/edit-clear-locationbar-ltr.png
+       share/icons/application/*/actions/edit-clear-locationbar-rtl.png
+       share/icons/application/*/actions/password-copy.png
+       share/icons/application/*/actions/password-show-*.png
+       share/icons/application/*/actions/system-search.png
+       share/icons/application/*/actions/username-copy.png
+       share/icons/application/*/status/dialog-error.png
+       share/icons/application/*/status/dialog-information.png
+       share/icons/application/*/status/dialog-warning.png
+       share/icons/svg/*.svgz
+Copyright: 2007, Nuno Pinheiro <nuno@oxygen-icons.org>
+           2007, David Vignoni <david@icon-king.com>
+           2007, David Miller <miller@oxygen-icons.org>
+           2007, Johann Ollivier Lapeyre <johann@oxygen-icons.org>
+           2007, Kenneth Wimer <kwwii@bootsplash.org>
+           2007, Riccardo Iaconelli <riccardo@oxygen-icons.org>
+License: LGPL-3+
+Comment: from Oxygen icon theme (http://www.oxygen-icons.org/)
+
+Files: share/icons/database/C62_Tux.png
+       share/icons/database/C63_Feather.png
+       share/icons/database/C64_Apple.png
+       share/icons/database/C67_Certificate.png
+       share/icons/database/C68_BlackBerry.png
+Copyright: Mairin Duffy
+           Sarah Owens
+           James Birkett
+           Dominik Reichl
+License: CC0
+Comment: C62_Tux.png from https://openclipart.org/detail/103855
+         C63_Feather.png from http://openclipart.org/detail/122017
+         C64_Apple.png based on http://openclipart.org/detail/24319
+         C67_Certificate.png based on https://openclipart.org/detail/16729
+         C68_BlackBerry.png from https://openclipart.org/detail/4465
+
+Files: share/icons/database/C65_W.png
+       share/icons/database/C66_Money.png
+Copyright: none
+License: public-domain
+ In the public domain.
+
+Files: src/streams/qtiocompressor.*
+       src/streams/QtIOCompressor
+       tests/modeltest.*
+Copyright: 2009-2012, Nokia Corporation and/or its subsidiary(-ies)
+License: LGPL-2.1 or GPL-3
+
+Files: cmake/GetGitRevisionDescription.cmake*
+Copyright: 2009-2010, Iowa State University
+License: Boost-1.0
+
+Files: src/zxcvbn/zxcvbn.*
+Copyright: 2015, Tony Evans
+           2016, KeePassXC Team
+License: BSD-3-clause
+
+License: GPL-2
+ This program is free software; you can redistribute it
+ and/or modify it under the terms of the GNU General Public
+ License as published by the Free Software Foundation; either
+ version 2 of the License.
+ .
+ This program is distributed in the hope that it will be
+ useful, but WITHOUT ANY WARRANTY; without even the implied
+ warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
+ PURPOSE.  See the GNU General Public License for more
+ details.
+ .
+ You should have received a copy of the GNU General Public
+ License along with this package; if not, write to the Free
+ Software Foundation, Inc., 51 Franklin St, Fifth Floor,
+ Boston, MA  02110-1301 USA
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 2 can be found in the file
+ `/usr/share/common-licenses/GPL-2'.
+
+License: GPL-3
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 3 can be found in the file
+ `/usr/share/common-licenses/GPL-3'.
+
+License: BSD-3-clause
+ Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions
+ are met:
+ .
+ 1. Redistributions of source code must retain the copyright
+    notice, this list of conditions and the following disclaimer.
+ 2. Redistributions in binary form must reproduce the copyright
+    notice, this list of conditions and the following disclaimer in the
+    documentation and/or other materials provided with the distribution.
+ 3. The name of the author may not be used to endorse or promote products
+    derived from this software without specific prior written permission.
+ .
+ THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR
+ IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+ OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+ IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,
+ INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+ NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+ (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
+ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+License: LGPL-2.1
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Lesser General Public
+ License as published by the Free Software Foundation; either
+ version 2.1 of the License.
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Lesser General Public License for more details.
+ .
+ You should have received a copy of the GNU Lesser General Public
+ License along with this library; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+
+License: LGPL-3+
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Lesser General Public
+ License as published by the Free Software Foundation; either
+ version 3.0 of the License, or (at your option) any later version.
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+ Lesser General Public License for more details.
+ You should have received a copy of the GNU Lesser General Public
+ License along with this library.
+ .
+ On Debian systems, the full text of the GNU Lesser General Public
+ License version 3 can be found in the file
+ `/usr/share/common-licenses/LGPL-3'.
+
+License: CC0
+ Creative Commons CC0 1.0 Universal
+ .
+ CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
+ LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
+ ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION
+ ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE
+ USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER, AND
+ DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM THE USE OF THIS DOCUMENT
+ OR THE INFORMATION OR WORKS PROVIDED HEREUNDER.
+ .
+ Statement of Purpose
+ .
+ The laws of most jurisdictions throughout the world automatically confer
+ exclusive Copyright and Related Rights (defined below) upon the creator
+ and subsequent owner(s) (each and all, an "owner") of an original work
+ of authorship and/or a database (each, a "Work").
+ .
+ Certain owners wish to permanently relinquish those rights to a Work for
+ the purpose of contributing to a commons of creative, cultural and
+ scientific works ("Commons") that the public can reliably and without
+ fear of later claims of infringement build upon, modify, incorporate in
+ other works, reuse and redistribute as freely as possible in any form
+ whatsoever and for any purposes, including without limitation commercial
+ purposes. These owners may contribute to the Commons to promote the
+ ideal of a free culture and the further production of creative, cultural
+ and scientific works, or to gain reputation or greater distribution for
+ their Work in part through the use and efforts of others.
+ .
+ For these and/or other purposes and motivations, and without any
+ expectation of additional consideration or compensation, the person
+ associating CC0 with a Work (the "Affirmer"), to the extent that he or
+ she is an owner of Copyright and Related Rights in the Work, voluntarily
+ elects to apply CC0 to the Work and publicly distribute the Work under
+ its terms, with knowledge of his or her Copyright and Related Rights in
+ the Work and the meaning and intended legal effect of CC0 on those
+ rights.
+ .
+ 1. Copyright and Related Rights. A Work made available under CC0 may be
+ protected by copyright and related or neighboring rights ("Copyright and
+ Related Rights"). Copyright and Related Rights include, but are not
+ limited to, the following:
+ .
+ i. the right to reproduce, adapt, distribute, perform, display,
+ communicate, and translate a Work;
+ .
+ ii. moral rights retained by the original author(s) and/or performer(s);
+ .
+ iii. publicity and privacy rights pertaining to a person's image or
+ likeness depicted in a Work;
+ .
+ iv. rights protecting against unfair competition in regards to a Work,
+ subject to the limitations in paragraph 4(a), below;
+ .
+ v. rights protecting the extraction, dissemination, use and reuse of
+ data in a Work;
+ .
+ vi. database rights (such as those arising under Directive 96/9/EC of
+ the European Parliament and of the Council of 11 March 1996 on the legal
+ protection of databases, and under any national implementation thereof,
+ including any amended or successor version of such directive); and
+ .
+ vii. other similar, equivalent or corresponding rights throughout the
+ world based on applicable law or treaty, and any national
+ implementations thereof.
+ .
+ 2. Waiver. To the greatest extent permitted by, but not in contravention
+ of, applicable law, Affirmer hereby overtly, fully, permanently,
+ irrevocably and unconditionally waives, abandons, and surrenders all of
+ Affirmer's Copyright and Related Rights and associated claims and causes
+ of action, whether now known or unknown (including existing as well as
+ future claims and causes of action), in the Work (i) in all territories
+ worldwide, (ii) for the maximum duration provided by applicable law or
+ treaty (including future time extensions), (iii) in any current or
+ future medium and for any number of copies, and (iv) for any purpose
+ whatsoever, including without limitation commercial, advertising or
+ promotional purposes (the "Waiver"). Affirmer makes the Waiver for the
+ benefit of each member of the public at large and to the detriment of
+ Affirmer's heirs and successors, fully intending that such Waiver shall
+ not be subject to revocation, rescission, cancellation, termination, or
+ any other legal or equitable action to disrupt the quiet enjoyment of
+ the Work by the public as contemplated by Affirmer's express Statement
+ of Purpose.
+ .
+ 3. Public License Fallback. Should any part of the Waiver for any reason
+ be judged legally invalid or ineffective under applicable law, then the
+ Waiver shall be preserved to the maximum extent permitted taking into
+ account Affirmer's express Statement of Purpose. In addition, to the
+ extent the Waiver is so judged Affirmer hereby grants to each affected
+ person a royalty-free, non transferable, non sublicensable, non
+ exclusive, irrevocable and unconditional license to exercise Affirmer's
+ Copyright and Related Rights in the Work (i) in all territories
+ worldwide, (ii) for the maximum duration provided by applicable law or
+ treaty (including future time extensions), (iii) in any current or
+ future medium and for any number of copies, and (iv) for any purpose
+ whatsoever, including without limitation commercial, advertising or
+ promotional purposes (the "License"). The License shall be deemed
+ effective as of the date CC0 was applied by Affirmer to the Work. Should
+ any part of the License for any reason be judged legally invalid or
+ ineffective under applicable law, such partial invalidity or
+ ineffectiveness shall not invalidate the remainder of the License, and
+ in such case Affirmer hereby affirms that he or she will not (i)
+ exercise any of his or her remaining Copyright and Related Rights in the
+ Work or (ii) assert any associated claims and causes of action with
+ respect to the Work, in either case contrary to Affirmer's express
+ Statement of Purpose.
+ .
+ 4. Limitations and Disclaimers.
+ .
+ a. No trademark or patent rights held by Affirmer are waived, abandoned,
+ surrendered, licensed or otherwise affected by this document.
+ .
+ b. Affirmer offers the Work as-is and makes no representations or
+ warranties of any kind concerning the Work, express, implied, statutory
+ or otherwise, including without limitation warranties of title,
+ merchantability, fitness for a particular purpose, non infringement, or
+ the absence of latent or other defects, accuracy, or the present or
+ absence of errors, whether or not discoverable, all to the greatest
+ extent permissible under applicable law.
+ .
+ c. Affirmer disclaims responsibility for clearing rights of other
+ persons that may apply to the Work or any use thereof, including without
+ limitation any person's Copyright and Related Rights in the Work.
+ Further, Affirmer disclaims responsibility for obtaining any necessary
+ consents, permissions or other rights required for any use of the Work.
+ .
+ d. Affirmer understands and acknowledges that Creative Commons is not a
+ party to this document and has no duty or obligation with respect to
+ this CC0 or use of the Work.
+
+License: Boost-1.0
+ Boost Software License - Version 1.0 - August 17th, 2003
+ .
+ Permission is hereby granted, free of charge, to any person or organization
+ obtaining a copy of the software and accompanying documentation covered by
+ this license (the "Software") to use, reproduce, display, distribute,
+ execute, and transmit the Software, and to prepare derivative works of the
+ Software, and to permit third-parties to whom the Software is furnished to
+ do so, all subject to the following:
+ .
+ The copyright notices in the Software and this entire statement, including
+ the above license grant, this restriction and the following disclaimer,
+ must be included in all copies of the Software, in whole or in part, and
+ all derivative works of the Software, unless such copies or derivative
+ works are solely in the form of machine-executable object code generated by
+ a source language processor.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT
+ SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE
+ FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE,
+ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+ DEALINGS IN THE SOFTWARE.
