@@ -1,7 +1,0 @@
-# See uscan(1) for format
-# Compulsory line, this is a version 3 file
-version=3
-
-opts="filenamemangle=s/.+\/v?(\d\S+)\.tar\.gz/keepassxc-$1\.tar\.gz/,uversionmangle=s/(\d)[_\.\-\+]?((RC|rc|pre|dev|beta|alpha)\d*)$/$1~$2/" \
-  https://github.com/keepassxreboot/keepassxc/releases .*/v?(\d\S+)\.tar\.gz
-
