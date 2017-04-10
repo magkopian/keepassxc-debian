@@ -1,3 +1,9 @@
+keepassxc (2.1.4-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Manolis Agkopian <m.agkopian@gmail.com>  Mon, 10 Apr 2017 11:32:25 +0300
+
 keepassxc (2.1.3-1) unstable; urgency=low
 
   * New upstream release

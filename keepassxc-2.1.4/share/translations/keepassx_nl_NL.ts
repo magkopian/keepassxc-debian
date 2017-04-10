@@ -1,260 +1,261 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="zh_CN" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="nl_NL" version="2.1">
 <context>
     <name>AboutDialog</name>
     <message>
         <source>Revision</source>
-        <translation>修改</translation>
+        <translation>Revisie</translation>
     </message>
     <message>
         <source>Using:</source>
-        <translation>使用:</translation>
+        <translation>Maakt gebruik van:</translation>
     </message>
     <message>
         <source>About KeePassXC</source>
-        <translation>关于 KeePassXC</translation>
+        <translation>Over KeePassXC</translation>
     </message>
     <message>
         <source>Extensions:
 </source>
-        <translation>扩展：
+        <translation>Extensies:
 </translation>
     </message>
     <message>
         <source>KeePassXC is distributed under the terms of the GNU General Public License (GPL) version 2 or (at your option) version 3.</source>
-        <translation>KeePassXC 使用的是第 2 版 GNU 通用公共授权协议(GPL)(你可以根据需要选用第 3 版).</translation>
+        <translation>KeePassXC wordt verspreid onder de voorwaarden van de GNU General Public License (GPL) versie 2 of (als u wenst) versie 3.</translation>
     </message>
 </context>
 <context>
     <name>AccessControlDialog</name>
     <message>
         <source>Remember this decision</source>
-        <translation type="unfinished"/>
+        <translation>Deze keuze onthouden</translation>
     </message>
     <message>
         <source>Allow</source>
-        <translation>允许</translation>
+        <translation>Toestaan</translation>
     </message>
     <message>
         <source>Deny</source>
-        <translation>拒绝</translation>
+        <translation>Weigeren</translation>
     </message>
     <message>
         <source>%1 has requested access to passwords for the following item(s).
 Please select whether you want to allow access.</source>
-        <translation type="unfinished"/>
+        <translation>%1 vraagt toegang tot uw wachtwoorden voor het/de volgende item(s).
+Geef aan of u toegang wilt toestaan of niet.</translation>
     </message>
     <message>
         <source>KeePassXC HTTP Confirm Access</source>
-        <translation type="unfinished"/>
+        <translation>KeePassXC HTTP-toegang bevestigen</translation>
     </message>
 </context>
 <context>
     <name>AutoType</name>
     <message>
         <source>Couldn&apos;t find an entry that matches the window title:</source>
-        <translation>无法找到符合窗口标题的项目</translation>
+        <translation>Kon geen element vinden dat overeenkomt met de venstertitel:</translation>
     </message>
     <message>
         <source>Auto-Type - KeePassXC</source>
-        <translation>KeePassXC - 自动输入</translation>
+        <translation>Auto-typen - KeePassXC</translation>
     </message>
 </context>
 <context>
     <name>AutoTypeAssociationsModel</name>
     <message>
         <source>Window</source>
-        <translation>窗口</translation>
+        <translation>Venster</translation>
     </message>
     <message>
         <source>Sequence</source>
-        <translation>顺序</translation>
+        <translation>Volgorde</translation>
     </message>
     <message>
         <source>Default sequence</source>
-        <translation>默认顺序</translation>
+        <translation>Standaardvolgorde</translation>
     </message>
 </context>
 <context>
     <name>AutoTypeSelectDialog</name>
     <message>
         <source>Select entry to Auto-Type:</source>
-        <translation>选择自动输入的项目</translation>
+        <translation>Kies item om automatisch te typen:</translation>
     </message>
     <message>
         <source>Auto-Type - KeePassXC</source>
-        <translation>KeePassXC - 自动输入</translation>
+        <translation>Auto-typen - KeePassXC</translation>
     </message>
 </context>
 <context>
     <name>ChangeMasterKeyWidget</name>
     <message>
         <source>Password</source>
-        <translation>密码</translation>
+        <translation>Wachtwoord</translation>
     </message>
     <message>
         <source>Enter password:</source>
-        <translation>输入密码：</translation>
+        <translation>Wachtwoord invoeren:</translation>
     </message>
     <message>
         <source>Repeat password:</source>
-        <translation>重复密码：</translation>
+        <translation>Wachtwoord herhalen:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>浏览</translation>
+        <translation>Bladeren</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation>创建</translation>
+        <translation>Creëren</translation>
     </message>
     <message>
         <source>Key files</source>
-        <translation>秘钥文件</translation>
+        <translation>Sleutelbestanden</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>所有文件</translation>
+        <translation>Alle bestanden</translation>
     </message>
     <message>
         <source>Create Key File...</source>
-        <translation>创建秘钥文件...</translation>
+        <translation>Sleutelbestand creëren...</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <source>Unable to create Key File : </source>
-        <translation>无法创建秘钥文件：</translation>
+        <translation>Het creëren van het sleutelbestand is mislukt:</translation>
     </message>
     <message>
         <source>Select a key file</source>
-        <translation>选择一个秘钥文件</translation>
+        <translation>Kies een sleutelbestand</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation>问题</translation>
+        <translation>Vraag</translation>
     </message>
     <message>
         <source>Do you really want to use an empty string as password?</source>
-        <translation>你确定要使用空密码？</translation>
+        <translation>Weet u zeker dat u een leeg veld als wachtwoord wilt gebruiken?</translation>
     </message>
     <message>
         <source>Different passwords supplied.</source>
-        <translation>你输入了不同的密码</translation>
+        <translation>U heeft verschillende wachtwoorden opgegeven.</translation>
     </message>
     <message>
         <source>Failed to set key file</source>
-        <translation>设置秘钥文件失败</translation>
+        <translation>Het instellen van het sleutelbestand is mislukt</translation>
     </message>
     <message>
         <source>Failed to set %1 as the Key file:
 %2</source>
-        <translation>无法设置 %1 为秘钥文件:
+        <translation>Het instellen van %1 als sleutelbestand is mislukt:
 %2</translation>
     </message>
     <message>
         <source>&amp;Key file</source>
-        <translation>秘钥文件</translation>
+        <translation>&amp;Sleutelbestand</translation>
     </message>
 </context>
 <context>
     <name>DatabaseOpenWidget</name>
     <message>
         <source>Enter master key</source>
-        <translation>输入主密码</translation>
+        <translation>Hoofdsleutel invoeren</translation>
     </message>
     <message>
         <source>Key File:</source>
-        <translation>秘钥文件：</translation>
+        <translation>Sleutelbestand:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>密码：</translation>
+        <translation>Wachtwoord:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>浏览</translation>
+        <translation>Bladeren</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <source>Unable to open the database.</source>
-        <translation>无法打开数据库</translation>
+        <translation>Niet mogelijk om de database te openen.</translation>
     </message>
     <message>
         <source>Can&apos;t open key file</source>
-        <translation>无法打开秘钥文件</translation>
+        <translation>Niet mogelijk om het sleutelbestand te openen</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>所有文件</translation>
+        <translation>Alle bestanden</translation>
     </message>
     <message>
         <source>Key files</source>
-        <translation>秘钥文件</translation>
+        <translation>Sleutelbestanden</translation>
     </message>
     <message>
         <source>Select key file</source>
-        <translation>选择秘钥文件</translation>
+        <translation>Kies sleutelbestand</translation>
     </message>
 </context>
 <context>
     <name>DatabaseRepairWidget</name>
     <message>
         <source>Repair database</source>
-        <translation>修复数据库</translation>
+        <translation>Database repareren</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <source>Can&apos;t open key file</source>
-        <translation>无法打开密钥文件</translation>
+        <translation>Niet mogelijk om het sleutelbestand te openen</translation>
     </message>
     <message>
         <source>Database opened fine. Nothing to do.</source>
-        <translation>数据库打开正常。没什么可做的。</translation>
+        <translation>Database werd zonder problemen geopend. Niets te doen.</translation>
     </message>
     <message>
         <source>Unable to open the database.</source>
-        <translation>无法打开数据库</translation>
+        <translation>Niet mogelijk om de database te openen.</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>成功</translation>
+        <translation>Gelukt</translation>
     </message>
     <message>
         <source>The database has been successfully repaired
 You can now save it.</source>
-        <translation>数据库已经修复成功
-现在可以保存数据库</translation>
+        <translation>De database is met succes gerepareerd
+U kunt deze nu opslaan.</translation>
     </message>
     <message>
         <source>Unable to repair the database.</source>
-        <translation>无法修复数据库</translation>
+        <translation>Niet mogelijk om de database te repareren.</translation>
     </message>
 </context>
 <context>
     <name>DatabaseSettingsWidget</name>
     <message>
         <source>Database name:</source>
-        <translation>数据库名称：</translation>
+        <translation>Naam van de database:</translation>
     </message>
     <message>
         <source>Database description:</source>
-        <translation>数据库介绍：</translation>
+        <translation>Beschrijving van de database:</translation>
     </message>
     <message>
         <source>Transform rounds:</source>
-        <translation>加密转换次数：</translation>
+        <translation>Transformatierondes:</translation>
     </message>
     <message>
         <source>Default username:</source>
-        <translation>默认用户名：</translation>
+        <translation>Standaard gebruikersnaam:</translation>
     </message>
     <message>
         <source> MiB</source>
@@ -262,401 +263,401 @@ You can now save it.</source>
     </message>
     <message>
         <source>Benchmark</source>
-        <translation>基准测试</translation>
+        <translation>Test</translation>
     </message>
     <message>
         <source>Max. history items:</source>
-        <translation>最大历史记录数：</translation>
+        <translation>Max. items in geschiedenis:</translation>
     </message>
     <message>
         <source>Max. history size:</source>
-        <translation>最大历史记录大小：</translation>
+        <translation>Max. geschiedenisgrootte:</translation>
     </message>
     <message>
         <source>Use recycle bin</source>
-        <translation>使用回收站</translation>
+        <translation>Prullenbak gebruiken</translation>
     </message>
 </context>
 <context>
     <name>DatabaseTabWidget</name>
     <message>
         <source>Root</source>
-        <translation>根</translation>
+        <translation>Alles</translation>
     </message>
     <message>
         <source>KeePass 2 Database</source>
-        <translation>KeePass 2 数据库</translation>
+        <translation>KeePass 2-database</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>所有文件</translation>
+        <translation>Alle bestanden</translation>
     </message>
     <message>
         <source>Open database</source>
-        <translation>打开数据库</translation>
+        <translation>Database openen</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>警告</translation>
+        <translation>Waarschuwing</translation>
     </message>
     <message>
         <source>File not found!</source>
-        <translation>找不到文件！</translation>
+        <translation>Bestand niet gevonden!</translation>
     </message>
     <message>
         <source>Open KeePass 1 database</source>
-        <translation>打开 KeePass 1 数据库</translation>
+        <translation>KeePass 1-database openen</translation>
     </message>
     <message>
         <source>KeePass 1 database</source>
-        <translation>KeePass 1 数据库</translation>
+        <translation>KeePass 1-database</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation>所有文件 (*)</translation>
+        <translation>Alle bestanden (*)</translation>
     </message>
     <message>
         <source>Close?</source>
-        <translation>关闭？</translation>
+        <translation>Sluiten?</translation>
     </message>
     <message>
         <source>Save changes?</source>
-        <translation>保存修改？</translation>
+        <translation>Wijzigingen opslaan?</translation>
     </message>
     <message>
         <source>&quot;%1&quot; was modified.
 Save changes?</source>
-        <translation>&quot;%1&quot; 已被修改。
-要保存吗？</translation>
+        <translation>&quot;%1&quot; is gewijzigd.
+Opslaan?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <source>Writing the database failed.</source>
-        <translation>数据库写入失败</translation>
+        <translation>Het opslaan van de database is mislukt.</translation>
     </message>
     <message>
         <source>Save database as</source>
-        <translation>另存数据库为</translation>
+        <translation>Database opslaan als</translation>
     </message>
     <message>
         <source>New database</source>
-        <translation>新建数据库</translation>
+        <translation>Nieuwe database</translation>
     </message>
     <message>
         <source>locked</source>
-        <translation>已锁</translation>
+        <translation>vergrendeld</translation>
     </message>
     <message>
         <source>Lock database</source>
-        <translation>锁住数据库</translation>
+        <translation>Database vergrendelen</translation>
     </message>
     <message>
         <source>Can't lock the database as you are currently editing it.
 Please press cancel to finish your changes or discard them.</source>
-        <translation>不能锁住正在编辑的数据库。
-选择取消继续编辑, 确定忽略编辑。</translation>
+        <translation>Kan de database niet vergrendelen omdat u deze momenteel aan het bewerken bent.
+Druk op annuleren om uw wijzigingen aan te passen of gooi de wijzigingen weg.</translation>
     </message>
     <message>
         <source>This database has never been saved.
 You can save the database or stop locking it.</source>
-        <translation>数据库未保存。
-你可以保存数据库或者中止锁住它。</translation>
+        <translation>Deze database is nog niet opgeslagen.
+U kunt de database opslaan of het vergrendelen annuleren.</translation>
     </message>
     <message>
         <source>This database has been modified.
 Do you want to save the database before locking it?
 Otherwise your changes are lost.</source>
-        <translation>数据库已经更改。
-你想在锁住它以前保存修改吗？
-否则修改将会丢失。</translation>
+        <translation>Deze database is gewijzigd.
+Wilt u de database opslaan voordat u deze vergrendelt?
+Zo nee, dan gaan de wijzigingen verloren.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is in edit mode.
 Discard changes and close anyway?</source>
-        <translation>正在编辑 &quot;%1&quot; 。
-仍然要放弃修改并且关闭吗？</translation>
+        <translation>&quot;%1&quot; is gewijzigd.
+Wijzigingen ongedaan maken en doorgaan met sluiten?</translation>
     </message>
     <message>
         <source>Export database to CSV file</source>
-        <translation>把数据库导出为CSV格式文件</translation>
+        <translation>Database exporteren naar CSV-bestand</translation>
     </message>
     <message>
         <source>CSV file</source>
-        <translation>CSV格式文件</translation>
+        <translation>CSV-bestand</translation>
     </message>
     <message>
         <source>Writing the CSV file failed.</source>
-        <translation>写入CSV格式文件失败</translation>
+        <translation>Schrijven van het CSV-bestand mislukt.</translation>
     </message>
     <message>
         <source>Unable to open the database.</source>
-        <translation>无法打开数据库。</translation>
+        <translation>Het is niet mogelijk om de database te openen.</translation>
     </message>
     <message>
         <source>Merge database</source>
-        <translation>合并数据库</translation>
+        <translation>Database samenvoegen</translation>
     </message>
     <message>
         <source>The database you are trying to save as is locked by another instance of KeePassXC.
 Do you want to save it anyway?</source>
-        <translation>你要保存的数据库已被另一个KeePassXC锁住。
-你仍然要保存吗？</translation>
+        <translation>De database die u op probeert te slaan is vergrendeld door een andere instantie van KeePassXC.
+Wilt u toch doorgaan met opslaan?</translation>
     </message>
     <message>
         <source>Passwords</source>
-        <translation type="unfinished"/>
+        <translation>Wachtwoorden</translation>
     </message>
     <message>
         <source>Database already opened</source>
-        <translation>数据库已经打开</translation>
+        <translation>Database is al geopend</translation>
     </message>
     <message>
         <source>The database you are trying to open is locked by another instance of KeePassXC.
 
 Do you want to open it anyway?</source>
-        <translation>你要打开的数据库已被另一个KeePassXC锁住。
-你仍然要打开吗？</translation>
+        <translation>De database die u probeert te openen is vergrendeld door een andere instantie van KeePassXC.
+Wilt u toch doorgaan met openen?</translation>
     </message>
     <message>
         <source>Open read-only</source>
-        <translation>已只读方式打开</translation>
+        <translation>Openen als alleen-lezen</translation>
     </message>
 </context>
 <context>
     <name>DatabaseWidget</name>
     <message>
         <source>Change master key</source>
-        <translation>更改主密码</translation>
+        <translation>Wijzig hoofdsleutel</translation>
     </message>
     <message>
         <source>Delete entry?</source>
-        <translation>删除项目？</translation>
+        <translation>Element verwijderen?</translation>
     </message>
     <message>
         <source>Do you really want to delete the entry &quot;%1&quot; for good?</source>
-        <translation>你确定永远删除 &quot;%1&quot; 项目吗？</translation>
+        <translation>Weet u zeker dat u het element &quot;%1&quot; wilt verwijderen?</translation>
     </message>
     <message>
         <source>Delete entries?</source>
-        <translation>删除项目？</translation>
+        <translation>Elementen wissen?</translation>
     </message>
     <message>
         <source>Do you really want to delete %1 entries for good?</source>
-        <translation>你确定永远删除 &quot;%1&quot; 项目吗？</translation>
+        <translation>Weet u zeker dat u %1 elementen wilt wissen?</translation>
     </message>
     <message>
         <source>Move entries to recycle bin?</source>
-        <translation>移动项目到垃圾桶？</translation>
+        <translation>Elementen naar de prullenbak verplaatsen?</translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to move %n entry(s) to the recycle bin?</source>
-        <translation><numerusform>你确定要将 %n 个项目移到垃圾桶？</numerusform></translation>
+        <translation><numerusform>Weet u zeker dat u %n element naar de prullenbak wilt verplaatsen?</numerusform><numerusform>Weet u zeker dat u %n elementen naar de prullenbak wilt verplaatsen?</numerusform></translation>
     </message>
     <message>
         <source>Delete group?</source>
-        <translation>删除群组？</translation>
+        <translation>Groep verwijderen?</translation>
     </message>
     <message>
         <source>Do you really want to delete the group &quot;%1&quot; for good?</source>
-        <translation>你确定永远删除 &quot;%1&quot; 群组吗？</translation>
+        <translation>Weet u zeker dat u de groep &quot;%1&quot; wilt verwijderen?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <source>Unable to calculate master key</source>
-        <translation>无法计算主密码</translation>
+        <translation>Niet mogelijk om hoofdsleutel te berekenen</translation>
     </message>
     <message>
         <source>Move entry to recycle bin?</source>
-        <translation>移动项目到回收站？</translation>
+        <translation>Wilt u het item naar de prullenbak verplaatsen?</translation>
     </message>
     <message>
         <source>Do you really want to move entry &quot;%1&quot; to the recycle bin?</source>
-        <translation>是否删除 &quot;%1&quot; 项目到回收站？</translation>
+        <translation>Weet u zeker dat u item &quot;%1&quot; naar de prullenbak wilt verplaatsen?</translation>
     </message>
     <message>
         <source>Searching...</source>
-        <translation>搜索中...</translation>
+        <translation>Bezig met zoeken...</translation>
     </message>
     <message>
         <source>No current database.</source>
-        <translation>没有当前的数据库。</translation>
+        <translation>Geen huidige database.</translation>
     </message>
     <message>
         <source>No source database, nothing to do.</source>
-        <translation>没有当前的数据库。没什么可做的。</translation>
+        <translation>Geen brondatabase; er valt niks te doen.</translation>
     </message>
     <message>
         <source>Search Results (%1)</source>
-        <translation>搜索结果 (%1)</translation>
+        <translation>Zoekresultaten (%1)</translation>
     </message>
     <message>
         <source>No Results</source>
-        <translation>无结果</translation>
+        <translation>Geen resultaten</translation>
     </message>
     <message>
         <source>Execute command?</source>
-        <translation>执行命令？</translation>
+        <translation>Commando uitvoeren?</translation>
     </message>
     <message>
         <source>Do you really want to execute the following command?&lt;br&gt;&lt;br&gt;%1&lt;br&gt;</source>
-        <translation>你确定要执行以下命令？&lt;br&gt;&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Weet u zeker dat u het volgende commando wilt uitvoeren? &lt;br&gt;&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Remember my choice</source>
-        <translation>记住这次更改</translation>
+        <translation>Mijn keuze onthouden</translation>
     </message>
     <message>
         <source>Autoreload Request</source>
-        <translation>自动加载请求</translation>
+        <translation>Automatisch herladen-verzoeken</translation>
     </message>
     <message>
         <source>The database file has changed. Do you want to load the changes?</source>
-        <translation>数据库文件已更改。是否重新载入？</translation>
+        <translation>Het database-bestand is gewijzigd. Wilt u de wijzigingen laden?</translation>
     </message>
     <message>
         <source>Merge Request</source>
-        <translation>合并请求</translation>
+        <translation>Samenvoegingsverzoek</translation>
     </message>
     <message>
         <source>The database file has changed and you have unsaved changes.Do you want to merge your changes?</source>
-        <translation>数据库文件已更改，您有未保存的更改。是否合并您的更改？</translation>
+        <translation>Het database-bestand is gewijzigd en u heeft niet-opgeslagen wijzigingen. Wilt u uw wijzigingen samenvoegen?</translation>
     </message>
     <message>
         <source>Autoreload Failed</source>
-        <translation>自动加载失败</translation>
+        <translation>Automatisch herladen mislukt</translation>
     </message>
     <message>
         <source>Could not open the new database file while attempting to autoreload this database.</source>
-        <translation>在尝试 autoreload 此数据库不打开新的数据库文件。</translation>
+        <translation>De nieuwe database kan niet worden geopend tijdens het automatisch herladen van deze database.</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidget</name>
     <message>
         <source>Entry</source>
-        <translation>项目</translation>
+        <translation>Element</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation>高级</translation>
+        <translation>Geavanceerd</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>图标</translation>
+        <translation>Icoon</translation>
     </message>
     <message>
         <source>Auto-Type</source>
-        <translation>自动输入</translation>
+        <translation>Auto-typen - KeePassX</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>属性</translation>
+        <translation>Eigenschappen</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>历史记录</translation>
+        <translation>Geschiedenis</translation>
     </message>
     <message>
         <source>Entry history</source>
-        <translation>项目历史</translation>
+        <translation>Geschiedenis van element</translation>
     </message>
     <message>
         <source>Add entry</source>
-        <translation>添加项目</translation>
+        <translation>Element toevoegen</translation>
     </message>
     <message>
         <source>Edit entry</source>
-        <translation>编辑项目</translation>
+        <translation>Element wijzigen</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <source>Different passwords supplied.</source>
-        <translation>你输入了不同的密码</translation>
+        <translation>Verschillende wachtwoorden opgegeven.</translation>
     </message>
     <message>
         <source>New attribute</source>
-        <translation>新建属性</translation>
+        <translation>Nieuwe eigenschap</translation>
     </message>
     <message>
         <source>Select file</source>
-        <translation>选择文件</translation>
+        <translation>Kies bestand</translation>
     </message>
     <message>
         <source>Unable to open file</source>
-        <translation>无法打开文件</translation>
+        <translation>Niet mogelijk om bestand te openen</translation>
     </message>
     <message>
         <source>Save attachment</source>
-        <translation>保存附件</translation>
+        <translation>Bijlage opslaan</translation>
     </message>
     <message>
         <source>Unable to save the attachment:
 </source>
-        <translation>无法保存附件：
+        <translation>Niet mogelijk om de bijlage op te slaan:
 </translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation>明天</translation>
+        <translation>Morgen</translation>
     </message>
     <message numerus="yes">
         <source>%n week(s)</source>
-        <translation><numerusform>%n 周</numerusform></translation>
+        <translation><numerusform>%n week</numerusform><numerusform>%n weken</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n month(s)</source>
-        <translation><numerusform>%n 个月</numerusform></translation>
+        <translation><numerusform>%n maand</numerusform><numerusform>%n maanden</numerusform></translation>
     </message>
     <message>
         <source>1 year</source>
-        <translation>1 年</translation>
+        <translation>1 jaar</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidgetAdvanced</name>
     <message>
         <source>Additional attributes</source>
-        <translation>附加属性</translation>
+        <translation>Extra eigenschappen</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>添加</translation>
+        <translation>Toevoegen</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>编辑</translation>
+        <translation>Wijzigen</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>移除</translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <source>Attachments</source>
-        <translation>附件</translation>
+        <translation>Bijlagen</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>保存</translation>
+        <translation>Opslaan</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>打开</translation>
+        <translation>Open</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidgetAutoType</name>
     <message>
         <source>Enable Auto-Type for this entry</source>
-        <translation>打开此项目的自动输入</translation>
+        <translation>Auto-typen inschakelen voor dit element</translation>
     </message>
     <message>
         <source>+</source>
@@ -668,291 +669,291 @@ Do you want to open it anyway?</source>
     </message>
     <message>
         <source>Window title:</source>
-        <translation>窗口标题：</translation>
+        <translation>Venstertitel:</translation>
     </message>
     <message>
         <source>Inherit default Auto-Type sequence from the &amp;group</source>
-        <translation>从父群组继承默认的自动输入顺序</translation>
+        <translation>Erf standaard auto-typevolgorde van de &amp;groep</translation>
     </message>
     <message>
         <source>&amp;Use custom Auto-Type sequence:</source>
-        <translation>使用自定义自动输入顺序</translation>
+        <translation>&amp;Gebruik aangepaste auto-typevolgorde:</translation>
     </message>
     <message>
         <source>Use default se&amp;quence</source>
-        <translation>使用默认顺序</translation>
+        <translation>Gebruik standaardvolgorde</translation>
     </message>
     <message>
         <source>Set custo&amp;m sequence:</source>
-        <translation>设置自定义顺序</translation>
+        <translation>Stel aangepaste volgorde in:</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidgetHistory</name>
     <message>
         <source>Show</source>
-        <translation>显示</translation>
+        <translation>Tonen</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation>还原</translation>
+        <translation>Herstellen</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>删除</translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <source>Delete all</source>
-        <translation>全部删除</translation>
+        <translation>Alles verwijderen</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidgetMain</name>
     <message>
         <source>Title:</source>
-        <translation>标题：</translation>
+        <translation>Titel:</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation>用户名：</translation>
+        <translation>Gebruikersnaam:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>密码：</translation>
+        <translation>Wachtwoord:</translation>
     </message>
     <message>
         <source>Repeat:</source>
-        <translation>重复：</translation>
+        <translation>Herhalen:</translation>
     </message>
     <message>
         <source>URL:</source>
-        <translation>网址：</translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <source>Expires</source>
-        <translation>过期</translation>
+        <translation>Verloopt</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation>预设</translation>
+        <translation>Ingebouwd</translation>
     </message>
     <message>
         <source>Notes:</source>
-        <translation>备注：</translation>
+        <translation>Opmerkingen:</translation>
     </message>
 </context>
 <context>
     <name>EditGroupWidget</name>
     <message>
         <source>Group</source>
-        <translation>群组</translation>
+        <translation>Groep</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>图标</translation>
+        <translation>Icoon</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>属性</translation>
+        <translation>Eigenschappen</translation>
     </message>
     <message>
         <source>Add group</source>
-        <translation>添加群组</translation>
+        <translation>Groep toevoegen</translation>
     </message>
     <message>
         <source>Edit group</source>
-        <translation>编辑群组</translation>
+        <translation>Groep wijzigen</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation>启用</translation>
+        <translation>Inschakelen</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation>禁用</translation>
+        <translation>Uitschakelen</translation>
     </message>
     <message>
         <source>Inherit from parent group (%1)</source>
-        <translation>继承自父群组(%1)</translation>
+        <translation>Erf van bovenliggende groep (%1)</translation>
     </message>
 </context>
 <context>
     <name>EditGroupWidgetMain</name>
     <message>
         <source>Name</source>
-        <translation>名称</translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation>备注</translation>
+        <translation>Opmerkingen</translation>
     </message>
     <message>
         <source>Expires</source>
-        <translation>过期</translation>
+        <translation>Verloopt</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>搜索</translation>
+        <translation>Zoeken</translation>
     </message>
     <message>
         <source>Auto-type</source>
-        <translation>自动输入</translation>
+        <translation>Auto-typen</translation>
     </message>
     <message>
         <source>Use default auto-type sequence of parent group</source>
-        <translation>使用父群组默认顺序</translation>
+        <translation>Gebruik standaard auto-typevolgorde van bovenliggende groep</translation>
     </message>
     <message>
         <source>Set default auto-type sequence</source>
-        <translation>设置默认自动输入顺序</translation>
+        <translation>Stel standaard auto-typevolgorde in</translation>
     </message>
 </context>
 <context>
     <name>EditWidgetIcons</name>
     <message>
         <source>Add custom icon</source>
-        <translation>添加自定义图标</translation>
+        <translation>Voeg icoon toe</translation>
     </message>
     <message>
         <source>Delete custom icon</source>
-        <translation>删除自定义图标</translation>
+        <translation>Verwijder icoon</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation>图片</translation>
+        <translation>Afbeeldingen</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>所有文件</translation>
+        <translation>Alle bestanden</translation>
     </message>
     <message>
         <source>Select Image</source>
-        <translation>选择图片</translation>
+        <translation>Kies afbeelding</translation>
     </message>
     <message>
         <source>Can&apos;t delete icon!</source>
-        <translation>不能删除图标！</translation>
+        <translation>Kan icoon niet verwijderen!</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <source>Download favicon</source>
-        <translation>下载网站头像</translation>
+        <translation>Favicon downloaden</translation>
     </message>
     <message>
         <source>Unable to fetch favicon.</source>
-        <translation>无法获取网站头像</translation>
+        <translation>Favicon kan niet worden opgehaald.</translation>
     </message>
     <message>
         <source>Can&apos;t read icon</source>
-        <translation>无法读取图标</translation>
+        <translation>Kan icoon niet lezen</translation>
     </message>
     <message>
         <source>Can&apos;t delete icon. Still used by %1 items.</source>
-        <translation>%1 项目正在使用，无法删除图标。</translation>
+        <translation>Kan icoon niet verwijderen. Het wordt nog gebruikt door %1 elementen.</translation>
     </message>
     <message>
         <source>&amp;Use default icon</source>
-        <translation>使用默认图标</translation>
+        <translation>&amp;Gebruik standaardicoon</translation>
     </message>
     <message>
         <source>Use custo&amp;m icon</source>
-        <translation>使用自定义图标</translation>
+        <translation>Gebruik aangepast icoon</translation>
     </message>
 </context>
 <context>
     <name>EditWidgetProperties</name>
     <message>
         <source>Created:</source>
-        <translation>已创建：</translation>
+        <translation>Aangemaakt:</translation>
     </message>
     <message>
         <source>Modified:</source>
-        <translation>已修改：</translation>
+        <translation>Gewijzigd:</translation>
     </message>
     <message>
         <source>Accessed:</source>
-        <translation>已存取：</translation>
+        <translation>Gelezen:</translation>
     </message>
     <message>
         <source>Uuid:</source>
-        <translation>Uuid(通用唯一识别码):</translation>
+        <translation>Uuid:</translation>
     </message>
 </context>
 <context>
     <name>Entry</name>
     <message>
         <source> - Clone</source>
-        <translation>- 复制</translation>
+        <translation>- Kloon</translation>
     </message>
 </context>
 <context>
     <name>EntryAttributesModel</name>
     <message>
         <source>Name</source>
-        <translation>名称</translation>
+        <translation>Naam</translation>
     </message>
 </context>
 <context>
     <name>EntryHistoryModel</name>
     <message>
         <source>Last modified</source>
-        <translation>最后修改</translation>
+        <translation>Laatst gewijzigd</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>标题</translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>用户名</translation>
+        <translation>Gebruikersnaam</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation>网址</translation>
+        <translation>URL</translation>
     </message>
 </context>
 <context>
     <name>EntryModel</name>
     <message>
         <source>Group</source>
-        <translation>群组</translation>
+        <translation>Groep</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>标题</translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>用户名</translation>
+        <translation>Gebruikersnaam</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation>网址</translation>
+        <translation>URL</translation>
     </message>
 </context>
 <context>
     <name>Group</name>
     <message>
         <source>Recycle Bin</source>
-        <translation>垃圾桶</translation>
+        <translation>Prullenbak</translation>
     </message>
 </context>
 <context>
     <name>HttpPasswordGeneratorWidget</name>
     <message>
         <source>Length:</source>
-        <translation>长度：</translation>
+        <translation>Lengte:</translation>
     </message>
     <message>
         <source>Character Types</source>
-        <translation>字符类型</translation>
+        <translation>Tekens</translation>
     </message>
     <message>
         <source>Upper Case Letters</source>
-        <translation>大写英文字母</translation>
+        <translation>Hoofdletters</translation>
     </message>
     <message>
         <source>A-Z</source>
@@ -960,7 +961,7 @@ Do you want to open it anyway?</source>
     </message>
     <message>
         <source>Lower Case Letters</source>
-        <translation>小写英文字母</translation>
+        <translation>Kleine letters</translation>
     </message>
     <message>
         <source>a-z</source>
@@ -968,7 +969,7 @@ Do you want to open it anyway?</source>
     </message>
     <message>
         <source>Numbers</source>
-        <translation>数字</translation>
+        <translation>Cijfers</translation>
     </message>
     <message>
         <source>0-9</source>
@@ -976,7 +977,7 @@ Do you want to open it anyway?</source>
     </message>
     <message>
         <source>Special Characters</source>
-        <translation>特殊字符</translation>
+        <translation>Speciale tekens</translation>
     </message>
     <message>
         <source>/*_&amp; ...</source>
@@ -984,455 +985,458 @@ Do you want to open it anyway?</source>
     </message>
     <message>
         <source>Exclude look-alike characters</source>
-        <translation>去除相似的字符</translation>
+        <translation>Sluit op elkaar lijkende tekens uit</translation>
     </message>
     <message>
         <source>Ensure that the password contains characters from every group</source>
-        <translation>确保密码包含每种的字符</translation>
+        <translation>Zorg ervoor dat het wachtwoord tekens uit iedere groep bevat</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation>接受</translation>
+        <translation>Accepteren</translation>
     </message>
 </context>
 <context>
     <name>KeePass1OpenWidget</name>
     <message>
         <source>Import KeePass1 database</source>
-        <translation>导入 KeePass 1 数据库</translation>
+        <translation>Importeer Keepass 1-database</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <source>Unable to open the database.</source>
-        <translation>无法打开数据库。</translation>
+        <translation>Niet mogelijk om de database te openen.</translation>
     </message>
 </context>
 <context>
     <name>KeePass1Reader</name>
     <message>
         <source>Unable to read keyfile.</source>
-        <translation>无法读取秘钥文件。</translation>
+        <translation>Niet mogelijk om sleutelbestand te lezen</translation>
     </message>
     <message>
         <source>Not a KeePass database.</source>
-        <translation>不是KeePass 数据库。</translation>
+        <translation>Geen Keepass-database</translation>
     </message>
     <message>
         <source>Unsupported encryption algorithm.</source>
-        <translation>不支持的加密算法。</translation>
+        <translation>Niet-ondersteund encryptie-algoritme</translation>
     </message>
     <message>
         <source>Unsupported KeePass database version.</source>
-        <translation>不支持的KeePass 数据库版本。</translation>
+        <translation>Niet-ondersteunde versie van Keepass-database</translation>
     </message>
     <message>
         <source>Root</source>
-        <translation>根</translation>
+        <translation>Alles</translation>
     </message>
     <message>
         <source>Unable to calculate master key</source>
-        <translation>无法计算主密码</translation>
+        <translation>Niet mogelijk om hoofdsleutel te berekenen</translation>
     </message>
     <message>
         <source>Wrong key or database file is corrupt.</source>
-        <translation>秘钥错误或数据库损坏。</translation>
+        <translation>Verkeerde sleutel of corrupte database.</translation>
     </message>
 </context>
 <context>
     <name>KeePass2Reader</name>
     <message>
         <source>Not a KeePass database.</source>
-        <translation>不是KeePass 的数据库。</translation>
+        <translation>Geen Keepass-database.</translation>
     </message>
     <message>
         <source>Unsupported KeePass database version.</source>
-        <translation>不支持的KeePass 数据库版本。</translation>
+        <translation>Niet-ondersteunde versie van Keepass-database.</translation>
     </message>
     <message>
         <source>Wrong key or database file is corrupt.</source>
-        <translation>秘钥错误或数据库损坏。</translation>
+        <translation>Verkeerde sleutel of corrupte database.</translation>
     </message>
     <message>
         <source>Unable to calculate master key</source>
-        <translation>无法计算主密码</translation>
+        <translation>Niet mogelijk om hoofdsleutel te berekenen</translation>
     </message>
     <message>
         <source>The selected file is an old KeePass 1 database (.kdb).
 
 You can import it by clicking on Database &gt; 'Import KeePass 1 database'.
 This is a one-way migration. You won&apos;t be able to open the imported database with the old KeePassX 0.4 version.</source>
-        <translation>当前选择的文件是旧版本 KeePass 1 数据库（.kdb）。
-你可以通过点击 数据库 &gt; &apos;导入KeePass 1 数据库’ 来导入。
-这是不可逆的修改。导入后的数据库将无法由旧版的KeePassX 0.4版本打开。</translation>
+        <translation>Het gekozen bestand is een oude KeePass 1 database (.kdb).
+
+U kunt het importeren door te klikken op Database &gt; &apos;KeePass 1 database importeren&apos;.
+Deze actie is niet omkeerbaar. U kunt de geimporteerde database niet meer openen met KeePassX 0.4.</translation>
     </message>
 </context>
 <context>
     <name>Main</name>
     <message>
         <source>Fatal error while testing the cryptographic functions.</source>
-        <translation>在测试加密函数时发生重大错误。</translation>
+        <translation>Fatale fout bij het testen van de cryptografische functies.</translation>
     </message>
     <message>
         <source>KeePassXC - Error</source>
-        <translation>KeePassXC - 错误</translation>
+        <translation>KeePassX - Fout</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>Database</source>
-        <translation>数据库</translation>
+        <translation>Database</translation>
     </message>
     <message>
         <source>Open database</source>
-        <translation>打开数据库</translation>
+        <translation>Open database</translation>
     </message>
     <message>
         <source>Database settings</source>
-        <translation>数据库设置</translation>
+        <translation>Database-instellingen</translation>
     </message>
     <message>
         <source>Copy username to clipboard</source>
-        <translation>将用户名复制到剪贴板</translation>
+        <translation>Kopieer gebruikersnaam naar klembord</translation>
     </message>
     <message>
         <source>Copy password to clipboard</source>
-        <translation>将密码复制到剪贴板</translation>
+        <translation>Kopieer wachtwoord naar klembord</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>设置</translation>
+        <translation>Instellingen</translation>
     </message>
     <message>
         <source>Show toolbar</source>
-        <translation>显示工具栏</translation>
+        <translation>Werkbalk weergeven</translation>
     </message>
     <message>
         <source>read-only</source>
-        <translation>只读</translation>
+        <translation>alleen-lezen</translation>
     </message>
     <message>
         <source>Toggle window</source>
-        <translation>切换窗口</translation>
+        <translation>Wissel venster</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>工具</translation>
+        <translation>Hulpmiddelen</translation>
     </message>
     <message>
         <source>KeePass 2 Database</source>
-        <translation>KeePass 2 数据库</translation>
+        <translation>KeePass 2 Database</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>所有文件</translation>
+        <translation>Alle bestanden</translation>
     </message>
     <message>
         <source>Save repaired database</source>
-        <translation>保存修复后的数据库</translation>
+        <translation>Gerepareerde database opslaan</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <source>Writing the database failed.</source>
-        <translation>数据库写入失败</translation>
+        <translation>Opslaan van de database is mislukt.</translation>
     </message>
     <message>
         <source>&amp;Recent databases</source>
-        <translation>最近的数据库</translation>
+        <translation>&amp;Recente databases</translation>
     </message>
     <message>
         <source>He&amp;lp</source>
-        <translation>帮助</translation>
+        <translation>He&amp;lp</translation>
     </message>
     <message>
         <source>E&amp;ntries</source>
-        <translation type="unfinished"/>
+        <translation>Items</translation>
     </message>
     <message>
         <source>Copy att&amp;ribute to clipboard</source>
-        <translation>将属性复制到剪贴板</translation>
+        <translation>Kopieer eigenschap naar klembord</translation>
     </message>
     <message>
         <source>&amp;Groups</source>
-        <translation>群组</translation>
+        <translation>&amp;Groepen</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation>显示</translation>
+        <translation>&amp;Beeld</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation>退出</translation>
+        <translation>&amp;Afsluiten</translation>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>关于</translation>
+        <translation>&amp;Over</translation>
     </message>
     <message>
         <source>&amp;Open database</source>
-        <translation>打开数据库</translation>
+        <translation>&amp;Open database</translation>
     </message>
     <message>
         <source>&amp;Save database</source>
-        <translation>保存数据库</translation>
+        <translation>&amp;Sla database op</translation>
     </message>
     <message>
         <source>&amp;Close database</source>
-        <translation>关闭数据库</translation>
+        <translation>&amp;Sluit database</translation>
     </message>
     <message>
         <source>&amp;New database</source>
-        <translation>新建数据库</translation>
+        <translation>&amp;Nieuwe database</translation>
     </message>
     <message>
         <source>Merge from KeePassX database</source>
-        <translation>从KeePassX数据库合并</translation>
+        <translation>KeePassX database samenvoegen</translation>
     </message>
     <message>
         <source>&amp;Add new entry</source>
-        <translation>新增项目</translation>
+        <translation>&amp;Voeg nieuw item toe</translation>
     </message>
     <message>
         <source>&amp;View/Edit entry</source>
-        <translation>浏览/编辑项目</translation>
+        <translation>&amp;Bekijk/bewerk item</translation>
     </message>
     <message>
         <source>&amp;Delete entry</source>
-        <translation>删除项目</translation>
+        <translation>&amp;Verwijder item</translation>
     </message>
     <message>
         <source>&amp;Add new group</source>
-        <translation>新增群组</translation>
+        <translation>&amp;Voeg groep toe</translation>
     </message>
     <message>
         <source>&amp;Edit group</source>
-        <translation>编辑群组</translation>
+        <translation>&amp;Bewerk groep</translation>
     </message>
     <message>
         <source>&amp;Delete group</source>
-        <translation>删除群组</translation>
+        <translation>&amp;Verwijder groep</translation>
     </message>
     <message>
         <source>Sa&amp;ve database as</source>
-        <translation>另存数据库为</translation>
+        <translation>Database opslaan als</translation>
     </message>
     <message>
         <source>Change &amp;master key</source>
-        <translation>更改主密码</translation>
+        <translation>Wijzig &amp;hoofdsleutel</translation>
     </message>
     <message>
         <source>&amp;Database settings</source>
-        <translation>数据库设置</translation>
+        <translation>&amp;Database-instellingen</translation>
     </message>
     <message>
         <source>&amp;Import KeePass 1 database</source>
-        <translation>导入KeePass 1 数据库</translation>
+        <translation>&amp;Importeer KeePass 1-database</translation>
     </message>
     <message>
         <source>&amp;Clone entry</source>
-        <translation>复制项目</translation>
+        <translation>&amp;Kloon item</translation>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation>查找</translation>
+        <translation>&amp;Zoeken</translation>
     </message>
     <message>
         <source>Copy &amp;username</source>
-        <translation>复制用户名</translation>
+        <translation>Kopieer &amp;gebruikersnaam</translation>
     </message>
     <message>
         <source>Cop&amp;y password</source>
-        <translation>复制密码</translation>
+        <translation>Kopieer wachtwoord</translation>
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>设置</translation>
+        <translation>&amp;Instellingen</translation>
     </message>
     <message>
         <source>&amp;Perform Auto-Type</source>
-        <translation>执行自动输入</translation>
+        <translation>&amp;Voer auto-typen uit</translation>
     </message>
     <message>
         <source>&amp;Open URL</source>
-        <translation>打开网址</translation>
+        <translation>&amp;Open URL</translation>
     </message>
     <message>
         <source>&amp;Lock databases</source>
-        <translation>锁住数据库</translation>
+        <translation>&amp;Vergrendel databases</translation>
     </message>
     <message>
         <source>&amp;Title</source>
-        <translation>标题</translation>
+        <translation>&amp;Titel</translation>
     </message>
     <message>
         <source>&amp;URL</source>
-        <translation>网址</translation>
+        <translation>&amp;URL</translation>
     </message>
     <message>
         <source>&amp;Notes</source>
-        <translation>备注</translation>
+        <translation>&amp;Opmerkingen</translation>
     </message>
     <message>
         <source>&amp;Export to CSV file</source>
-        <translation>导出为CSV格式文件</translation>
+        <translation>&amp;Naar CSV-bestand exporteren</translation>
     </message>
     <message>
         <source>Re&amp;pair database</source>
-        <translation>修复数据库</translation>
+        <translation>Database repareren</translation>
     </message>
     <message>
         <source>Password Generator</source>
-        <translation>密码生成器</translation>
+        <translation>Wachtwoord generator</translation>
     </message>
 </context>
 <context>
     <name>OptionDialog</name>
     <message>
         <source>Dialog</source>
-        <translation>对话框</translation>
+        <translation>Dialoog</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>常规</translation>
+        <translation>Algemeen</translation>
     </message>
     <message>
         <source>Sh&amp;ow a notification when credentials are requested</source>
-        <translation type="unfinished"/>
+        <translation>Toon een notificatie wanneer inloggegevens worden aangevraagd</translation>
     </message>
     <message>
         <source>&amp;Match URL schemes
 Only entries with the same scheme (http://, https://, ftp://, ...) are returned</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Gebruik URL-velden
+Alleen items met hetzelfde schema (http://, https://, ftp://) worden gegeven.</translation>
     </message>
     <message>
         <source>Sort matching entries by &amp;username</source>
-        <translation>按匹配用户名排序</translation>
+        <translation>Sorteer gegeven items op $gebruikersnaam</translation>
     </message>
     <message>
         <source>Re&amp;move all stored permissions from entries in active database</source>
-        <translation type="unfinished"/>
+        <translation>Verwijder alle opgeslagen permissies van items uit de actieve database</translation>
     </message>
     <message>
         <source>Password generator</source>
-        <translation>密码生成器</translation>
+        <translation>Wachtwoord generator</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation>高级</translation>
+        <translation>Geavanceerd</translation>
     </message>
     <message>
         <source>Always allow &amp;access to entries</source>
-        <translation>永远允许访问项目</translation>
+        <translation>Altijd &amp;toegang verlenen tot items</translation>
     </message>
     <message>
         <source>Always allow &amp;updating entries</source>
-        <translation>永远允许更新项目</translation>
+        <translation>Altijd &amp;bewerken toestaan op items</translation>
     </message>
     <message>
         <source>Searc&amp;h in all opened databases for matching entries</source>
-        <translation>在所有打开的数据库中查找匹配项目</translation>
+        <translation>Zoek in alle geopende databases naar overeenkomende items</translation>
     </message>
     <message>
         <source>Only the selected database has to be connected with a client!</source>
-        <translation>客户端只能连接选中的数据库！</translation>
+        <translation>Alleen de geselecteerde database heeft een verbinding nodig met een client!</translation>
     </message>
     <message>
         <source>HTTP Port:</source>
-        <translation>HTTP端口：</translation>
+        <translation>HTTP-poort:</translation>
     </message>
     <message>
         <source>Default port: 19455</source>
-        <translation>默认端口：19455</translation>
+        <translation>Standaard poort: 19455</translation>
     </message>
     <message>
         <source>Re&amp;quest to unlock the database if it is locked</source>
-        <translation type="unfinished"/>
+        <translation>Verzoek om database te ontgrendelen als deze vergrendeld is</translation>
     </message>
     <message>
         <source>Sort &amp;matching entries by title</source>
-        <translation>用标题排序匹配的项目</translation>
+        <translation>Sorteer &amp;overeenkomende items op titel</translation>
     </message>
     <message>
         <source>Enable KeepassXC HTTP protocol
 This is required for accessing your databases from ChromeIPass or PassIFox</source>
-        <translation>启用KeepassXC HTTP协议
-这需要ChromeIPass或PassIFox访问你的数据库</translation>
+        <translation>Schakel het KeePassXC HTTP-protocol in
+Dit is vereist om databases vanuit ChromeIPass of PassIFox te bereiken.</translation>
     </message>
     <message>
         <source>KeePassXC will listen to this port on 127.0.0.1</source>
-        <translation>KeePassXC 将监听 127.0.0.1上的此端口</translation>
+        <translation>KeePassXC zal op deze poort op 127.0.0.1 luisteren</translation>
     </message>
     <message>
         <source>Cannot bind to privileged ports</source>
-        <translation>无法绑定到特殊端口</translation>
+        <translation>Kan niet binden op bevoorrechte poorten</translation>
     </message>
     <message>
         <source>Cannot bind to privileged ports below 1024!
 Using default port 19455.</source>
-        <translation>无法绑定低于 1024的特殊端口 ！
-使用默认端口 19455。</translation>
+        <translation>Kan niet binden naar bevoorrechte poorten onder 1024!
+Standaardpoort 19455 wordt gebruikt.</translation>
     </message>
     <message>
         <source>&amp;Return only best matching entries for a URL instead
 of all entries for the whole domain</source>
-        <translation>只返回最佳匹配条目的 URL 而不是整个域的所有条目</translation>
+        <translation>&amp;Geef alleen de meest overeenkomende items voor een URL
+in plaats van alle items voor het gehele domein</translation>
     </message>
     <message>
         <source>R&amp;emove all shared encryption keys from active database</source>
-        <translation>移除所有激活数据库共享的加密密钥</translation>
+        <translation>Verwijder alle gedeelde encryptiesleutels uit de actieve database</translation>
     </message>
     <message>
         <source>The following options can be dangerous. Change them only if you know what you are doing.</source>
-        <translation>以下选项不要修改。除非你知道自己在做什么。</translation>
+        <translation>De volgende opties kunnen gevaarlijk zijn. Verander deze dus alleen als je weet wat je doet.</translation>
     </message>
     <message>
         <source>&amp;Return advanced string fields which start with &quot;KPH: &quot;</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Geef geadvanceerde tekenreeks velden terug die met &quot;KH: &quot; beginnen.</translation>
     </message>
     <message>
         <source>Automatically creating or updating string fields is not supported.</source>
-        <translation>不支持自动创建或更新字符串字段。</translation>
+        <translation>Het automatisch aanmaken of wijzigen van tekenreeks velden wordt niet ondersteund.</translation>
     </message>
 </context>
 <context>
     <name>PasswordGeneratorWidget</name>
     <message>
         <source>Password:</source>
-        <translation>密码：</translation>
+        <translation>Wachtwoord:</translation>
     </message>
     <message>
         <source>Character Types</source>
-        <translation>字符类型</translation>
+        <translation>Tekens</translation>
     </message>
     <message>
         <source>Upper Case Letters</source>
-        <translation>大写英文字母</translation>
+        <translation>Hoofdletters</translation>
     </message>
     <message>
         <source>Lower Case Letters</source>
-        <translation>小写英文字母</translation>
+        <translation>Kleine letters</translation>
     </message>
     <message>
         <source>Numbers</source>
-        <translation>数字</translation>
+        <translation>Cijfers</translation>
     </message>
     <message>
         <source>Special Characters</source>
-        <translation>特殊字符</translation>
+        <translation>Speciale tekens</translation>
     </message>
     <message>
         <source>Exclude look-alike characters</source>
-        <translation>去除相似的字符</translation>
+        <translation>Geen op elkaar lijkende tekens</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation>接受</translation>
+        <translation>Accepteren</translation>
     </message>
     <message>
         <source>%p%</source>
@@ -1440,115 +1444,115 @@ of all entries for the whole domain</source>
     </message>
     <message>
         <source>strength</source>
-        <translation>强度</translation>
+        <translation>sterkte</translation>
     </message>
     <message>
         <source>entropy</source>
-        <translation type="unfinished"/>
+        <translation>entropie</translation>
     </message>
     <message>
         <source>&amp;Length:</source>
-        <translation>长度︰</translation>
+        <translation>&amp;Lengte:</translation>
     </message>
     <message>
         <source>Pick characters from every group</source>
-        <translation>从每个组选择字符</translation>
+        <translation>Zorg dat het wachtwoord tekens uit iedere groep bevat</translation>
     </message>
     <message>
         <source>Generate</source>
-        <translation>生成</translation>
+        <translation>Genereren</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>关闭</translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>应用</translation>
+        <translation>Toepassen</translation>
     </message>
     <message>
         <source>Entropy: %1 bit</source>
-        <translation type="unfinished"/>
+        <translation>Entropie: %1 bit</translation>
     </message>
     <message>
         <source>Password Quality: %1</source>
-        <translation>密码强度：%1</translation>
+        <translation>Wachtwoord kwaliteit: %1</translation>
     </message>
     <message>
         <source>Poor</source>
-        <translation>差</translation>
+        <translation>Slecht</translation>
     </message>
     <message>
         <source>Weak</source>
-        <translation>弱</translation>
+        <translation>Zwak</translation>
     </message>
     <message>
         <source>Good</source>
-        <translation>好</translation>
+        <translation>Goed</translation>
     </message>
     <message>
         <source>Excellent</source>
-        <translation>优秀</translation>
+        <translation>Uitstekend</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Http</source>
-        <translation>Http</translation>
+        <translation>HTTP</translation>
     </message>
 </context>
 <context>
     <name>QtIOCompressor</name>
     <message>
         <source>Internal zlib error when compressing: </source>
-        <translation>压缩函数库 zlib 出错：</translation>
+        <translation>Interne fout in zlib bij inpakken:</translation>
     </message>
     <message>
         <source>Error writing to underlying device: </source>
-        <translation>下层设备写入出错：</translation>
+        <translation>Fout bij schrijven naar onderliggend apparaat:</translation>
     </message>
     <message>
         <source>Error opening underlying device: </source>
-        <translation>打开下层设备出错：</translation>
+        <translation>Fout bij openen van onderliggend apparaat:</translation>
     </message>
     <message>
         <source>Error reading data from underlying device: </source>
-        <translation>读取下层设备出错：</translation>
+        <translation>Fout bij lezen van gegevens van onderliggend apparaat:</translation>
     </message>
     <message>
         <source>Internal zlib error when decompressing: </source>
-        <translation>内部函数库 zlib 解压错误：</translation>
+        <translation>Interne fout in zlib bij uitpakken:</translation>
     </message>
 </context>
 <context>
     <name>QtIOCompressor::open</name>
     <message>
         <source>The gzip format not supported in this version of zlib.</source>
-        <translation>当前版本的压缩函数库 zlib 不支援gzip。</translation>
+        <translation>Gzip wordt niet ondersteund in deze versie van zlib.</translation>
     </message>
     <message>
         <source>Internal zlib error: </source>
-        <translation>内部函数库 zlib 发生错误：</translation>
+        <translation>Interne fout in zlib:</translation>
     </message>
 </context>
 <context>
     <name>SearchWidget</name>
     <message>
         <source>Case Sensitive</source>
-        <translation>区分大小写</translation>
+        <translation>Hoofdlettergevoelig</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>搜索</translation>
+        <translation>Zoeken</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation>查找</translation>
+        <translation>Zoek</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>清除</translation>
+        <translation>Wissen</translation>
     </message>
 </context>
 <context>
@@ -1556,234 +1560,235 @@ of all entries for the whole domain</source>
     <message>
         <source>A shared encryption-key with the name &quot;%1&quot; already exists.
 Do you want to overwrite it?</source>
-        <translation>一个共享的加密密钥，名为&quot;%1&quot;已存在。
-你想要覆盖它吗？</translation>
+        <translation>Een gedeelde encryptiesleutel met de naam &quot;%1&quot; bestaat al.
+Wil je deze overschrjiven?</translation>
     </message>
     <message>
         <source>Do you want to update the information in %1 - %2?</source>
-        <translation>你想更新 %1-%2 中的信息吗？</translation>
+        <translation>Wil je de gegevens in %1 - %2 bijwerken?</translation>
     </message>
     <message>
         <source>The active database is locked!
 Please unlock the selected database or choose another one which is unlocked.</source>
-        <translation>激活的数据库被锁定 ！
-请解锁选定的数据库或选择另一已解锁的数据库。</translation>
+        <translation>De actieve database is vergrendeld!
+Ontgrendel de geselecteerde database of kies een ontgrendelde database.</translation>
     </message>
     <message>
         <source>Successfully removed %1 encryption-%2 from KeePassX/Http Settings.</source>
-        <translation type="unfinished"/>
+        <translation>%1 encryptie%2 succesvol verwijderd uit de KeePassX/Http instellingen.</translation>
     </message>
     <message>
         <source>No shared encryption-keys found in KeePassHttp Settings.</source>
-        <translation type="unfinished"/>
+        <translation>Geen gedeelde encryptiesleutels gevonen in de KeePassHttp instellingen.</translation>
     </message>
     <message>
         <source>The active database does not contain an entry of KeePassHttp Settings.</source>
-        <translation type="unfinished"/>
+        <translation>De actieve database bevat geen KeePassHttp instellingen.</translation>
     </message>
     <message>
         <source>Removing stored permissions...</source>
-        <translation>正在删除存储的权限...</translation>
+        <translation>Opgeslagen permissies verwijderen...</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>中断</translation>
+        <translation>Afbreken</translation>
     </message>
     <message>
         <source>Successfully removed permissions from %1 %2.</source>
-        <translation type="unfinished"/>
+        <translation>De permissies zijn met succes verwijderd uit %1 %2.</translation>
     </message>
     <message>
         <source>The active database does not contain an entry with permissions.</source>
-        <translation type="unfinished"/>
+        <translation>De actieve database bevat geen items met permissies.</translation>
     </message>
     <message>
         <source>KeePassXC: New key association request</source>
-        <translation type="unfinished"/>
+        <translation>KeePassXC: Nieuw verzoek voor sleutel associatie</translation>
     </message>
     <message>
         <source>You have received an association request for the above key.
 If you would like to allow it access to your KeePassXC database
 give it a unique name to identify and accept it.</source>
-        <translation type="unfinished"/>
+        <translation>Je hebt verzoek voor sleutel associatie ontvangen voor de bovenstaande sleutel.
+Geef het een unieke identificerende naam en accepteer de associate wanneer je deze toestaan voor toegang tot je KeePassXC database.</translation>
     </message>
     <message>
         <source>KeePassXC: Overwrite existing key?</source>
-        <translation>KeePassXC︰ 覆盖现有的密钥吗？</translation>
+        <translation>KeePassXC: Huidige sleutel overschrijven?</translation>
     </message>
     <message>
         <source>KeePassXC: Update Entry</source>
-        <translation>KeePassXC︰ 更新条目</translation>
+        <translation>KeePassXC: Item bijwerken</translation>
     </message>
     <message>
         <source>KeePassXC: Database locked!</source>
-        <translation>KeePassXC︰ 数据库被锁定 ！</translation>
+        <translation>KeePassXC: Database vergrendeld!</translation>
     </message>
     <message>
         <source>KeePassXC: Removed keys from database</source>
-        <translation>KeePassXC︰ 从数据库中删除键</translation>
+        <translation>KeePassXC: Sleutels uit database verwijderd</translation>
     </message>
     <message>
         <source>KeePassXC: No keys found</source>
-        <translation>KeePassXC︰ 未找到键</translation>
+        <translation>KeePassXC: Geen sleutels gevonden</translation>
     </message>
     <message>
         <source>KeePassXC: Settings not available!</source>
-        <translation>KeePassXC︰ 设置不可用 ！</translation>
+        <translation>KeePassXC: Instellingen niet beschikbaar!</translation>
     </message>
     <message>
         <source>KeePassXC: Removed permissions</source>
-        <translation>KeePassXC︰ 已删除的权限</translation>
+        <translation>KeePassXC: Permissies verwijderd</translation>
     </message>
     <message>
         <source>KeePassXC: No entry with permissions found!</source>
-        <translation type="unfinished"/>
+        <translation>KeePassXC: Geen item met permissies gevonden!</translation>
     </message>
 </context>
 <context>
     <name>SettingsWidget</name>
     <message>
         <source>Application Settings</source>
-        <translation>应用程序设置</translation>
+        <translation>Programma-instellingen</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>常规</translation>
+        <translation>Algemeen</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation>安全</translation>
+        <translation>Beveiliging</translation>
     </message>
 </context>
 <context>
     <name>SettingsWidgetGeneral</name>
     <message>
         <source>Remember last databases</source>
-        <translation>记住最近的数据库</translation>
+        <translation>Onthoud laatste databases</translation>
     </message>
     <message>
         <source>Automatically save on exit</source>
-        <translation>离开后自动保存</translation>
+        <translation>Automatisch opslaan bij afsluiten</translation>
     </message>
     <message>
         <source>Automatically save after every change</source>
-        <translation>修改后自动保存</translation>
+        <translation>Automatisch opslaan na iedere wijziging</translation>
     </message>
     <message>
         <source>Minimize when copying to clipboard</source>
-        <translation>复制到剪贴板后最小化</translation>
+        <translation>Minimaliseer bij kopiëren naar klembord</translation>
     </message>
     <message>
         <source>Use group icon on entry creation</source>
-        <translation>新增项目时使用群组图标</translation>
+        <translation>Gebruik icoon van de groep voor nieuwe elementen</translation>
     </message>
     <message>
         <source>Global Auto-Type shortcut</source>
-        <translation>自动输入全局快捷键</translation>
+        <translation>Globale sneltoets voor auto-typen</translation>
     </message>
     <message>
         <source>Use entry title to match windows for global auto-type</source>
-        <translation>使用项目标题来查找自动输入的目标窗口</translation>
+        <translation>Gebruik titel van item als vensternaam voor auto-typen</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>语言</translation>
+        <translation>Taal</translation>
     </message>
     <message>
         <source>Show a system tray icon</source>
-        <translation>显示任务栏图标</translation>
+        <translation>Toon een icoon in de systray</translation>
     </message>
     <message>
         <source>Hide window to system tray when minimized</source>
-        <translation>将窗口最小化至任务栏</translation>
+        <translation>Bij minimaliseren enkel icoon in systray tonen</translation>
     </message>
     <message>
         <source>Remember last key files</source>
-        <translation>记住最近的秘钥文件</translation>
+        <translation>Onthoud laatste sleutelbestanden</translation>
     </message>
     <message>
         <source>Load previous databases on startup</source>
-        <translation>在启动时加载最近的数据库</translation>
+        <translation>Open vorige databases bij starten</translation>
     </message>
     <message>
         <source>Automatically reload the database when modified externally</source>
-        <translation>当外部修改时自动重新加载数据库</translation>
+        <translation>Herlaad database automatisch als deze van buitenaf is gewijzigd</translation>
     </message>
     <message>
         <source>Hide window to system tray instead of app exit</source>
-        <translation>退出时将窗口最小化至任务栏</translation>
+        <translation>Bij sluiten icoon in systray tonen in plaats van volledig afsluiten</translation>
     </message>
     <message>
         <source>Minimize window at application startup</source>
-        <translation>在应用程序启动时窗口最小化</translation>
+        <translation>Scherm minimaliseren bij het opstarten</translation>
     </message>
 </context>
 <context>
     <name>SettingsWidgetSecurity</name>
     <message>
         <source>Clear clipboard after</source>
-        <translation>在多久后清除剪贴板</translation>
+        <translation>Leeg klembord na</translation>
     </message>
     <message>
         <source> sec</source>
-        <translation>秒</translation>
+        <translation>sec</translation>
     </message>
     <message>
         <source>Lock databases after inactivity of</source>
-        <translation>在多久没有动作之后锁住数据库</translation>
+        <translation>Vergrendel databases na inactiviteit van</translation>
     </message>
     <message>
         <source>Show passwords in cleartext by default</source>
-        <translation>默认以明码显示密码</translation>
+        <translation>Laat wachtwoorden standaard zien</translation>
     </message>
     <message>
         <source>Always ask before performing auto-type</source>
-        <translation>在执行自动输入前询问</translation>
+        <translation>Altijd vragen alvorens auto-type uit te voeren</translation>
     </message>
     <message>
         <source>Lock databases after minimizing the window</source>
-        <translation>在最小化窗口后锁定数据库</translation>
+        <translation>Vergrendel databases na het minimaliseren van het scherm</translation>
     </message>
     <message>
         <source>Don&apos;t require password repeat when it is visible</source>
-        <translation>可见时不需要重复输入密码</translation>
+        <translation>Herhalen van wachtwoord niet vereisen als deze zichtbaar is</translation>
     </message>
 </context>
 <context>
     <name>UnlockDatabaseWidget</name>
     <message>
         <source>Unlock database</source>
-        <translation>解锁数据库</translation>
+        <translation>Database ontgrendelen</translation>
     </message>
 </context>
 <context>
     <name>WelcomeWidget</name>
     <message>
         <source>Welcome!</source>
-        <translation>欢迎！</translation>
+        <translation>Welkom!</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
         <source>path to a custom config file</source>
-        <translation>自定义配置文件路径</translation>
+        <translation>pad naar een configuratiebestand</translation>
     </message>
     <message>
         <source>key file of the database</source>
-        <translation>数据库秘钥文件</translation>
+        <translation>sleutelbestand van de database</translation>
     </message>
     <message>
         <source>KeePassXC - cross-platform password manager</source>
-        <translation>KeePassXC - 跨平台密码管理软件</translation>
+        <translation>KeepassX - multi-platform wachtwoordbeheerder</translation>
     </message>
     <message>
         <source>read password of the database from stdin</source>
-        <translation>从标准输入读取数据库的密码</translation>
+        <translation>lees wachtwoord van de database uit stdin</translation>
     </message>
     <message>
         <source>filenames of the password databases to open (*.kdbx)</source>
-        <translation>打开密码数据库文件名(*.kdbx)</translation>
+        <translation>bestandsnamen van de te openen wachtwoorddatabases (*.kdbx)</translation>
     </message>
 </context>
 </TS>

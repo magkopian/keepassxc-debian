@@ -1,268 +1,265 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="de" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="pt_BR" version="2.1">
 <context>
     <name>AboutDialog</name>
     <message>
         <source>Revision</source>
-        <translation>Überarbeitung</translation>
+        <translation>Revisão</translation>
     </message>
     <message>
         <source>Using:</source>
-        <translation>In Benutzung:</translation>
+        <translation>Usando:</translation>
     </message>
     <message>
         <source>About KeePassXC</source>
-        <translation>Über KeePassXC</translation>
-    </message>
-    <message>
-        <source>KeePassXC is distributed under the term of the GNU General Public License (GPL) version 2 or (at your option) version 3.</source>
-        <translation>KeePassXC steht unter der GNU General Public License (GPL) version 2 (version 3).</translation>
+        <translation>Sobre KeePassXC</translation>
     </message>
     <message>
         <source>Extensions:
 </source>
-        <translation>Erweiterungen:
+        <translation>Extensões:
 </translation>
+    </message>
+    <message>
+        <source>KeePassXC is distributed under the terms of the GNU General Public License (GPL) version 2 or (at your option) version 3.</source>
+        <translation>KeePassXC é distribuído nos termos da Licença Pública Geral (GPL), versão 2 ou (à sua escolha) versão 3, do GNU.</translation>
     </message>
 </context>
 <context>
     <name>AccessControlDialog</name>
     <message>
         <source>Remember this decision</source>
-        <translation>Diese Entscheidung merken</translation>
+        <translation>Lembrar esta escolha</translation>
     </message>
     <message>
         <source>Allow</source>
-        <translation>Erlauben</translation>
+        <translation>Permitir</translation>
     </message>
     <message>
         <source>Deny</source>
-        <translation>Ablehnen</translation>
+        <translation>Negar</translation>
     </message>
     <message>
         <source>%1 has requested access to passwords for the following item(s).
 Please select whether you want to allow access.</source>
-        <translation>%1 hat Zugriff auf Passwörter für folgende Element(e) angefordert.
-Bitte wählen Sie, ob Sie den Zugriff erlauben möchten.</translation>
+        <translation>%1 solicitou acesso a senhas para o(s) seguinte(s) iten(s).
+Selecione se deseja permitir o acesso.</translation>
     </message>
     <message>
         <source>KeePassXC HTTP Confirm Access</source>
-        <translation>KeePassXC HTTP Erlaube Zugriff</translation>
+        <translation>KeePassXC HTTP Confirmar Acesso</translation>
     </message>
 </context>
 <context>
     <name>AutoType</name>
     <message>
         <source>Couldn&apos;t find an entry that matches the window title:</source>
-        <translation>Konnte keinen Eintrag finden, welcher mit dem Fenstertitel übereinstimmt:</translation>
+        <translation>Não foi possível localizar uma entrada que corresponda ao título da janela:</translation>
     </message>
     <message>
         <source>Auto-Type - KeePassXC</source>
-        <translation>Auto-Type - KeePassXC</translation>
+        <translation>Auto-Digitação - KeePassXC</translation>
     </message>
 </context>
 <context>
     <name>AutoTypeAssociationsModel</name>
     <message>
         <source>Window</source>
-        <translation>Fenster</translation>
+        <translation>Janela</translation>
     </message>
     <message>
         <source>Sequence</source>
-        <translation>Reihenfolge</translation>
+        <translation>Sequência</translation>
     </message>
     <message>
         <source>Default sequence</source>
-        <translation>Standardreihenfolge</translation>
+        <translation>Sequência pré-definida</translation>
     </message>
 </context>
 <context>
     <name>AutoTypeSelectDialog</name>
     <message>
         <source>Select entry to Auto-Type:</source>
-        <translation>Wählen Sie einen Eintrag für Auto-Type:</translation>
+        <translation>Escolha uma entrada para Auto-Digitar:</translation>
     </message>
     <message>
         <source>Auto-Type - KeePassXC</source>
-        <translation>Auto-Type - KeePassXC</translation>
+        <translation>Auto-Digitação - KeePassXC</translation>
     </message>
 </context>
 <context>
     <name>ChangeMasterKeyWidget</name>
     <message>
         <source>Password</source>
-        <translation>Passwort</translation>
+        <translation>Senha</translation>
     </message>
     <message>
         <source>Enter password:</source>
-        <translation>Passwort eingeben:</translation>
+        <translation>Insira senha:</translation>
     </message>
     <message>
         <source>Repeat password:</source>
-        <translation>Passwort wiederholen:</translation>
-    </message>
-    <message>
-        <source>Key file</source>
-        <translation>Schlüsseldatei</translation>
+        <translation>Repita senha:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Durchsuchen</translation>
+        <translation>Navegar</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation>Erstellen</translation>
+        <translation>Criar</translation>
     </message>
     <message>
         <source>Key files</source>
-        <translation>Schlüsseldateien</translation>
+        <translation>Arquivos-Chave</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>Alle Dateien</translation>
+        <translation>Todos os Arquivos</translation>
     </message>
     <message>
         <source>Create Key File...</source>
-        <translation>Erzeuge eine Schlüsseldatei...</translation>
+        <translation>Criar Arquivo-Chave...</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Unable to create Key File : </source>
-        <translation>Erzeugen der Schlüsseldatei nicht möglich:</translation>
+        <translation>Não foi possível criar o Arquivo-Chave : </translation>
     </message>
     <message>
         <source>Select a key file</source>
-        <translation>Schlüsseldatei auswählen</translation>
+        <translation>Escolha um arquivo-chave</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation>Frage</translation>
+        <translation>Pergunta</translation>
     </message>
     <message>
         <source>Do you really want to use an empty string as password?</source>
-        <translation>Wollen Sie wirklich eine leere Zeichenkette als Passwort verwenden?</translation>
+        <translation>Você realmente quer usar uma sequência vazia como senha?</translation>
     </message>
     <message>
         <source>Different passwords supplied.</source>
-        <translation>Unterschiedliche Passwörter eingegeben.</translation>
+        <translation>Senhas diferentes fornecidas.</translation>
     </message>
     <message>
         <source>Failed to set key file</source>
-        <translation>Festlegen der Schlüsseldatei nicht möglich.</translation>
+        <translation>Falha ao definir arquivo-chave</translation>
     </message>
     <message>
         <source>Failed to set %1 as the Key file:
 %2</source>
-        <translation>Festlegen von %1 als Schlüsseldatei nicht möglich: %2</translation>
+        <translation>Falha ao definir %1 como o Arquivo-Chave:
+%2</translation>
+    </message>
+    <message>
+        <source>&amp;Key file</source>
+        <translation>&amp;Arquivo-Chave</translation>
     </message>
 </context>
 <context>
     <name>DatabaseOpenWidget</name>
     <message>
         <source>Enter master key</source>
-        <translation>Hauptschlüssel eingeben</translation>
+        <translation>Insira a chave-mestra</translation>
     </message>
     <message>
         <source>Key File:</source>
-        <translation>Schlüsseldatei:</translation>
+        <translation>Arquivo-Chave:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Passwort:</translation>
+        <translation>Senha:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Durchsuchen</translation>
+        <translation>Navegar</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Unable to open the database.</source>
-        <translation>Öffnen der Datenbank nicht möglich.</translation>
+        <translation>Não foi possível abrir o banco de dados.</translation>
     </message>
     <message>
         <source>Can&apos;t open key file</source>
-        <translation>Schlüsseldatei kann nicht geöffnet werden</translation>
+        <translation>Não foi possível abrir o arquivo-chave</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>Alle Dateien</translation>
+        <translation>Todos os arquivos</translation>
     </message>
     <message>
         <source>Key files</source>
-        <translation>Schlüsseldateien</translation>
+        <translation>Arquivos-chave</translation>
     </message>
     <message>
         <source>Select key file</source>
-        <translation>Schlüsseldatei auswählen</translation>
+        <translation>Escolha o arquivo-chave</translation>
     </message>
 </context>
 <context>
     <name>DatabaseRepairWidget</name>
     <message>
         <source>Repair database</source>
-        <translation>Datenbank reparieren</translation>
+        <translation>Reparar banco de dados</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Can&apos;t open key file</source>
-        <translation>Schlüsseldatei kann nicht geöffnet werden</translation>
+        <translation>Não foi possível abrir arquivo-chave</translation>
     </message>
     <message>
         <source>Database opened fine. Nothing to do.</source>
-        <translation>Datenbank wurde ordnungsgemäß geöffnet. Es gibt nichts zu tun.</translation>
+        <translation>Banco de dados aberto com sucesso. Nada para fazer.</translation>
     </message>
     <message>
         <source>Unable to open the database.</source>
-        <translation>Öffnen der Datenbank nicht möglich.</translation>
+        <translation>Não foi possível abrir o banco de dados.</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>Erfolg</translation>
+        <translation>Sucesso</translation>
     </message>
     <message>
         <source>The database has been successfully repaired
 You can now save it.</source>
-        <translation>Datenbank erfolgreich repariert
-sie kann nun gespeichert werden.</translation>
+        <translation>O banco de dados foi reparado com sucesso
+Você pode salvá-lo agora.</translation>
     </message>
     <message>
         <source>Unable to repair the database.</source>
-        <translation>Reparieren der Datenbank nicht möglich.</translation>
+        <translation>Não foi possível reparar o banco de dados.</translation>
     </message>
 </context>
 <context>
     <name>DatabaseSettingsWidget</name>
     <message>
         <source>Database name:</source>
-        <translation>Datenbankname:</translation>
+        <translation>Nome do banco de dados:</translation>
     </message>
     <message>
         <source>Database description:</source>
-        <translation>Datenbankbeschreibung:</translation>
+        <translation>Descrição do banco de dados:</translation>
     </message>
     <message>
         <source>Transform rounds:</source>
-        <translation>Verschlüsselungsdurchläufe:</translation>
+        <translation>Rodadas de transformação:</translation>
     </message>
     <message>
         <source>Default username:</source>
-        <translation>Standardbenutzername:</translation>
-    </message>
-    <message>
-        <source>Use recycle bin:</source>
-        <translation>Verwende Papierkorb:</translation>
+        <translation>Usuário padrão:</translation>
     </message>
     <message>
         <source> MiB</source>
-        <translation> MiB</translation>
+        <translation> MB</translation>
     </message>
     <message>
         <source>Benchmark</source>
@@ -270,391 +267,398 @@ sie kann nun gespeichert werden.</translation>
     </message>
     <message>
         <source>Max. history items:</source>
-        <translation>Max. Einträge im Verlauf:</translation>
+        <translation>Máx. itens no histórico:</translation>
     </message>
     <message>
         <source>Max. history size:</source>
-        <translation>Max. Verlaufsgröße:</translation>
+        <translation>Tamanho máx. do histórico:</translation>
+    </message>
+    <message>
+        <source>Use recycle bin</source>
+        <translation>Usar lixeira</translation>
     </message>
 </context>
 <context>
     <name>DatabaseTabWidget</name>
     <message>
         <source>Root</source>
-        <translation>Root</translation>
+        <translation>Raiz</translation>
     </message>
     <message>
         <source>KeePass 2 Database</source>
-        <translation>KeePass 2 Datenbank</translation>
+        <translation>Banco de Dados KeePass 2</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>Alle Dateien</translation>
+        <translation>Todos os arquivos</translation>
     </message>
     <message>
         <source>Open database</source>
-        <translation>Datenbank öffnen</translation>
+        <translation>Abrir banco de dados</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Warnung</translation>
+        <translation>Aviso</translation>
     </message>
     <message>
         <source>File not found!</source>
-        <translation>Datei nicht gefunden!</translation>
+        <translation>Arquivo não localizado!</translation>
     </message>
     <message>
         <source>Open KeePass 1 database</source>
-        <translation>KeePass 1 Datenbank öffnen</translation>
+        <translation>Abrir banco de dados KeePass 1</translation>
     </message>
     <message>
         <source>KeePass 1 database</source>
-        <translation>KeePass 1 Datenbank</translation>
+        <translation>Banco de dados KeePass 1</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation>Alle Dateien (*)</translation>
+        <translation>Todos os arquivos (*)</translation>
     </message>
     <message>
         <source>Close?</source>
-        <translation>Schließen?</translation>
+        <translation>Fechar?</translation>
     </message>
     <message>
         <source>Save changes?</source>
-        <translation>Änderungen speichern?</translation>
+        <translation>Salvar alterações?</translation>
     </message>
     <message>
         <source>&quot;%1&quot; was modified.
 Save changes?</source>
-        <translation>&quot;%1&quot; wurde geändert.
-Änderungen speichern?</translation>
+        <translation>&quot;%1&quot; foi modificado.
+Salvar alterações?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Writing the database failed.</source>
-        <translation>Schreiben der Datenbank fehlgeschlagen.</translation>
+        <translation>Escrever no banco de dados falhou.</translation>
     </message>
     <message>
         <source>Save database as</source>
-        <translation>Datenbank speichern unter</translation>
+        <translation>Salvar banco de dados como</translation>
     </message>
     <message>
         <source>New database</source>
-        <translation>Neue Datenbank</translation>
+        <translation>Novo banco de dados</translation>
     </message>
     <message>
         <source>locked</source>
-        <translation>gesperrt</translation>
+        <translation>trancado</translation>
     </message>
     <message>
         <source>Lock database</source>
-        <translation>Datenbank sperren</translation>
+        <translation>Trancar Banco de Dados</translation>
     </message>
     <message>
         <source>Can't lock the database as you are currently editing it.
 Please press cancel to finish your changes or discard them.</source>
-        <translation>Datenbank kann nicht gesperrt werden, da sie gerade bearbeitet wird.
-Wählen sie &quot;cancel&quot;, um die Änderungen zu speichern oder sie zurückzunehmen.</translation>
+        <translation>Não é possível trancar o banco de dados uma vez que você o está editando.
+Por favor, aperte cancelar para finalizar suas alterações ou descartá-las.</translation>
     </message>
     <message>
         <source>This database has never been saved.
 You can save the database or stop locking it.</source>
-        <translation>Diese Datenbank wurde noch nicht gespeichert.
-Sie können sie speichern oder Sperre freigeben.</translation>
+        <translation>Esse banco de dados nunca foi salvo.
+Você pode salvar o banco de dados ou parar de trancá-lo.</translation>
     </message>
     <message>
         <source>This database has been modified.
 Do you want to save the database before locking it?
 Otherwise your changes are lost.</source>
-        <translation>Dieses Datenbank wurde geändert.
-Soll sie gespeichert werden bevor sie gesperrt wirt?
-Anderenfalls gehen Ihre Änderungen verloren.</translation>
+        <translation>Esse banco de dados foi modificado.
+Você deseja salvar o banco de dados antes de travá-lo?
+Do contrário, suas alterações serão perdidas.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is in edit mode.
 Discard changes and close anyway?</source>
-        <translation>&quot;%1&quot; wird bearbeitet.
-Änderungen verwerfen und trotzdem schließen?</translation>
+        <translation>&quot;%1&quot; está em modo de edição.
+Descartar alterações e fechar mesmo assim?</translation>
     </message>
     <message>
         <source>Export database to CSV file</source>
-        <translation>Datenbank als CSV Datei exportieren.</translation>
+        <translation>Exportar banco de dados para arquivo CSV</translation>
     </message>
     <message>
         <source>CSV file</source>
-        <translation>CSV Datei</translation>
+        <translation>Arquivo CSV</translation>
     </message>
     <message>
         <source>Writing the CSV file failed.</source>
-        <translation>Die CSV Datei konnte nicht gespeichert werden.</translation>
+        <translation>Falha ao gravar arquivo CSV.</translation>
     </message>
     <message>
         <source>Unable to open the database.</source>
-        <translation>Öffnen der Datenbank ist nicht möglich.</translation>
-    </message>
-    <message>
-        <source>The database you are trying to open is locked by another instance of KeePassXC.
-Do you want to open it anyway? Alternatively the database is opened read-only.</source>
-        <translation>Die Datenbank, die geöffnet werden soll, ist aktuell von einer anderen Instanz von KeePassXC blockiert.
-Soll sie dennoch geöffnet werden? Alternativ wird die Datenbank schreibgeschützt geöffnet.</translation>
+        <translation>Não foi possível abrir o banco de dados.</translation>
     </message>
     <message>
         <source>Merge database</source>
-        <translation>Datenbank zusammenführen</translation>
+        <translation>Juntar banco de dados</translation>
     </message>
     <message>
         <source>The database you are trying to save as is locked by another instance of KeePassXC.
 Do you want to save it anyway?</source>
-        <translation>Die Datenbank, die gespeichert werden soll, ist von einer anderen Instanz von KeePassXC blockiert.
-Soll sie dennoch gespeichert werden? </translation>
+        <translation>A base de dados que você está tentando abrir está bloqueada por outra instância de KeePassXC.
+Mesmo assim deseja salvá-la?</translation>
+    </message>
+    <message>
+        <source>Passwords</source>
+        <translation>Senhas</translation>
+    </message>
+    <message>
+        <source>Database already opened</source>
+        <translation>Banco de dados já aberto</translation>
+    </message>
+    <message>
+        <source>The database you are trying to open is locked by another instance of KeePassXC.
+
+Do you want to open it anyway?</source>
+        <translation>O banco de dados que você está tentando abrir está bloqueada por outra instância do KeePassXC.
+
+Mesmo assim deseja salvá-la?</translation>
+    </message>
+    <message>
+        <source>Open read-only</source>
+        <translation>Abrir somente leitura</translation>
     </message>
 </context>
 <context>
     <name>DatabaseWidget</name>
     <message>
         <source>Change master key</source>
-        <translation>Hauptschlüssel ändern</translation>
+        <translation>Alterar chave mestra</translation>
     </message>
     <message>
         <source>Delete entry?</source>
-        <translation>Eintrag löschen?</translation>
+        <translation>Apagar entrada?</translation>
     </message>
     <message>
         <source>Do you really want to delete the entry &quot;%1&quot; for good?</source>
-        <translation>Wollen Sie den Eintrag &quot;%1&quot; wirklich löschen?</translation>
+        <translation>Você realmente quer apagar a entrada &quot;%1&quot; para sempre?</translation>
     </message>
     <message>
         <source>Delete entries?</source>
-        <translation>Einträge löschen?</translation>
+        <translation>Apagar entradas?</translation>
     </message>
     <message>
         <source>Do you really want to delete %1 entries for good?</source>
-        <translation>Wollen Sie die Einträge &quot;%1&quot; wirklich löschen?</translation>
+        <translation>Você realmente quer apagar %1 entradas para sempre?</translation>
     </message>
     <message>
         <source>Move entries to recycle bin?</source>
-        <translation>Einträge in den Papierkorb verschieben?</translation>
+        <translation>Mover entradas para lixeira?</translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to move %n entry(s) to the recycle bin?</source>
-        <translation><numerusform>Wollen Sie wirklich %n Eintrag in den Papierkorb verschieben?</numerusform><numerusform>Wollen Sie wirklich %n Einträge in den Papierkorb verschieben?</numerusform></translation>
+        <translation><numerusform>Você realmente deseja mover %n entrada para a lixeira?</numerusform><numerusform>Você realmente deseja mover %n entradas para a lixeira?</numerusform></translation>
     </message>
     <message>
         <source>Delete group?</source>
-        <translation>Gruppe löschen?</translation>
+        <translation>Apagar grupo?</translation>
     </message>
     <message>
         <source>Do you really want to delete the group &quot;%1&quot; for good?</source>
-        <translation>Wollen Sie die Gruppe &quot;%1&quot; wirklich löschen?</translation>
+        <translation>Você realmente quer apagar o grupo &quot;%1&quot; para sempre?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Unable to calculate master key</source>
-        <translation>Berechnung des &quot;master keys&quot; gescheitert</translation>
+        <translation>Não foi possível calcular chave mestra</translation>
     </message>
     <message>
         <source>Move entry to recycle bin?</source>
-        <translation>Eintrag in den Papierkorb verschieben?</translation>
+        <translation>Mover entrada para a lixeira?</translation>
     </message>
     <message>
         <source>Do you really want to move entry &quot;%1&quot; to the recycle bin?</source>
-        <translation>Möchten Sie wirklich Eintrag &quot;%1&quot; in den Papierkorb verschieben?</translation>
+        <translation>Pretende realmente mover a entrada &quot;%1&quot; para a lixeira?</translation>
     </message>
     <message>
         <source>Searching...</source>
-        <translation>Am suchen...</translation>
+        <translation>Pesquisando...</translation>
     </message>
     <message>
         <source>No current database.</source>
-        <translation>Keine aktuelle Datenbank</translation>
+        <translation>Nenhuma base de dados atual.</translation>
     </message>
     <message>
         <source>No source database, nothing to do.</source>
-        <translation>Keine Quelldatenbank, es gibt nichts zu tun.</translation>
+        <translation>Nenhuma base de dados de origem, nada a fazer.</translation>
     </message>
     <message>
         <source>Search Results (%1)</source>
-        <translation>Suchergebnisse (%1)</translation>
+        <translation>Resultados da Pesquisa (%1)</translation>
     </message>
     <message>
         <source>No Results</source>
-        <translation>Keine Ergebnisse</translation>
+        <translation>Sem Resultados</translation>
     </message>
     <message>
         <source>Execute command?</source>
-        <translation>Befehl ausführen?</translation>
+        <translation>Executar comando?</translation>
     </message>
     <message>
         <source>Do you really want to execute the following command?&lt;br&gt;&lt;br&gt;%1&lt;br&gt;</source>
-        <translation>Den folgenden Befehl wirklich ausführen?&lt;br&gt;&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Você quer realmente executar o comando seguinte?&lt;br&gt;&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Remember my choice</source>
-        <translation>Meine Auswahl merken</translation>
+        <translation>Lembrar minha escolha</translation>
     </message>
     <message>
         <source>Autoreload Request</source>
-        <translation>Autoreload Anfrage</translation>
+        <translation>Recarregar Automaticamente Pedido</translation>
     </message>
     <message>
         <source>The database file has changed. Do you want to load the changes?</source>
-        <translation>Die Datenbank wurde verändert. Möchten Sie die Änderungen laden?</translation>
+        <translation>A base de dados foi alterada. Deseja carregar as alterações?</translation>
     </message>
     <message>
         <source>Merge Request</source>
-        <translation>Zusammenführ-Anfrage</translation>
+        <translation>Juntar Pedido</translation>
     </message>
     <message>
         <source>The database file has changed and you have unsaved changes.Do you want to merge your changes?</source>
-        <translation>Die Datenbank wurde verändert und Sie haben ungespeicherte Änderungen. Möchten Sie Ihre Änderungen zusammenfügen?</translation>
+        <translation>A base de dados foi alterada e tem alterações não gravadas. Deseja juntar as suas alterações?</translation>
     </message>
     <message>
         <source>Autoreload Failed</source>
-        <translation>Autoreload fehlgeschlagen</translation>
-    </message>
-    <message>
-        <source>Could not parse or unlock the new database file while attempting to autoreload this database.</source>
-        <translation>Kann Datenbank nicht durchsuchen oder entsperren während dem Autoreload-Versuch dieser Datenbank.</translation>
+        <translation>Carregamento Automático Falhou</translation>
     </message>
     <message>
         <source>Could not open the new database file while attempting to autoreload this database.</source>
-        <translation>Kann die Datenbank nicht öffnen während dem Versuch, diese Datenbank automatisch neu zu laden.</translation>
+        <translation>Não foi possível abrir a nova base de dados ao tentar recarregar automaticamente essa base de dados.</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidget</name>
     <message>
         <source>Entry</source>
-        <translation>Eintrag</translation>
+        <translation>Entrada</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation>Fortgeschritten</translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>Symbol</translation>
+        <translation>Ícone</translation>
     </message>
     <message>
         <source>Auto-Type</source>
-        <translation>Auto-Type</translation>
+        <translation>Auto-Digitação</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>Eigenschaften</translation>
+        <translation>Propriedades</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>Verlauf</translation>
+        <translation>Histórico</translation>
     </message>
     <message>
         <source>Entry history</source>
-        <translation>Eintragsverlauf</translation>
+        <translation>Histórico de Entradas</translation>
     </message>
     <message>
         <source>Add entry</source>
-        <translation>Eintrag hinzufügen</translation>
+        <translation>Adicionar entrada</translation>
     </message>
     <message>
         <source>Edit entry</source>
-        <translation>Eintrag bearbeiten</translation>
+        <translation>Editar entrada</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Different passwords supplied.</source>
-        <translation>Unterschiedliche Passwörter eingegeben.</translation>
+        <translation>Senhas diferentes fornecidas.</translation>
     </message>
     <message>
         <source>New attribute</source>
-        <translation>Neue Eigenschaft</translation>
+        <translation>Novo atributo</translation>
     </message>
     <message>
         <source>Select file</source>
-        <translation>Datei wählen</translation>
+        <translation>Selecionar arquivo</translation>
     </message>
     <message>
         <source>Unable to open file</source>
-        <translation>Öffnen der Datei nicht möglich</translation>
+        <translation>Não foi possível abrir o arquivo</translation>
     </message>
     <message>
         <source>Save attachment</source>
-        <translation>Anhang speichern</translation>
+        <translation>Salvar anexo</translation>
     </message>
     <message>
         <source>Unable to save the attachment:
 </source>
-        <translation>Speichern des Anhangs nicht möglich:</translation>
+        <translation>Não foi possível salvar o anexo:
+</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation>Morgen</translation>
+        <translation>Amanhã</translation>
     </message>
     <message numerus="yes">
         <source>%n week(s)</source>
-        <translation><numerusform>%n Woche</numerusform><numerusform>%n Wochen</numerusform></translation>
+        <translation><numerusform>%n semana(s)</numerusform><numerusform>%n semana(s)</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n month(s)</source>
-        <translation><numerusform>%n Monat</numerusform><numerusform>%n Monaten</numerusform></translation>
+        <translation><numerusform>%n mês</numerusform><numerusform>%n mese(s)</numerusform></translation>
     </message>
     <message>
         <source>1 year</source>
-        <translation>1 Jahr</translation>
+        <translation>1 ano</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidgetAdvanced</name>
     <message>
         <source>Additional attributes</source>
-        <translation>Zusätzliche Eigenschaften</translation>
+        <translation>Atributos extras</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Hinzufügen</translation>
+        <translation>Adicionar</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Bearbeiten</translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Entfernen</translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <source>Attachments</source>
-        <translation>Anhänge</translation>
+        <translation>Anexos</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Speichern</translation>
+        <translation>Salvar</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Offen</translation>
+        <translation>Abrir</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidgetAutoType</name>
     <message>
         <source>Enable Auto-Type for this entry</source>
-        <translation>Auto-Type für diesen Eintrag aktivieren</translation>
-    </message>
-    <message>
-        <source>Inherit default Auto-Type sequence from the group</source>
-        <translation>Standard-Auto-Type-Sequenz von der Gruppe erben</translation>
-    </message>
-    <message>
-        <source>Use custom Auto-Type sequence:</source>
-        <translation>Benutzerdefinierte Auto-Type-Sequenz benutzen:</translation>
+        <translation>Habilitar Auto-Digitação para esta entrada</translation>
     </message>
     <message>
         <source>+</source>
@@ -666,53 +670,61 @@ Soll sie dennoch gespeichert werden? </translation>
     </message>
     <message>
         <source>Window title:</source>
-        <translation>Fenstertitel:</translation>
+        <translation>Título da Janela:</translation>
     </message>
     <message>
-        <source>Use default sequence</source>
-        <translation>Standardsequenz benutzen</translation>
+        <source>Inherit default Auto-Type sequence from the &amp;group</source>
+        <translation>Herdar sequência pré-definida de Auto-Digitação do &amp;grupo</translation>
     </message>
     <message>
-        <source>Set custom sequence:</source>
-        <translation>Benutzerdefinierte Sequenz verwenden:</translation>
+        <source>&amp;Use custom Auto-Type sequence:</source>
+        <translation>&amp;Usar sequência de Auto-Digitação personalizada:</translation>
+    </message>
+    <message>
+        <source>Use default se&amp;quence</source>
+        <translation>Usar se&amp;quência pré-definida</translation>
+    </message>
+    <message>
+        <source>Set custo&amp;m sequence:</source>
+        <translation>Definir sequência &amp;personalizada:</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidgetHistory</name>
     <message>
         <source>Show</source>
-        <translation>Anzeigen</translation>
+        <translation>Mostrar</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation>Wiederherstellen</translation>
+        <translation>Restaurar</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Löschen</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Delete all</source>
-        <translation>Alle löschen</translation>
+        <translation>Excluir todos</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidgetMain</name>
     <message>
         <source>Title:</source>
-        <translation>Titel:</translation>
+        <translation>Título:</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation>Benutzername:</translation>
+        <translation>Nome de Usuário:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Passwort:</translation>
+        <translation>Senha:</translation>
     </message>
     <message>
         <source>Repeat:</source>
-        <translation>Wiederholen:</translation>
+        <translation>Repetir:</translation>
     </message>
     <message>
         <source>URL:</source>
@@ -720,151 +732,151 @@ Soll sie dennoch gespeichert werden? </translation>
     </message>
     <message>
         <source>Expires</source>
-        <translation>Erlischt</translation>
+        <translation>Expira em</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation>Vorgaben</translation>
+        <translation>Pré-definidos</translation>
     </message>
     <message>
         <source>Notes:</source>
-        <translation>Notizen:</translation>
+        <translation>Notas:</translation>
     </message>
 </context>
 <context>
     <name>EditGroupWidget</name>
     <message>
         <source>Group</source>
-        <translation>Gruppe</translation>
+        <translation>Grupo</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>Symbol</translation>
+        <translation>Ícone</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>Eigenschaften</translation>
+        <translation>Propriedades</translation>
     </message>
     <message>
         <source>Add group</source>
-        <translation>Gruppe hinzufügen</translation>
+        <translation>Adicionar grupo</translation>
     </message>
     <message>
         <source>Edit group</source>
-        <translation>Gruppe bearbeiten</translation>
+        <translation>Editar grupo</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation>Aktivieren</translation>
+        <translation>Habilitar</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation>Deaktivieren</translation>
+        <translation>Desabilitar</translation>
     </message>
     <message>
         <source>Inherit from parent group (%1)</source>
-        <translation>Von der übergeordneten Gruppe (%1) erben</translation>
+        <translation>Herdar do grupo pai (%1)</translation>
     </message>
 </context>
 <context>
     <name>EditGroupWidgetMain</name>
     <message>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation>Notizen</translation>
+        <translation>Notas</translation>
     </message>
     <message>
         <source>Expires</source>
-        <translation>Erlischt</translation>
+        <translation>Expira em</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Suche</translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <source>Auto-type</source>
-        <translation>Auto-type</translation>
+        <translation>Auto-digitar</translation>
     </message>
     <message>
         <source>Use default auto-type sequence of parent group</source>
-        <translation>Auto-Type-Sequenz der übergeordneten Gruppe anwenden.</translation>
+        <translation>Usar sequência de auto-digitação padrão do grupo pai</translation>
     </message>
     <message>
         <source>Set default auto-type sequence</source>
-        <translation>Standard Auto-Type-Sequenz setzen</translation>
+        <translation>Definir sequência auto-digitação padrão</translation>
     </message>
 </context>
 <context>
     <name>EditWidgetIcons</name>
     <message>
-        <source>Use default icon</source>
-        <translation>Standardsymbol verwenden</translation>
-    </message>
-    <message>
-        <source>Use custom icon</source>
-        <translation>Benutzerdefiniertes Symbol verwenden</translation>
-    </message>
-    <message>
         <source>Add custom icon</source>
-        <translation>Benutzerdefiniertes Symbol hinzufügen</translation>
+        <translation>Adicionar ícone personalizado</translation>
     </message>
     <message>
         <source>Delete custom icon</source>
-        <translation>Benutzerdefiniertes Symbol löschen</translation>
+        <translation>Excluir ícone personalizado</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation>Bilder</translation>
+        <translation>Imagens</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>Alle Dateien</translation>
+        <translation>Todos os arquivos</translation>
     </message>
     <message>
         <source>Select Image</source>
-        <translation>Bild auswählen</translation>
+        <translation>Selecionar imagem</translation>
     </message>
     <message>
         <source>Can&apos;t delete icon!</source>
-        <translation>Symbol kann nicht gelöscht werden!</translation>
+        <translation>Não é possível apagar o ícone!</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Download favicon</source>
-        <translation>Favicon herunterladen</translation>
+        <translation>Baixar favicon</translation>
     </message>
     <message>
         <source>Unable to fetch favicon.</source>
-        <translation>Abrufen des Favicons nicht möglich</translation>
+        <translation>Não foi possível obter favicon.</translation>
     </message>
     <message>
         <source>Can&apos;t read icon</source>
-        <translation>Icon kann nicht gelesen werden</translation>
+        <translation>Não foi possível ler ícone</translation>
     </message>
     <message>
         <source>Can&apos;t delete icon. Still used by %1 items.</source>
-        <translation>Symbol kann nicht gelöscht werden. Es wird noch von %1 Einträgen verwendet.</translation>
+        <translation>Não é possível apagar ícone. Ainda usado por %1 itens.</translation>
+    </message>
+    <message>
+        <source>&amp;Use default icon</source>
+        <translation>&amp;Usar ícone padrão</translation>
+    </message>
+    <message>
+        <source>Use custo&amp;m icon</source>
+        <translation>Usar ícone &amp;personalizado</translation>
     </message>
 </context>
 <context>
     <name>EditWidgetProperties</name>
     <message>
         <source>Created:</source>
-        <translation>Erstellt:</translation>
+        <translation>Criado em:</translation>
     </message>
     <message>
         <source>Modified:</source>
-        <translation>Bearbeitet:</translation>
+        <translation>Modificado em:</translation>
     </message>
     <message>
         <source>Accessed:</source>
-        <translation>Zugegriffen:</translation>
+        <translation>Acessado em:</translation>
     </message>
     <message>
         <source>Uuid:</source>
@@ -875,29 +887,29 @@ Soll sie dennoch gespeichert werden? </translation>
     <name>Entry</name>
     <message>
         <source> - Clone</source>
-        <translation>- Klone</translation>
+        <translation> - Clone</translation>
     </message>
 </context>
 <context>
     <name>EntryAttributesModel</name>
     <message>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation>Nome</translation>
     </message>
 </context>
 <context>
     <name>EntryHistoryModel</name>
     <message>
         <source>Last modified</source>
-        <translation>Zuletzt geändert</translation>
+        <translation>Modificado pela última vez em</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Titel</translation>
+        <translation>Título</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Benutzername</translation>
+        <translation>Nome de usuário</translation>
     </message>
     <message>
         <source>URL</source>
@@ -908,15 +920,15 @@ Soll sie dennoch gespeichert werden? </translation>
     <name>EntryModel</name>
     <message>
         <source>Group</source>
-        <translation>Gruppe</translation>
+        <translation>Grupo</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Titel</translation>
+        <translation>Título</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Benutzername</translation>
+        <translation>Nome de usuário</translation>
     </message>
     <message>
         <source>URL</source>
@@ -927,22 +939,22 @@ Soll sie dennoch gespeichert werden? </translation>
     <name>Group</name>
     <message>
         <source>Recycle Bin</source>
-        <translation>Papierkorb</translation>
+        <translation>Lixeira</translation>
     </message>
 </context>
 <context>
     <name>HttpPasswordGeneratorWidget</name>
     <message>
         <source>Length:</source>
-        <translation>Länge:</translation>
+        <translation>Comprimento:</translation>
     </message>
     <message>
         <source>Character Types</source>
-        <translation>Zeichenarten</translation>
+        <translation>Tipo de Caracteres</translation>
     </message>
     <message>
         <source>Upper Case Letters</source>
-        <translation>Großbuchstaben</translation>
+        <translation>Letras Maiúsculas</translation>
     </message>
     <message>
         <source>A-Z</source>
@@ -950,7 +962,7 @@ Soll sie dennoch gespeichert werden? </translation>
     </message>
     <message>
         <source>Lower Case Letters</source>
-        <translation>Kleinbuchstaben</translation>
+        <translation>Letras Minúsculas</translation>
     </message>
     <message>
         <source>a-z</source>
@@ -958,7 +970,7 @@ Soll sie dennoch gespeichert werden? </translation>
     </message>
     <message>
         <source>Numbers</source>
-        <translation>Zahlen</translation>
+        <translation>Números</translation>
     </message>
     <message>
         <source>0-9</source>
@@ -966,7 +978,7 @@ Soll sie dennoch gespeichert werden? </translation>
     </message>
     <message>
         <source>Special Characters</source>
-        <translation>Sonderzeichen</translation>
+        <translation>Caracteres Especiais</translation>
     </message>
     <message>
         <source>/*_&amp; ...</source>
@@ -974,292 +986,292 @@ Soll sie dennoch gespeichert werden? </translation>
     </message>
     <message>
         <source>Exclude look-alike characters</source>
-        <translation>Gleich aussehende Zeichen ausschließen</translation>
+        <translation>Excluir caracteres semelhantes</translation>
     </message>
     <message>
         <source>Ensure that the password contains characters from every group</source>
-        <translation>Sicherstellen, dass das Passwort Zeichen aus allen Gruppen enthält.</translation>
+        <translation>Verificar se a senha contém caracteres de todos os grupos</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation>Akzeptieren</translation>
+        <translation>Aceitar</translation>
     </message>
 </context>
 <context>
     <name>KeePass1OpenWidget</name>
     <message>
         <source>Import KeePass1 database</source>
-        <translation>KeePass 1 Datenbank importieren</translation>
+        <translation>Importar banco de dados KeePass1</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Unable to open the database.</source>
-        <translation>Öffnen der Datenbank nicht möglich.</translation>
+        <translation>Não foi possível abrir o banco de dados.</translation>
     </message>
 </context>
 <context>
     <name>KeePass1Reader</name>
     <message>
         <source>Unable to read keyfile.</source>
-        <translation>Lesen der Schlüsseldatei nicht möglich.</translation>
+        <translation>Não foi possível ler o arquivo-chave.</translation>
     </message>
     <message>
         <source>Not a KeePass database.</source>
-        <translation>Keine KeePass-Datenbank.</translation>
+        <translation>Não é um banco de dados KeePass.</translation>
     </message>
     <message>
         <source>Unsupported encryption algorithm.</source>
-        <translation>Nicht unterstützter Verschlüsselungsalgorithmus.</translation>
+        <translation>Algoritmo de encriptação não suportado.</translation>
     </message>
     <message>
         <source>Unsupported KeePass database version.</source>
-        <translation>Nicht unterstützte KeePass-Datenbankversion.</translation>
+        <translation>Versão do banco de dados KeePass não suportada.</translation>
     </message>
     <message>
         <source>Root</source>
-        <translation>Root</translation>
+        <translation>Raíz</translation>
     </message>
     <message>
         <source>Unable to calculate master key</source>
-        <translation>Berechnung des &quot;master keys&quot; gescheitert</translation>
+        <translation>Não foi possível calcular a chave mestra</translation>
     </message>
     <message>
         <source>Wrong key or database file is corrupt.</source>
-        <translation>Falscher Schlüssel oder die Datenbank ist beschädigt.</translation>
+        <translation>Chave errada ou base de dados corrompida.</translation>
     </message>
 </context>
 <context>
     <name>KeePass2Reader</name>
     <message>
         <source>Not a KeePass database.</source>
-        <translation>Keine KeePass-Datenbank.</translation>
+        <translation>Não é um banco de dados KeePass.</translation>
     </message>
     <message>
         <source>Unsupported KeePass database version.</source>
-        <translation>Nicht unterstützte KeePass-Datenbankversion.</translation>
+        <translation>Versão não suportada do banco de dados KeePass.</translation>
     </message>
     <message>
         <source>Wrong key or database file is corrupt.</source>
-        <translation>Falscher Schlüssel oder die Datei ist beschädigt.</translation>
+        <translation>Chave errada ou arquivo de banco de dados está corrompido.</translation>
     </message>
     <message>
         <source>Unable to calculate master key</source>
-        <translation>Berechnung des &quot;master keys&quot; gescheitert</translation>
+        <translation>Não foi possível calcular a chave mestre</translation>
     </message>
     <message>
         <source>The selected file is an old KeePass 1 database (.kdb).
 
 You can import it by clicking on Database &gt; 'Import KeePass 1 database'.
 This is a one-way migration. You won&apos;t be able to open the imported database with the old KeePassX 0.4 version.</source>
-        <translation>Die ausgewählte Datei ist eine alte KeePass 1 Datenbank (.kdb).
+        <translation>O arquivo selecionado é um banco de dados antigo do KeePass 1 (.kdb).
 
-Zum Importieren gehen Sie auf Datenbank &gt; &apos;KeePass 1 Datenbank importieren&apos;.
-Dieser Vorgang ist nur in eine Richtung möglich. Die importierte Datenbank kann später nicht mehr mit der alten KeePassX Version 0.4 geöffnet werden.</translation>
+Você pode importá-lo clicando em Banco de Dados &gt; &apos;Importar banco de dados KeePass 1&apos;.
+Esta é uma migração de uma via. Você não poderá abrir o banco de dados importado com a versão antiga do KeePassX 0.4.</translation>
     </message>
 </context>
 <context>
     <name>Main</name>
     <message>
         <source>Fatal error while testing the cryptographic functions.</source>
-        <translation>Fataler Fehler beim Testen der kryptografischen Funktionen.</translation>
+        <translation>Erro fatal enquanto testava as funções criptográficas.</translation>
     </message>
     <message>
         <source>KeePassXC - Error</source>
-        <translation>KeePassXC - Fehler</translation>
+        <translation>KeePassXC - Erro</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>Database</source>
-        <translation>Datenbank</translation>
+        <translation>Banco de Dados</translation>
     </message>
     <message>
         <source>Open database</source>
-        <translation>Datenbank öffnen</translation>
+        <translation>Abrir banco de dados</translation>
     </message>
     <message>
         <source>Database settings</source>
-        <translation>Datenbankeinstellungen</translation>
+        <translation>Configurações do Banco de Dados</translation>
     </message>
     <message>
         <source>Copy username to clipboard</source>
-        <translation>Benutzername in die Zwischenablage kopieren</translation>
+        <translation>Copiar nome de usuário para área de transferência</translation>
     </message>
     <message>
         <source>Copy password to clipboard</source>
-        <translation>Passwort in die Zwischenablage kopieren</translation>
+        <translation>Copiar senha para área de transferência</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Einstellungen</translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <source>Show toolbar</source>
-        <translation>Symbolleiste anzeigen</translation>
+        <translation>Mostrar barra de ferramentas</translation>
     </message>
     <message>
         <source>read-only</source>
-        <translation>Nur Lesezugriff</translation>
+        <translation>somente leitura</translation>
     </message>
     <message>
         <source>Toggle window</source>
-        <translation>Fenster zeigen/verstecken</translation>
+        <translation>Alternar Janela</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Tools</translation>
+        <translation>Ferramentas</translation>
     </message>
     <message>
         <source>KeePass 2 Database</source>
-        <translation>KeePass 2 Datenbank</translation>
+        <translation>Banco de dados Keepass 2</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>Alle Dateien</translation>
+        <translation>Todos arquivos</translation>
     </message>
     <message>
         <source>Save repaired database</source>
-        <translation>Reparierte Datenbank speichern</translation>
+        <translation>Salvar banco de dados reparado</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Writing the database failed.</source>
-        <translation>Schreiben der Datenbank fehlgeschlagen.</translation>
+        <translation>Escrita do banco de dados falhou.</translation>
     </message>
     <message>
         <source>&amp;Recent databases</source>
-        <translation>&amp;Letzte Datenbanken</translation>
+        <translation>&amp;Bancos de dados recentes</translation>
     </message>
     <message>
         <source>He&amp;lp</source>
-        <translation>Hi&amp;lfe</translation>
+        <translation>&amp;Ajuda</translation>
     </message>
     <message>
         <source>E&amp;ntries</source>
-        <translation>Ei&amp;nträge</translation>
+        <translation>E&amp;ntradas</translation>
     </message>
     <message>
         <source>Copy att&amp;ribute to clipboard</source>
-        <translation>Eigenschaft in &amp;Zwischenablage kopieren</translation>
+        <translation>Copiar at&amp;ributo para área de transferência</translation>
     </message>
     <message>
         <source>&amp;Groups</source>
-        <translation>&amp;Gruppen</translation>
+        <translation>&amp;Grupos</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation>&amp;Ansicht</translation>
+        <translation>&amp;Ver</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation>&amp;Beenden</translation>
+        <translation>&amp;Sair</translation>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>&amp;Über</translation>
+        <translation>&amp;Sobre</translation>
     </message>
     <message>
         <source>&amp;Open database</source>
-        <translation>&amp;Öffne Datenbank</translation>
+        <translation>&amp;Abrir base de dados</translation>
     </message>
     <message>
         <source>&amp;Save database</source>
-        <translation>Datenbank &amp;speichern</translation>
+        <translation>&amp;Salvar base de dados</translation>
     </message>
     <message>
         <source>&amp;Close database</source>
-        <translation>&amp;Datenbank schließen</translation>
+        <translation>&amp;Fechar base de dados</translation>
     </message>
     <message>
         <source>&amp;New database</source>
-        <translation>&amp;Neue Datenbank</translation>
+        <translation>&amp;Nova base de dados</translation>
     </message>
     <message>
         <source>Merge from KeePassX database</source>
-        <translation>Von KeePassX-Datenbank zusammenführen</translation>
+        <translation>Juntar base de dados a partir de KeePassX</translation>
     </message>
     <message>
         <source>&amp;Add new entry</source>
-        <translation>Neuen Eintrag &amp;hinzufügen</translation>
+        <translation>&amp;Adicionar nova entrada</translation>
     </message>
     <message>
         <source>&amp;View/Edit entry</source>
-        <translation>Eintrag &amp;anzeigen/bearbeiten</translation>
+        <translation>&amp;Ver/Editar entrada</translation>
     </message>
     <message>
         <source>&amp;Delete entry</source>
-        <translation>Eintrag &amp;löschen</translation>
+        <translation>&amp;Apagar entrada</translation>
     </message>
     <message>
         <source>&amp;Add new group</source>
-        <translation>&amp;Neue Gruppe hinzufügen</translation>
+        <translation>&amp;Adicionar novo grupo</translation>
     </message>
     <message>
         <source>&amp;Edit group</source>
-        <translation>Gruppe b&amp;earbeiten</translation>
+        <translation>&amp;Editar grupo</translation>
     </message>
     <message>
         <source>&amp;Delete group</source>
-        <translation>Gruppe &amp;löschen</translation>
+        <translation>&amp;Apagar grupo</translation>
     </message>
     <message>
         <source>Sa&amp;ve database as</source>
-        <translation>Datenbank s&amp;peichern als</translation>
+        <translation>Sal&amp;var base de dados como</translation>
     </message>
     <message>
         <source>Change &amp;master key</source>
-        <translation>&amp;Hauptschlüssel ändern</translation>
+        <translation>Alterar chave &amp;mestra</translation>
     </message>
     <message>
         <source>&amp;Database settings</source>
-        <translation>&amp;Datenbankeinstellungen</translation>
+        <translation>&amp;Definições da base de dados</translation>
     </message>
     <message>
         <source>&amp;Import KeePass 1 database</source>
-        <translation>&amp;KeePass 1 Datenbank importieren</translation>
+        <translation>&amp;Importar base de dados KeePass 1</translation>
     </message>
     <message>
         <source>&amp;Clone entry</source>
-        <translation>Eintrag &amp;klonen</translation>
+        <translation>&amp;Clonar entrada</translation>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation>&amp;Suchen</translation>
+        <translation>&amp;Encontrar</translation>
     </message>
     <message>
         <source>Copy &amp;username</source>
-        <translation>&amp;Benutzername kopieren</translation>
+        <translation>Copiar nome de &amp;usuário</translation>
     </message>
     <message>
         <source>Cop&amp;y password</source>
-        <translation>Passwort kop&amp;ieren</translation>
+        <translation>Cop&amp;iar senha</translation>
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>&amp;Einstellungen</translation>
+        <translation>&amp;Configurações</translation>
     </message>
     <message>
         <source>&amp;Perform Auto-Type</source>
-        <translation>&amp;Auto-Type ausführen</translation>
+        <translation>&amp;Executar escrita automática</translation>
     </message>
     <message>
         <source>&amp;Open URL</source>
-        <translation>URL &amp;öffnen</translation>
+        <translation>&amp;Abrir URL</translation>
     </message>
     <message>
         <source>&amp;Lock databases</source>
-        <translation>Datenbank &amp;sperren</translation>
+        <translation>&amp;Trancar base de dados</translation>
     </message>
     <message>
         <source>&amp;Title</source>
-        <translation>&amp;Titel</translation>
+        <translation>&amp;Título</translation>
     </message>
     <message>
         <source>&amp;URL</source>
@@ -1267,165 +1279,165 @@ Dieser Vorgang ist nur in eine Richtung möglich. Die importierte Datenbank kann
     </message>
     <message>
         <source>&amp;Notes</source>
-        <translation>&amp;Notizen</translation>
+        <translation>&amp;Notas</translation>
     </message>
     <message>
         <source>&amp;Export to CSV file</source>
-        <translation>Als CSV Datei &amp;exportieren</translation>
+        <translation>&amp;Exportar para arquivo CSV</translation>
     </message>
     <message>
         <source>Re&amp;pair database</source>
-        <translation>Datenbank re&amp;parieren</translation>
+        <translation>Re&amp;parar banco de dados</translation>
     </message>
     <message>
         <source>Password Generator</source>
-        <translation>Passwortgenerator</translation>
+        <translation>Gerador de Senha</translation>
     </message>
 </context>
 <context>
     <name>OptionDialog</name>
     <message>
         <source>Dialog</source>
-        <translation>Dialog</translation>
+        <translation>Diálogo</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Allgemein</translation>
+        <translation>Geral</translation>
     </message>
     <message>
         <source>Sh&amp;ow a notification when credentials are requested</source>
-        <translation>Zeig&amp;e eine Benachrichtigung, wenn Anmeldedaten angefordert werden.</translation>
-    </message>
-    <message>
-        <source>&amp;Return only best matching entries for an URL instead
-of all entries for the whole domain</source>
-        <translation>Zeige nur die passendsten Einträge für eine URL, statt
-alle Einträge der ganzen Domäne. </translation>
+        <translation>M&amp;ostrar uma notificação quando as credenciais forem solicitadas</translation>
     </message>
     <message>
         <source>&amp;Match URL schemes
 Only entries with the same scheme (http://, https://, ftp://, ...) are returned</source>
-        <translation>Passendes URL Schema
-Nur Einträge mit dem gleichen Schema (hhtp://, https://, ftp://, ...) werden angezeigt</translation>
+        <translation>&amp;Esquemas de URL coincidentes
+Somente entradas com o mesmo esquema (http://, https://, ftp://, ...) são mostradas</translation>
     </message>
     <message>
         <source>Sort matching entries by &amp;username</source>
-        <translation>Sortiere gefundene Einträge nach &amp;Benutzername</translation>
-    </message>
-    <message>
-        <source>R&amp;emove all shared encryption-keys from active database</source>
-        <translation>Entferne alle freigegebenen Chiffrierschlüssel aus der aktiven Datenbank</translation>
+        <translation>Ordenar entradas coincidentes por nome de &amp;usuário</translation>
     </message>
     <message>
         <source>Re&amp;move all stored permissions from entries in active database</source>
-        <translation>Entferne alle gespeicherten Berechtigungen von Einträgen in der aktiven Datenbank</translation>
+        <translation>R&amp;emover todas as permissões armazenadas de entradas na base de dados ativa</translation>
     </message>
     <message>
         <source>Password generator</source>
-        <translation>Passwortgenerator</translation>
+        <translation>Gerador de senha</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation>Fortgeschritten</translation>
-    </message>
-    <message>
-        <source>Activate the following only, if you know what you are doing!</source>
-        <translation>Aktivieren Sie das Nachfolgende nur dann, wenn Sie sich sicher sind, was sie tun! </translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <source>Always allow &amp;access to entries</source>
-        <translation>&amp;Zugriff auf Einträge immer erlauben</translation>
+        <translation>Permitir sempre &amp;acesso as entradas</translation>
     </message>
     <message>
         <source>Always allow &amp;updating entries</source>
-        <translation>&amp;Aktualisierung von Einträgen immer erlauben</translation>
+        <translation>Permitir sempre &amp;atualizar as entradas</translation>
     </message>
     <message>
         <source>Searc&amp;h in all opened databases for matching entries</source>
-        <translation>Suche in allen offenen Datenbanken nach übereinstimmenden Einträgen</translation>
+        <translation>Procurar em todas as base de dados abertas por entradas semel&amp;hantes</translation>
     </message>
     <message>
         <source>Only the selected database has to be connected with a client!</source>
-        <translation>Nur die ausgewählte Datenbank muss mit dem Client verbunden sein.</translation>
-    </message>
-    <message>
-        <source>&amp;Return also advanced string fields which start with &quot;KPH: &quot;</source>
-        <translation>Zeige auch erweiterte Zeichenfelder, welche mit &quot;KPH: &quot; beginnen</translation>
-    </message>
-    <message>
-        <source>Automatic creates or updates are not supported for string fields!</source>
-        <translation>Automatisches Erstellen und Aktualisieren von Zeichenfeldern wird nicht unterstützt!</translation>
+        <translation>Somente a base de dados selecionada tem que ser conectada com um cliente!</translation>
     </message>
     <message>
         <source>HTTP Port:</source>
-        <translation>HTTP Port:</translation>
+        <translation>Porta HTTP:</translation>
     </message>
     <message>
         <source>Default port: 19455</source>
-        <translation>Standard Port:19455</translation>
+        <translation>Porta padrão: 19455</translation>
     </message>
     <message>
         <source>Re&amp;quest to unlock the database if it is locked</source>
-        <translation>Verlange Entsperrung, wenn die Datenbank gesperrt ist.</translation>
+        <translation>Pe&amp;dir para desbloquear a base de dados se estiver bloqueada</translation>
     </message>
     <message>
         <source>Sort &amp;matching entries by title</source>
-        <translation>Sortiere gefundene Einträge nach Titel</translation>
+        <translation>Ordenar &amp;entradas por título</translation>
     </message>
     <message>
         <source>Enable KeepassXC HTTP protocol
 This is required for accessing your databases from ChromeIPass or PassIFox</source>
-        <translation>Aktiviere KeePassXC HTTP Protokoll
-Dies wird benötigt um von ChromeIPass oder PassIFox auf Deine Datenbank zu zugreifen</translation>
+        <translation>Habilitar o protocolo KeepassXC HTTP
+Isso é necessário para acessar os seus bancos de dados usando o ChromeIPass ou PassIFox</translation>
     </message>
     <message>
         <source>KeePassXC will listen to this port on 127.0.0.1</source>
-        <translation>KeePassXC überwacht diesen Port auf 127.0..0.1</translation>
+        <translation>KeePassXC irá escutar esta porta em 127.0.0.1</translation>
     </message>
     <message>
         <source>Cannot bind to privileged ports</source>
-        <translation>Kann nicht zu privilegierte Ports verbinden</translation>
+        <translation>Não é possível ligar a portas privilegiadas</translation>
     </message>
     <message>
         <source>Cannot bind to privileged ports below 1024!
 Using default port 19455.</source>
-        <translation>Kann nicht zu privilegierten Ports unter 1024 verbinden!
-Benutze Standardport 19455.</translation>
+        <translation>Não é possível ligar a portas privilegiadas abaixo de 1024!
+Usando porta padrão 19455.</translation>
+    </message>
+    <message>
+        <source>&amp;Return only best matching entries for a URL instead
+of all entries for the whole domain</source>
+        <translation>&amp;Mostrar apenas as melhores entradas correspondentes para um URL em vez de
+todas as entradas para o domínio completo</translation>
+    </message>
+    <message>
+        <source>R&amp;emove all shared encryption keys from active database</source>
+        <translation>R&amp;emover todas as chaves criptografadas compartilhadas da base de dados ativa</translation>
+    </message>
+    <message>
+        <source>The following options can be dangerous. Change them only if you know what you are doing.</source>
+        <translation>As configurações abaixo podem ser perigosas. Altere-as somente se souber o que está fazendo.</translation>
+    </message>
+    <message>
+        <source>&amp;Return advanced string fields which start with &quot;KPH: &quot;</source>
+        <translation>&amp;Mostrar também campos avançados que começam com &quot;KPH: &quot;</translation>
+    </message>
+    <message>
+        <source>Automatically creating or updating string fields is not supported.</source>
+        <translation>Criação automática ou atualizações não são suportadas para os valores dos campos.</translation>
     </message>
 </context>
 <context>
     <name>PasswordGeneratorWidget</name>
     <message>
         <source>Password:</source>
-        <translation>Passwort:</translation>
+        <translation>Senha:</translation>
     </message>
     <message>
         <source>Character Types</source>
-        <translation>Zeichenarten</translation>
+        <translation>Tipos de Caracteres</translation>
     </message>
     <message>
         <source>Upper Case Letters</source>
-        <translation>Großbuchstaben</translation>
+        <translation>Letras Maiúsculas</translation>
     </message>
     <message>
         <source>Lower Case Letters</source>
-        <translation>Kleinbuchstaben</translation>
+        <translation>Letras Minúsculas</translation>
     </message>
     <message>
         <source>Numbers</source>
-        <translation>Zahlen</translation>
+        <translation>Números</translation>
     </message>
     <message>
         <source>Special Characters</source>
-        <translation>Sonderzeichen</translation>
+        <translation>Caracteres Especiais</translation>
     </message>
     <message>
         <source>Exclude look-alike characters</source>
-        <translation>Gleich aussehende Zeichen ausschließen</translation>
+        <translation>Excluir caracteres similares</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation>Akzeptieren</translation>
+        <translation>Aceitar</translation>
     </message>
     <message>
         <source>%p%</source>
@@ -1433,55 +1445,55 @@ Benutze Standardport 19455.</translation>
     </message>
     <message>
         <source>strength</source>
-        <translation>Stärke</translation>
+        <translation>força</translation>
     </message>
     <message>
         <source>entropy</source>
-        <translation>Entropie</translation>
+        <translation>entropia</translation>
     </message>
     <message>
         <source>&amp;Length:</source>
-        <translation>&amp;Länge:</translation>
+        <translation>&amp;Tamanho:</translation>
     </message>
     <message>
         <source>Pick characters from every group</source>
-        <translation>Zeichen aus allen Gruppen wählen</translation>
+        <translation>Selecione caracteres de todos os grupos</translation>
     </message>
     <message>
         <source>Generate</source>
-        <translation>Generiere</translation>
+        <translation>Gerar</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Schließen</translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Anwenden</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <source>Entropy: %1 bit</source>
-        <translation>Entropie: %1 bit</translation>
+        <translation>Entropia: %1 bit</translation>
     </message>
     <message>
         <source>Password Quality: %1</source>
-        <translation>Passwort Qualität: %1</translation>
+        <translation>Qualidade da senha: %1</translation>
     </message>
     <message>
         <source>Poor</source>
-        <translation>Schlecht</translation>
+        <translation>Pobre</translation>
     </message>
     <message>
         <source>Weak</source>
-        <translation>Schwach</translation>
+        <translation>Fraco</translation>
     </message>
     <message>
         <source>Good</source>
-        <translation>Gut</translation>
+        <translation>Bom</translation>
     </message>
     <message>
         <source>Excellent</source>
-        <translation>Exzellent</translation>
+        <translation>Excelente</translation>
     </message>
 </context>
 <context>
@@ -1495,53 +1507,53 @@ Benutze Standardport 19455.</translation>
     <name>QtIOCompressor</name>
     <message>
         <source>Internal zlib error when compressing: </source>
-        <translation>Interner Fehler in zlib beim komprimieren:</translation>
+        <translation>Erro interno do zlib ao compactar: </translation>
     </message>
     <message>
         <source>Error writing to underlying device: </source>
-        <translation>Fehler beim Schreiben auf das zugrunde liegende Gerät: </translation>
+        <translation>Erro ao gravar no dispositivo subjacente: </translation>
     </message>
     <message>
         <source>Error opening underlying device: </source>
-        <translation>Fehler beim Öffnen des zugrunde liegenden Gerätes: </translation>
+        <translation>Erro ao abrir dispositivo subjacente: </translation>
     </message>
     <message>
         <source>Error reading data from underlying device: </source>
-        <translation>Fehler beim Lesen von Daten auf dem zugrunde liegenden Gerät: </translation>
+        <translation>Erro ao ler dados do dispositivo subjacente: </translation>
     </message>
     <message>
         <source>Internal zlib error when decompressing: </source>
-        <translation>Interner Fehler in zlib beim dekomprimieren:</translation>
+        <translation>Erro interno do zlib ao descompactar: </translation>
     </message>
 </context>
 <context>
     <name>QtIOCompressor::open</name>
     <message>
         <source>The gzip format not supported in this version of zlib.</source>
-        <translation>Das gzip-Format wird von dieser zlib Version nicht unterstützt.</translation>
+        <translation>Sem suporte ao formato gzip nesta versão do zlib.</translation>
     </message>
     <message>
         <source>Internal zlib error: </source>
-        <translation>Interner Fehler in zlib:</translation>
+        <translation>Erro interno do zlib: </translation>
     </message>
 </context>
 <context>
     <name>SearchWidget</name>
     <message>
         <source>Case Sensitive</source>
-        <translation>Groß- /Kleinschreibung beachten</translation>
+        <translation>Diferenciar maiúsculas e minúsculas</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Suche</translation>
+        <translation>Pesquisar</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation>Suchen</translation>
+        <translation>Localizar</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>löschen</translation>
+        <translation>Limpar</translation>
     </message>
 </context>
 <context>
@@ -1549,237 +1561,236 @@ Benutze Standardport 19455.</translation>
     <message>
         <source>A shared encryption-key with the name &quot;%1&quot; already exists.
 Do you want to overwrite it?</source>
-        <translation>Ein freigegebener Chiffrierschlüssel mit dem Namen &quot;%1&quot; existiert schon.
-Willst Du ihn überschreiben?</translation>
+        <translation>Já existe uma chave de criptografia compartilhada com o nome &quot;%1&quot;.
+Deseja substituí-la?</translation>
     </message>
     <message>
         <source>Do you want to update the information in %1 - %2?</source>
-        <translation>Möchten Sie wirklich die Informationen in %1 - %2 aktualisieren?</translation>
+        <translation>Deseja atualizar as informações em %1 - %2?</translation>
     </message>
     <message>
         <source>The active database is locked!
 Please unlock the selected database or choose another one which is unlocked.</source>
-        <translation>Die aktive Datenbank ist gesperrt!
-Bitte entsperren Sie die markierte Datenbank oder wählen Sie eine andere, die entsperrt ist.</translation>
+        <translation>A base de dados ativa está bloqueada!
+Desbloqueie base de dados selecionada ou escolha outra que esteja desbloqueada.</translation>
     </message>
     <message>
         <source>Successfully removed %1 encryption-%2 from KeePassX/Http Settings.</source>
-        <translation>%1 Verschlüsselungs-%2 erfolgreich von KeePassX/Http Einstellungen entfernt.</translation>
+        <translation>Removido com sucesso %1 criptografia-%2 do KeePassX/Http Configurações.</translation>
     </message>
     <message>
         <source>No shared encryption-keys found in KeePassHttp Settings.</source>
-        <translation>Kein freigegebener Chiffrierschlüssel in den KeePassHttp-Einstellungen gefunden.</translation>
+        <translation>Nenhuma chave de criptografia compartilhada encontrada nas Configurações do KeePassHttp.</translation>
     </message>
     <message>
         <source>The active database does not contain an entry of KeePassHttp Settings.</source>
-        <translation>Die aktive Datenbank enthält keinen Eintrag für KeePassHttp Einstellungen.</translation>
+        <translation>A base de dados ativa não contém uma entrada de Configurações KeePassHttp.</translation>
     </message>
     <message>
         <source>Removing stored permissions...</source>
-        <translation>Gespeicherte Berechtigungen werden gelöscht...</translation>
+        <translation>Removendo permissões armazenadas...</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Abbrechen</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Successfully removed permissions from %1 %2.</source>
-        <translation>Berechtigungen wurden von %1 %2 erfolgreich gelöscht.</translation>
+        <translation>Foram removidas com êxito as permissões de %1 %2.</translation>
     </message>
     <message>
         <source>The active database does not contain an entry with permissions.</source>
-        <translation>The aktive Datenbank enthält keinen Eintrag mit Zugangsdaten.</translation>
+        <translation>A base de dados ativa não contém uma entrada com permissões.</translation>
     </message>
     <message>
         <source>KeePassXC: New key association request</source>
-        <translation>KeePassXC: Neue Schlüsselverbindungsanfrage</translation>
+        <translation>KeePassXC: Nova associação de chaves requisitada</translation>
     </message>
     <message>
         <source>You have received an association request for the above key.
 If you would like to allow it access to your KeePassXC database
 give it a unique name to identify and accept it.</source>
-        <translation>Sie haben eine Verbindungsanfrage für den obigen Schlüssel
-erhalten. Wenn Sie den Zugriff auf Ihre KeePassXC-Datenbank
-erlauben möchten, geben Sie der Verbindungen einen eindeutigen 
-Namen und akzeptieren Sie.</translation>
+        <translation>Recebeu uma solicitação de associação para a chave acima.
+Se quiser permitir o acesso a sua base de dados KeePassXC
+dar-lhe um nome único para identificá-lo e aceitá-lo.</translation>
     </message>
     <message>
         <source>KeePassXC: Overwrite existing key?</source>
-        <translation>KeePassXC: Bestehenden Schlüssel überschreiben?</translation>
+        <translation>KeePassXC: Substituir chave existente?</translation>
     </message>
     <message>
         <source>KeePassXC: Update Entry</source>
-        <translation>KeePassXC: Eintrag aktualisiert</translation>
+        <translation>KeePassXC: Atualizar entrada</translation>
     </message>
     <message>
         <source>KeePassXC: Database locked!</source>
-        <translation>KeePassXC: Datenbank gesperrt!</translation>
+        <translation>KeePassXC: Banco de dados bloqueado!</translation>
     </message>
     <message>
         <source>KeePassXC: Removed keys from database</source>
-        <translation>KeePassXC: Entfernte Schlüssel von der Datenbank</translation>
+        <translation>KeePassXC: Chaves removidas do banco de dados</translation>
     </message>
     <message>
         <source>KeePassXC: No keys found</source>
-        <translation>KeePassXC: Kein Schlüssel gefunden</translation>
+        <translation>KeePassXC: Nenhuma chave localizada</translation>
     </message>
     <message>
         <source>KeePassXC: Settings not available!</source>
-        <translation>KeePassXC: Einstellung nicht verfügbar!</translation>
+        <translation>KeePassXC: Configurações não disponíveis!</translation>
     </message>
     <message>
         <source>KeePassXC: Removed permissions</source>
-        <translation>KeePassXC: Entfernte Zugangsdaten</translation>
+        <translation>KeePassXC: Permissões removidas</translation>
     </message>
     <message>
         <source>KeePassXC: No entry with permissions found!</source>
-        <translation>KeePassXC: Kein Eintrag mit Zugangsdaten gefunden!</translation>
+        <translation>KeePassXC: Nenhuma entrada com permissões localizada!</translation>
     </message>
 </context>
 <context>
     <name>SettingsWidget</name>
     <message>
         <source>Application Settings</source>
-        <translation>Anwendungseinstellungen</translation>
+        <translation>Configurações do Aplicativo</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Allgemein</translation>
+        <translation>Geral</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation>Sicherheit</translation>
+        <translation>Segurança</translation>
     </message>
 </context>
 <context>
     <name>SettingsWidgetGeneral</name>
     <message>
         <source>Remember last databases</source>
-        <translation>Letzte Datenbank merken</translation>
+        <translation>Lembrar dos últimos bancos de dados</translation>
     </message>
     <message>
         <source>Automatically save on exit</source>
-        <translation>Automatisch speichern beim Schließen</translation>
+        <translation>Salvar automaticamente ao sair</translation>
     </message>
     <message>
         <source>Automatically save after every change</source>
-        <translation>Automatisch nach jeder Änderung speichern</translation>
+        <translation>Salvar automaticamente depois de cada alteração</translation>
     </message>
     <message>
         <source>Minimize when copying to clipboard</source>
-        <translation>Minimieren beim Kopieren in die Zwischenablage</translation>
+        <translation>Minimizar ao copiar para área de transferência</translation>
     </message>
     <message>
         <source>Use group icon on entry creation</source>
-        <translation>Gruppensymbol für das Erstellen neuer Einträge verwenden</translation>
+        <translation>Usar ícone de grupo na criação da entrada</translation>
     </message>
     <message>
         <source>Global Auto-Type shortcut</source>
-        <translation>Globale Tastenkombination für Auto-Type</translation>
+        <translation>Atalho para Auto-Digitação Global</translation>
     </message>
     <message>
         <source>Use entry title to match windows for global auto-type</source>
-        <translation>Verwende den Eintragstitel für entsprechende Fenster für den globale Auto-Typ</translation>
+        <translation>Usar título da entrada para comparar janelas para auto-digitação global</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Sprache</translation>
+        <translation>Idioma</translation>
     </message>
     <message>
         <source>Show a system tray icon</source>
-        <translation>Taskleistensymbol anzeigen</translation>
+        <translation>Mostrar um ícone da bandeja do sistema</translation>
     </message>
     <message>
         <source>Hide window to system tray when minimized</source>
-        <translation>Fenster verstecken wenn minimiert</translation>
+        <translation>Ocultar janela na bandeja de sistema quando minimizada</translation>
     </message>
     <message>
         <source>Remember last key files</source>
-        <translation>Letzte Schlüsseldateien merken</translation>
+        <translation>Lembrar dos últimos arquivos-chave</translation>
     </message>
     <message>
         <source>Load previous databases on startup</source>
-        <translation>Letzte Datenbank beim Starten laden</translation>
+        <translation>Carregar bancos de dados anteriores na inicialização</translation>
     </message>
     <message>
         <source>Automatically reload the database when modified externally</source>
-        <translation>Datenbank nach externer Modifikation automatisch neu laden.</translation>
+        <translation>Automaticamente recarregar o banco de dados quando houver modificações externas</translation>
     </message>
     <message>
         <source>Hide window to system tray instead of app exit</source>
-        <translation>Fenster zur Taskleiste minimieren statt das Programm zu beenden</translation>
+        <translation>Ocultar janela na bandeja de sistema em vez de sair do programa</translation>
     </message>
     <message>
         <source>Minimize window at application startup</source>
-        <translation>Fenster beim Programmstart minimieren</translation>
+        <translation>Iniciar programa com janela minimizada</translation>
     </message>
 </context>
 <context>
     <name>SettingsWidgetSecurity</name>
     <message>
         <source>Clear clipboard after</source>
-        <translation>Zwischenablage leeren nach</translation>
+        <translation>Limpar área de transferência após</translation>
     </message>
     <message>
         <source> sec</source>
-        <translation> sek</translation>
+        <translation> seg</translation>
     </message>
     <message>
         <source>Lock databases after inactivity of</source>
-        <translation>Datenbank sperren nach einer Inaktivität von</translation>
+        <translation>Travar bancos de dados após inatividade de</translation>
     </message>
     <message>
         <source>Show passwords in cleartext by default</source>
-        <translation>Passwörter standardmäßig in Klartext anzeigen</translation>
+        <translation>Mostrar senhas em texto claro por padrão</translation>
     </message>
     <message>
         <source>Always ask before performing auto-type</source>
-        <translation>Immer vor einem Auto-type fragen</translation>
+        <translation>Sempre perguntar antes de realizar auto-digitação</translation>
     </message>
     <message>
         <source>Lock databases after minimizing the window</source>
-        <translation>Datenbank sperren nach dem Minimieren des Fensters</translation>
+        <translation>Bloquear bancos de dados após minimizar a janela</translation>
     </message>
     <message>
         <source>Don&apos;t require password repeat when it is visible</source>
-        <translation>Keine erneute Eingabe verlangen wenn Passwort sichtbar.</translation>
+        <translation>Quando a senha for visível não pedir para repeti-la</translation>
     </message>
 </context>
 <context>
     <name>UnlockDatabaseWidget</name>
     <message>
         <source>Unlock database</source>
-        <translation>Datenbank entsperren</translation>
+        <translation>Destrancar banco de dados</translation>
     </message>
 </context>
 <context>
     <name>WelcomeWidget</name>
     <message>
         <source>Welcome!</source>
-        <translation>Willkommen!</translation>
+        <translation>Bem-vindo!</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
         <source>path to a custom config file</source>
-        <translation>Pfad zu einer benutzerdefinierten Konfigurationsdatei</translation>
+        <translation>caminho para um arquivo de configuração personalizado</translation>
     </message>
     <message>
         <source>key file of the database</source>
-        <translation>Schlüsseldatei der Datenbank</translation>
-    </message>
-    <message>
-        <source>filename(s) of the password database(s) to open (*.kdbx)</source>
-        <translation>Dateiname(n) der zu öffnenden Passwortdatenbank(en) (*.kdbx)</translation>
+        <translation>arquivo-chave do banco de dados</translation>
     </message>
     <message>
         <source>KeePassXC - cross-platform password manager</source>
-        <translation>KeePassXC - plattformübergreifender Passwortmanager</translation>
+        <translation>KeePassXC - gerenciador de senhas multiplataforma</translation>
     </message>
     <message>
         <source>read password of the database from stdin</source>
-        <translation>passwort der datenbank von stdin lesen</translation>
+        <translation>ler a senha do banco de dados da entrada padrão</translation>
+    </message>
+    <message>
+        <source>filenames of the password databases to open (*.kdbx)</source>
+        <translation>nome de arquivo do banco de dados de senhas a ser aberto (*.kdbx)</translation>
     </message>
 </context>
 </TS>

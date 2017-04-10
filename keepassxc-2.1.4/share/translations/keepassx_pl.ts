@@ -1,63 +1,63 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="cs" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="pl" version="2.1">
 <context>
     <name>AboutDialog</name>
     <message>
         <source>Revision</source>
-        <translation>Revize</translation>
+        <translation>Rewizja</translation>
     </message>
     <message>
         <source>Using:</source>
-        <translation>S použitím:</translation>
+        <translation>Używa:</translation>
     </message>
     <message>
         <source>About KeePassXC</source>
-        <translation>O aplikaci KeePassXC</translation>
-    </message>
-    <message>
-        <source>KeePassXC is distributed under the term of the GNU General Public License (GPL) version 2 or (at your option) version 3.</source>
-        <translation>KeePassXC je šířeno pod GNU obecnou veřejnou licencí (GPL) verze 2 a (případně) 3.</translation>
+        <translation>O KeePassXC</translation>
     </message>
     <message>
         <source>Extensions:
 </source>
-        <translation>Rozšíření:
+        <translation>Rozszerzenia:
 </translation>
+    </message>
+    <message>
+        <source>KeePassXC is distributed under the terms of the GNU General Public License (GPL) version 2 or (at your option) version 3.</source>
+        <translation>KeePassXC jest dystrybuowany zgodnie z warunkami licencji GNU General Public License (GPL) w wersji 2 lub (opcjonalnie) w wersji 3.</translation>
     </message>
 </context>
 <context>
     <name>AccessControlDialog</name>
     <message>
         <source>Remember this decision</source>
-        <translation>Zapamatovat si toto rozhodnutí</translation>
+        <translation>Zapamiętaj tę decyzję</translation>
     </message>
     <message>
         <source>Allow</source>
-        <translation>Povolit</translation>
+        <translation>Zezwól</translation>
     </message>
     <message>
         <source>Deny</source>
-        <translation>Zamítnout</translation>
+        <translation>Odmów</translation>
     </message>
     <message>
         <source>%1 has requested access to passwords for the following item(s).
 Please select whether you want to allow access.</source>
-        <translation>%1 si vyžádalo přístup k heslům u následujících položek.
-Umožnit přístup? ()</translation>
+        <translation>%1 zażądał dostępu do haseł dla następujących element(ów).
+Wybierz, czy chcesz zezwolić na dostęp.</translation>
     </message>
     <message>
         <source>KeePassXC HTTP Confirm Access</source>
-        <translation>Potvrzení přístupu KeePassXC HTTP</translation>
+        <translation>Potwierdź dostęp KeePassXC HTTP</translation>
     </message>
 </context>
 <context>
     <name>AutoType</name>
     <message>
         <source>Couldn&apos;t find an entry that matches the window title:</source>
-        <translation>Nedaří se nalézt položku, která by se shodovala s titulkem okna:</translation>
+        <translation>Nie mogę znaleźć wpisu, który by pasował do tytułu okna: </translation>
     </message>
     <message>
         <source>Auto-Type - KeePassXC</source>
-        <translation>Automatické vyplňování – KeePassXC</translation>
+        <translation>Auto-uzupełnianie - KeePassXC</translation>
     </message>
 </context>
 <context>
@@ -68,475 +68,485 @@ Umožnit přístup? ()</translation>
     </message>
     <message>
         <source>Sequence</source>
-        <translation>Posloupnost</translation>
+        <translation>Swkwencja</translation>
     </message>
     <message>
         <source>Default sequence</source>
-        <translation>Výchozí posloupnost</translation>
+        <translation>Domyślna sekwencja</translation>
     </message>
 </context>
 <context>
     <name>AutoTypeSelectDialog</name>
     <message>
         <source>Select entry to Auto-Type:</source>
-        <translation>Vyberte položku, kterou se bude automaticky vyplňovat:</translation>
+        <translation>Wybierz wpis do auto-uzupełniania:</translation>
     </message>
     <message>
         <source>Auto-Type - KeePassXC</source>
-        <translation>Automatické vyplňování – KeePassXC</translation>
+        <translation>Auto-uzupełnianie - KeePassXC</translation>
     </message>
 </context>
 <context>
     <name>ChangeMasterKeyWidget</name>
     <message>
         <source>Password</source>
-        <translation>Heslo</translation>
+        <translation>Hasło</translation>
     </message>
     <message>
         <source>Enter password:</source>
-        <translation>Zadejte heslo:</translation>
+        <translation>Wprowadź hasło:</translation>
     </message>
     <message>
         <source>Repeat password:</source>
-        <translation>Zopakujte heslo:</translation>
-    </message>
-    <message>
-        <source>Key file</source>
-        <translation>Soubor s klíčem</translation>
+        <translation>Wprowadź ponownie hasło:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Procházet</translation>
+        <translation>Przeglądaj</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation>Vytvořit</translation>
+        <translation>Stwórz</translation>
     </message>
     <message>
         <source>Key files</source>
-        <translation>Soubory s klíči</translation>
+        <translation>Pliki kluczy</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>Veškeré soubory</translation>
+        <translation>Wszystkie pliki</translation>
     </message>
     <message>
         <source>Create Key File...</source>
-        <translation>Vytvořit soubor s klíčem…</translation>
+        <translation>Utwórz plik klucza</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Chyba</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <source>Unable to create Key File : </source>
-        <translation>Nedaří se vytvořit soubor s klíčem:</translation>
+        <translation>Nie można utworzyć pliku klucza :</translation>
     </message>
     <message>
         <source>Select a key file</source>
-        <translation>Vyberte soubor s klíčem</translation>
+        <translation>Wybierz plik z kluczem</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation>Dotaz</translation>
+        <translation>Pytanie</translation>
     </message>
     <message>
         <source>Do you really want to use an empty string as password?</source>
-        <translation>Opravdu chcete ponechat bez hesla, tedy nechráněné?</translation>
+        <translation>Czy naprawdę chcesz użyć pusty ciąg znaków jako hasło ?</translation>
     </message>
     <message>
         <source>Different passwords supplied.</source>
-        <translation>Nepodařilo se vám zadat heslo do obou kolonek stejně.</translation>
+        <translation>Podano różne hasła.</translation>
     </message>
     <message>
         <source>Failed to set key file</source>
-        <translation>Nezdařilo se nastavit soubor s klíčem</translation>
+        <translation>Nie udało się ustawić pliku klucza</translation>
     </message>
     <message>
         <source>Failed to set %1 as the Key file:
 %2</source>
-        <translation>Nezdařilo se nastavit %1 jako soubor s klíčem:
+        <translation>Błąd w ustawieniu %1 jako plik klucza:
 %2</translation>
+    </message>
+    <message>
+        <source>&amp;Key file</source>
+        <translation>&amp;Plik klucza</translation>
     </message>
 </context>
 <context>
     <name>DatabaseOpenWidget</name>
     <message>
         <source>Enter master key</source>
-        <translation>Zadejte hlavní klíč</translation>
+        <translation>Wprowadź klucz główny</translation>
     </message>
     <message>
         <source>Key File:</source>
-        <translation>Soubor s klíčem:</translation>
+        <translation>Plik klucza:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Heslo:</translation>
+        <translation>Hasło:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Procházet</translation>
+        <translation>Przeglądaj</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Chyba</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <source>Unable to open the database.</source>
-        <translation>Databázi se nedaří otevřít.</translation>
+        <translation>Nie można otworzyć bazy kluczy.</translation>
     </message>
     <message>
         <source>Can&apos;t open key file</source>
-        <translation>Soubor s klíčem se nedaří otevřít</translation>
+        <translation>Nie mogę otworzyć pliku z kluczem</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>Veškeré soubory</translation>
+        <translation>Wszystkie pliki</translation>
     </message>
     <message>
         <source>Key files</source>
-        <translation>Soubory s klíči</translation>
+        <translation>Pliki kluczy</translation>
     </message>
     <message>
         <source>Select key file</source>
-        <translation>Vyberte soubor s klíčem</translation>
+        <translation>Wybierz plik z kluczem</translation>
     </message>
 </context>
 <context>
     <name>DatabaseRepairWidget</name>
     <message>
         <source>Repair database</source>
-        <translation>Opravit databázi</translation>
+        <translation>Napraw bazę</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Chyba</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <source>Can&apos;t open key file</source>
-        <translation>Nedaří se otevřít soubor s klíčem</translation>
+        <translation>Nie mogę otworzyć pliku z kluczem</translation>
     </message>
     <message>
         <source>Database opened fine. Nothing to do.</source>
-        <translation>Databáze je v pořádku otevřená. Není třeba žádného zásahu.</translation>
+        <translation>Pomyślnie otworzono bazę. Nic do zrobienia.</translation>
     </message>
     <message>
         <source>Unable to open the database.</source>
-        <translation>Nedaří se otevřít databázi.</translation>
+        <translation>Nie można otworzyć bazy kluczy.</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>Úspěch</translation>
+        <translation>Sukces</translation>
     </message>
     <message>
         <source>The database has been successfully repaired
 You can now save it.</source>
-        <translation>Databáze je úspěšně opravená
-Nyní jí můžete uložit.</translation>
+        <translation>Baza została naprawiona
+Możesz teraz ją już zapisać.</translation>
     </message>
     <message>
         <source>Unable to repair the database.</source>
-        <translation>Databázi se nedaří opravit.</translation>
+        <translation>Nie mogę naprawić bazę.</translation>
     </message>
 </context>
 <context>
     <name>DatabaseSettingsWidget</name>
     <message>
         <source>Database name:</source>
-        <translation>Název databáze:</translation>
+        <translation>Nazwa bazy danych:</translation>
     </message>
     <message>
         <source>Database description:</source>
-        <translation>Popis databáze:</translation>
+        <translation>Opis bazy danych:</translation>
     </message>
     <message>
         <source>Transform rounds:</source>
-        <translation>Počet průchodů šifrovacího algoritmu:</translation>
+        <translation>Liczba rund szyfrowania:</translation>
     </message>
     <message>
         <source>Default username:</source>
-        <translation>Výchozí uživatelské jméno:</translation>
-    </message>
-    <message>
-        <source>Use recycle bin:</source>
-        <translation>Namísto mazání přesouvat do Koše:</translation>
+        <translation>Domyślny użytkownik:</translation>
     </message>
     <message>
         <source> MiB</source>
-        <translation> MiB</translation>
+        <translation>MiB</translation>
     </message>
     <message>
         <source>Benchmark</source>
-        <translation>Test výkonu</translation>
+        <translation>Test sprawności</translation>
     </message>
     <message>
         <source>Max. history items:</source>
-        <translation>Omezit počet uchovávaných předchozích verzí položky na:</translation>
+        <translation>Max. ilość wpisów w historii:</translation>
     </message>
     <message>
         <source>Max. history size:</source>
-        <translation>Omezit datový objem předchozích verzí položek na:</translation>
+        <translation>Max. rozmiar historii:</translation>
+    </message>
+    <message>
+        <source>Use recycle bin</source>
+        <translation>Użyj kosza:</translation>
     </message>
 </context>
 <context>
     <name>DatabaseTabWidget</name>
     <message>
         <source>Root</source>
-        <translation>Kořen</translation>
+        <translation>Root</translation>
     </message>
     <message>
         <source>KeePass 2 Database</source>
-        <translation>Databáze ve formátu KeePass verze 2</translation>
+        <translation>Baza danych KeePass 2</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>Veškeré soubory</translation>
+        <translation>Wszystkie pliki</translation>
     </message>
     <message>
         <source>Open database</source>
-        <translation>Otevřít databázi</translation>
+        <translation>Otwórz bazę danych</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Varování</translation>
+        <translation>Ostrzeżenie</translation>
     </message>
     <message>
         <source>File not found!</source>
-        <translation>Soubor nebyl nalezen!</translation>
+        <translation>Nie znaleziono pliku!</translation>
     </message>
     <message>
         <source>Open KeePass 1 database</source>
-        <translation>Otevřít databázi ve formátu KeePass verze 1</translation>
+        <translation>Otwórz bazę danych KeePass 1</translation>
     </message>
     <message>
         <source>KeePass 1 database</source>
-        <translation>Databáze ve formátu KeePass verze 1</translation>
+        <translation>Baza danych KeePass 1</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation>Veškeré soubory (*)</translation>
+        <translation>Wszystkie pliki (*)</translation>
     </message>
     <message>
         <source>Close?</source>
-        <translation>Zavřít?</translation>
+        <translation>Zamknąć?</translation>
     </message>
     <message>
         <source>Save changes?</source>
-        <translation>Uložit změny?</translation>
+        <translation>Zapisać zmiany?</translation>
     </message>
     <message>
         <source>&quot;%1&quot; was modified.
 Save changes?</source>
-        <translation>„%1“ bylo změněno.
-Uložit změny?</translation>
+        <translation>&quot;%1&quot; został zmieniony.
+Zapisać zmiany?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Chyba</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <source>Writing the database failed.</source>
-        <translation>Zápis do databáze se nezdařil.</translation>
+        <translation>Błąd w zapisywaniu bazy kluczy.</translation>
     </message>
     <message>
         <source>Save database as</source>
-        <translation>Uložit databázi jako</translation>
+        <translation>Zapisz bazę danych jako</translation>
     </message>
     <message>
         <source>New database</source>
-        <translation>Nová databáze</translation>
+        <translation>Nowa baza danych</translation>
     </message>
     <message>
         <source>locked</source>
-        <translation>zamčeno</translation>
+        <translation>zablokowana</translation>
     </message>
     <message>
         <source>Lock database</source>
-        <translation>Uzamknout databázi</translation>
+        <translation>Zablokuj bazę</translation>
     </message>
     <message>
         <source>Can't lock the database as you are currently editing it.
 Please press cancel to finish your changes or discard them.</source>
-        <translation>Nelze uzamknout databázi, protože ji v tuto chvíli upravujete.
-Pokud chcete změny dokončit, klikněte na Zrušit. V opačném případě změny zahodíte.</translation>
+        <translation>Nie można zablokować bazy, którą edytujesz.
+Naciśnij anuluj, aby zakończyć zmiany albo porzucić je.</translation>
     </message>
     <message>
         <source>This database has never been saved.
 You can save the database or stop locking it.</source>
-        <translation>Tato databáze doposud ještě nebyla uložena.
-Buď ji můžete uložit, nebo neuzamknout.</translation>
+        <translation>Baza nie została nigdy zapisana.
+Możesz ją zapisać albo przestać blokować.</translation>
     </message>
     <message>
         <source>This database has been modified.
 Do you want to save the database before locking it?
 Otherwise your changes are lost.</source>
-        <translation>Tato databáze byla upravena.
-Chcete ji před uzamčením uložit?
-Pokud ne, provedené změny budou ztraceny.</translation>
+        <translation>Baza została zmodyfikowana.
+Czy chcesz zapisać przed zablokowaniem jej?
+W przeciwnym wypadku zmiany zostaną porzucone.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is in edit mode.
 Discard changes and close anyway?</source>
-        <translation>„%1“ je právě upravováno.
-Přesto zavřít a zahodit změny?</translation>
+        <translation>&quot;%1&quot; jest w trybie edytowania.
+Odrzucić zmiany i zamknąć?</translation>
     </message>
     <message>
         <source>Export database to CSV file</source>
-        <translation>Exportovat databázi do CSV souboru</translation>
+        <translation>Eksport bazy danych do pliku CSV</translation>
     </message>
     <message>
         <source>CSV file</source>
-        <translation>CSV soubor</translation>
+        <translation>plik CSV</translation>
     </message>
     <message>
         <source>Writing the CSV file failed.</source>
-        <translation>Zápis do CSV souboru se nezdařil.</translation>
+        <translation>Błąd przy zapisywaniu pliku CSV.</translation>
     </message>
     <message>
         <source>Unable to open the database.</source>
-        <translation>Nepodařilo se otevřít databázi.</translation>
-    </message>
-    <message>
-        <source>The database you are trying to open is locked by another instance of KeePassXC.
-Do you want to open it anyway? Alternatively the database is opened read-only.</source>
-        <translation>Databáze kterou se pokoušíte otevřít je právě používaná jinou instancí KeePassXC.
-Chcete ji přesto otevřít? Případně je možné databázi otevřít pouze pro čtení.</translation>
+        <translation>Nie można otworzyć bazy danych.</translation>
     </message>
     <message>
         <source>Merge database</source>
-        <translation>Sloučit databáze</translation>
+        <translation>Połącz bazę danych</translation>
     </message>
     <message>
         <source>The database you are trying to save as is locked by another instance of KeePassXC.
 Do you want to save it anyway?</source>
-        <translation>Databáze kterou se pokoušíte uložit je právě používaná jinou instancí KeePassXC.
-Chcete ji přesto uložit?</translation>
+        <translation>Baza, którą próbujesz zapisać, jest zablokowana przez inną instancję KeePassXC.
+Czy chcesz zapisać mimo to?</translation>
+    </message>
+    <message>
+        <source>Passwords</source>
+        <translation>Hasła</translation>
+    </message>
+    <message>
+        <source>Database already opened</source>
+        <translation>Baza danych jest już otwarta</translation>
+    </message>
+    <message>
+        <source>The database you are trying to open is locked by another instance of KeePassXC.
+
+Do you want to open it anyway?</source>
+        <translation>Baza, którą próbujesz otworzyć, jest zablokowana przez inną instancję KeePassXC.
+
+Czy chcesz ją otworzyć mimo to?</translation>
+    </message>
+    <message>
+        <source>Open read-only</source>
+        <translation>Otwórz tylko do odczytu</translation>
     </message>
 </context>
 <context>
     <name>DatabaseWidget</name>
     <message>
         <source>Change master key</source>
-        <translation>Změnit hlavní klíč</translation>
+        <translation>Zmień główne hasło</translation>
     </message>
     <message>
         <source>Delete entry?</source>
-        <translation>Smazat položku?</translation>
+        <translation>Skasować wpis?</translation>
     </message>
     <message>
         <source>Do you really want to delete the entry &quot;%1&quot; for good?</source>
-        <translation>Opravdu chcete nenávratně smazat položku „%1“?</translation>
+        <translation>Czy na pewno całkowicie usunąć wpis &quot;%1&quot; ?</translation>
     </message>
     <message>
         <source>Delete entries?</source>
-        <translation>Smazat položky?</translation>
+        <translation>Usunąć wpisy?</translation>
     </message>
     <message>
         <source>Do you really want to delete %1 entries for good?</source>
-        <translation>Opravdu chcete nenávratně smazat %1 položek?</translation>
+        <translation>Czy na prawdę chcesz usunąć %1 wpisów na dobre?</translation>
     </message>
     <message>
         <source>Move entries to recycle bin?</source>
-        <translation>Přesunout položky do Koše?</translation>
+        <translation>Przenieść wpisy do kosza?</translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to move %n entry(s) to the recycle bin?</source>
-        <translation><numerusform>Opravdu chcete přesunout %n položku do Koše?</numerusform><numerusform>Opravdu chcete přesunout %n položky do Koše?</numerusform><numerusform>Opravdu chcete přesunout %n položek do Koše?</numerusform></translation>
+        <translation><numerusform>Czy na pewno chcesz przenieść %n wpis do kosza?</numerusform><numerusform>Czy na pewno chcesz przenieść %n wpisów do kosza?</numerusform><numerusform>Czy na pewno chcesz przenieść %n wpisów do kosza?</numerusform><numerusform>Czy na pewno chcesz przenieść %n wpisów do kosza?</numerusform></translation>
     </message>
     <message>
         <source>Delete group?</source>
-        <translation>Smazat skupinu?</translation>
+        <translation>Usunąć grupę?</translation>
     </message>
     <message>
         <source>Do you really want to delete the group &quot;%1&quot; for good?</source>
-        <translation>Opravdu chcete nenávratně smazat skupinu „%1“?</translation>
+        <translation>Czy na pewno całkowicie usunąć grupę &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Chyba</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <source>Unable to calculate master key</source>
-        <translation>Nedaří se spočítat hlavní klíč</translation>
+        <translation>Nie mogę wyliczyć głównego klucza</translation>
     </message>
     <message>
         <source>Move entry to recycle bin?</source>
-        <translation>Přesunout položku do koše?</translation>
+        <translation>Przenieść wpis do kosza?</translation>
     </message>
     <message>
         <source>Do you really want to move entry &quot;%1&quot; to the recycle bin?</source>
-        <translation>Opravdu si přejete přesunout položku &quot;%1&quot; do koše?</translation>
+        <translation>Czy na pewno chcesz przenieść wpis&quot; %1&quot; do kosza?</translation>
     </message>
     <message>
         <source>Searching...</source>
-        <translation>Hledání…</translation>
+        <translation>Wyszukiwanie...</translation>
     </message>
     <message>
         <source>No current database.</source>
-        <translation>Aktuálně žádná databáze.</translation>
+        <translation>Brak bieżącej bazy danych.</translation>
     </message>
     <message>
         <source>No source database, nothing to do.</source>
-        <translation>Není zvolena zdrojová databáze, není co dělat.</translation>
+        <translation>Brak źródłowej bazy danych, nic do zrobienia.</translation>
     </message>
     <message>
         <source>Search Results (%1)</source>
-        <translation>Výsledky vyhledávání (%1)</translation>
+        <translation>Wyniki wyszukiwania (%1)</translation>
     </message>
     <message>
         <source>No Results</source>
-        <translation>Žádné výsledky</translation>
+        <translation>Brak wyników</translation>
     </message>
     <message>
         <source>Execute command?</source>
-        <translation>Spustit příkaz?</translation>
+        <translation>Wykonać polecenie?</translation>
     </message>
     <message>
         <source>Do you really want to execute the following command?&lt;br&gt;&lt;br&gt;%1&lt;br&gt;</source>
-        <translation>Opravdu chcete spustit následující příkaz?&lt;br&gt;&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Czy na pewno chcesz wykonać następujące polecenie?&lt;br&gt;&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Remember my choice</source>
-        <translation>Zapamatovat si pro příště</translation>
+        <translation>Zapamiętaj mój wybór</translation>
     </message>
     <message>
         <source>Autoreload Request</source>
-        <translation>Požadavek na automatické opětovné načtení</translation>
+        <translation>Żądanie automatycznego przeładowania</translation>
     </message>
     <message>
         <source>The database file has changed. Do you want to load the changes?</source>
-        <translation>Soubor s databází byl změněn. Přejete si načíst změny?</translation>
+        <translation>Plik bazy danych uległ zmianie. Czy chcesz załadować zmiany?</translation>
     </message>
     <message>
         <source>Merge Request</source>
-        <translation>Požadavek na sloučení</translation>
+        <translation>Połącz żądanie</translation>
     </message>
     <message>
         <source>The database file has changed and you have unsaved changes.Do you want to merge your changes?</source>
-        <translation>Soubor s databází byl mezitím změněn a vaše změny nejsou uložené. Přejete si vaše změny sloučit?</translation>
+        <translation>Plik bazy danych został zmieniony, a masz niezapisane zmiany. Czy chcesz połączyć twoje zmiany?</translation>
     </message>
     <message>
         <source>Autoreload Failed</source>
-        <translation>Automatické opětovné načtení se nezdařilo</translation>
-    </message>
-    <message>
-        <source>Could not parse or unlock the new database file while attempting to autoreload this database.</source>
-        <translation>Nepodařilo se zpracovat nebo odemknout nový soubor s databází během pokusu o její opětovné načtení.</translation>
+        <translation>Nieudane automatyczne przeładowanie</translation>
     </message>
     <message>
         <source>Could not open the new database file while attempting to autoreload this database.</source>
-        <translation>Nepodařilo se otevřít nový soubor s databází během pokusu o její opětovné načtení.</translation>
+        <translation>Nie można otworzyć nowego pliku bazy danych podczas próby automatycznego przeładowania tej bazy.</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidget</name>
     <message>
         <source>Entry</source>
-        <translation>Položka</translation>
+        <translation>Wpis</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation>Pokročilé</translation>
+        <translation>Zaawansowane</translation>
     </message>
     <message>
         <source>Icon</source>
@@ -544,69 +554,69 @@ Chcete ji přesto uložit?</translation>
     </message>
     <message>
         <source>Auto-Type</source>
-        <translation>Automatické vyplňování</translation>
+        <translation>Auto-uzupełnianie</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>Vlastnosti</translation>
+        <translation>Właściwości</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>Historie</translation>
+        <translation>Historia</translation>
     </message>
     <message>
         <source>Entry history</source>
-        <translation>Historie položky</translation>
+        <translation>Historia wpisu</translation>
     </message>
     <message>
         <source>Add entry</source>
-        <translation>Přidat položku</translation>
+        <translation>Dodaj wpis</translation>
     </message>
     <message>
         <source>Edit entry</source>
-        <translation>Upravit položku</translation>
+        <translation>Edycja wpisu</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Chyba</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <source>Different passwords supplied.</source>
-        <translation>Zadání hesla se neshodují.</translation>
+        <translation>Podano różne hasła.</translation>
     </message>
     <message>
         <source>New attribute</source>
-        <translation>Nový atribut</translation>
+        <translation>Nowy atrybut</translation>
     </message>
     <message>
         <source>Select file</source>
-        <translation>Vyberte soubor</translation>
+        <translation>Wybierz plik</translation>
     </message>
     <message>
         <source>Unable to open file</source>
-        <translation>Soubor se nedaří otevřít</translation>
+        <translation>Nie można otworzyć pliku</translation>
     </message>
     <message>
         <source>Save attachment</source>
-        <translation>Uložit přílohu</translation>
+        <translation>Zapisz załącznik</translation>
     </message>
     <message>
         <source>Unable to save the attachment:
 </source>
-        <translation>Přílohu se nedaří uložit:
+        <translation>Nie można zapisać załącznika:
 </translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation>Zítra</translation>
+        <translation>Jutro</translation>
     </message>
     <message numerus="yes">
         <source>%n week(s)</source>
-        <translation><numerusform>%n týden</numerusform><numerusform>%n týdny</numerusform><numerusform>%n týdnů</numerusform></translation>
+        <translation><numerusform>%n tydzień</numerusform><numerusform>%n tygodni(e)</numerusform><numerusform>%n tygodni(e)</numerusform><numerusform>%n tygodni(e)</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n month(s)</source>
-        <translation><numerusform>%n měsíc</numerusform><numerusform>%n měsíce</numerusform><numerusform>%n měsíců</numerusform></translation>
+        <translation><numerusform>%n miesiąc</numerusform><numerusform>%n miesiąc(e)</numerusform><numerusform>%n miesiąc(e)</numerusform><numerusform>%n miesiąc(e)</numerusform></translation>
     </message>
     <message>
         <source>1 year</source>
@@ -617,46 +627,38 @@ Chcete ji přesto uložit?</translation>
     <name>EditEntryWidgetAdvanced</name>
     <message>
         <source>Additional attributes</source>
-        <translation>Další atributy</translation>
+        <translation>Dodatkowe atrybuty</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Přidat</translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Upravit</translation>
+        <translation>Edytuj</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Odebrat</translation>
+        <translation>Usuń</translation>
     </message>
     <message>
         <source>Attachments</source>
-        <translation>Přílohy</translation>
+        <translation>Załączniki</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Uložit</translation>
+        <translation>Zapisz</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Otevřít</translation>
+        <translation>Otwórz</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidgetAutoType</name>
     <message>
         <source>Enable Auto-Type for this entry</source>
-        <translation>Zapnout automatické vyplňování této položky</translation>
-    </message>
-    <message>
-        <source>Inherit default Auto-Type sequence from the group</source>
-        <translation>Převzít výchozí posloupnost automatického vyplňování od skupiny</translation>
-    </message>
-    <message>
-        <source>Use custom Auto-Type sequence:</source>
-        <translation>Použít vlastní posloupnost automatického vyplňování:</translation>
+        <translation>Włącz auto-uzupełnianie dla tego wpisu</translation>
     </message>
     <message>
         <source>+</source>
@@ -668,76 +670,84 @@ Chcete ji přesto uložit?</translation>
     </message>
     <message>
         <source>Window title:</source>
-        <translation>Titulek okna:</translation>
+        <translation>Tytuł okna:</translation>
     </message>
     <message>
-        <source>Use default sequence</source>
-        <translation>Použít výchozí posloupnost</translation>
+        <source>Inherit default Auto-Type sequence from the &amp;group</source>
+        <translation>Dziedzicz domyślną sekwencję auto-uzupełniania z &amp;grupy</translation>
     </message>
     <message>
-        <source>Set custom sequence:</source>
-        <translation>Nastavit vlastní posloupnost:</translation>
+        <source>&amp;Use custom Auto-Type sequence:</source>
+        <translation>&amp;Używaj niestandardowej sekwencji auto-uzupełniania:</translation>
+    </message>
+    <message>
+        <source>Use default se&amp;quence</source>
+        <translation>Korzystaj z dom&amp;yślnej sekwencji</translation>
+    </message>
+    <message>
+        <source>Set custo&amp;m sequence:</source>
+        <translation>Ustaw niest&amp;andardową sekwencję:</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidgetHistory</name>
     <message>
         <source>Show</source>
-        <translation>Zobrazit</translation>
+        <translation>Pokaż</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation>Obnovit</translation>
+        <translation>Przywróć</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Smazat</translation>
+        <translation>Usuń</translation>
     </message>
     <message>
         <source>Delete all</source>
-        <translation>Smazat vše</translation>
+        <translation>Usuń wszystkie</translation>
     </message>
 </context>
 <context>
     <name>EditEntryWidgetMain</name>
     <message>
         <source>Title:</source>
-        <translation>Titulek:</translation>
+        <translation>Tytuł:</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation>Uživatelské jméno:</translation>
+        <translation>Użytkownik:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Heslo:</translation>
+        <translation>Hasło:</translation>
     </message>
     <message>
         <source>Repeat:</source>
-        <translation>Zopakování hesla:</translation>
+        <translation>Powtórz:</translation>
     </message>
     <message>
         <source>URL:</source>
-        <translation>URL adresa:</translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <source>Expires</source>
-        <translation>Platnost skončí:</translation>
+        <translation>Wygasa</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation>Předpřipravené</translation>
+        <translation>Prezentuje</translation>
     </message>
     <message>
         <source>Notes:</source>
-        <translation>Poznámky:</translation>
+        <translation>Notatki:</translation>
     </message>
 </context>
 <context>
     <name>EditGroupWidget</name>
     <message>
         <source>Group</source>
-        <translation>Skupina</translation>
+        <translation>Grupa</translation>
     </message>
     <message>
         <source>Icon</source>
@@ -745,132 +755,132 @@ Chcete ji přesto uložit?</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>Vlastnosti</translation>
+        <translation>Właściwości</translation>
     </message>
     <message>
         <source>Add group</source>
-        <translation>Přidat skupinu</translation>
+        <translation>Dodaj grupę</translation>
     </message>
     <message>
         <source>Edit group</source>
-        <translation>Upravit skupinu</translation>
+        <translation>Edytuj grupę</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation>Zapnout</translation>
+        <translation>Włącz</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation>Vypnout</translation>
+        <translation>Wyłącz</translation>
     </message>
     <message>
         <source>Inherit from parent group (%1)</source>
-        <translation>Převzít od nadřazené skupiny (%1)</translation>
+        <translation>Dziedzicz z nadrzędnej grupy (%1)</translation>
     </message>
 </context>
 <context>
     <name>EditGroupWidgetMain</name>
     <message>
         <source>Name</source>
-        <translation>Název</translation>
+        <translation>Nazwa</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation>Poznámky</translation>
+        <translation>Notatki</translation>
     </message>
     <message>
         <source>Expires</source>
-        <translation>Platnost skončí</translation>
+        <translation>Wygasa</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Hledat</translation>
+        <translation>Szukaj</translation>
     </message>
     <message>
         <source>Auto-type</source>
-        <translation>Automatické vyplňování</translation>
+        <translation>Auto-uzupełnianie</translation>
     </message>
     <message>
         <source>Use default auto-type sequence of parent group</source>
-        <translation>Použít výchozí posloupnost automatického vyplňování z nadřazené skupiny</translation>
+        <translation>Korzystaj z domyślnej sekwencji auto-uzupełniania z nadrzędnej grupy</translation>
     </message>
     <message>
         <source>Set default auto-type sequence</source>
-        <translation>Nastavit výchozí posloupnost automatického vyplňování</translation>
+        <translation>Ustaw domyślną sekwencję auto-uzupełniania</translation>
     </message>
 </context>
 <context>
     <name>EditWidgetIcons</name>
     <message>
-        <source>Use default icon</source>
-        <translation>Použít výchozí ikonu</translation>
-    </message>
-    <message>
-        <source>Use custom icon</source>
-        <translation>Použít svou vlastní ikonu</translation>
-    </message>
-    <message>
         <source>Add custom icon</source>
-        <translation>Přidat svou vlastní ikonu</translation>
+        <translation>Dodaj niestandardową ikonę</translation>
     </message>
     <message>
         <source>Delete custom icon</source>
-        <translation>Smazat svou vlastní ikonu</translation>
+        <translation>Usuń niestandardową ikonę</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation>Obrázky</translation>
+        <translation>Obrazy</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>Veškeré soubory</translation>
+        <translation>Wszystkie pliki</translation>
     </message>
     <message>
         <source>Select Image</source>
-        <translation>Vyberte obrázek</translation>
+        <translation>Wybierz obraz</translation>
     </message>
     <message>
         <source>Can&apos;t delete icon!</source>
-        <translation>Ikonu nelze smazat!</translation>
+        <translation>Nie można usunąć ikony!</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Chyba</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <source>Download favicon</source>
-        <translation>Stáhnout favicon</translation>
+        <translation>Pobierz ikonę ulubionych</translation>
     </message>
     <message>
         <source>Unable to fetch favicon.</source>
-        <translation>Favicon se nepodařilo stáhnout.</translation>
+        <translation>Nie można pobrać ikony ulubionych.</translation>
     </message>
     <message>
         <source>Can&apos;t read icon</source>
-        <translation>Nepodařilo se načíst ikonu</translation>
+        <translation>Nie można odczytać ikony</translation>
     </message>
     <message>
         <source>Can&apos;t delete icon. Still used by %1 items.</source>
-        <translation>Ikonu nelze smazat. Ještě ji používá %1 položek.</translation>
+        <translation>Nie można usunąć ikony. Nadal używana przez %1 wpisów.</translation>
+    </message>
+    <message>
+        <source>&amp;Use default icon</source>
+        <translation>&amp;Użyj ikony domyślnej</translation>
+    </message>
+    <message>
+        <source>Use custo&amp;m icon</source>
+        <translation>Użyj niesta&amp;ndardowej ikony</translation>
     </message>
 </context>
 <context>
     <name>EditWidgetProperties</name>
     <message>
         <source>Created:</source>
-        <translation>Okamžik vytvoření:</translation>
+        <translation>Stworzone:</translation>
     </message>
     <message>
         <source>Modified:</source>
-        <translation>Okamžik minulé úpravy:</translation>
+        <translation>Modyfikowane:</translation>
     </message>
     <message>
         <source>Accessed:</source>
-        <translation>Okamžik minulého přístupu:</translation>
+        <translation>Ostatnio używane:</translation>
     </message>
     <message>
         <source>Uuid:</source>
-        <translation>Univerzálně jedinečný identifikátor:</translation>
+        <translation>Uuid:</translation>
     </message>
 </context>
 <context>
@@ -884,67 +894,67 @@ Chcete ji přesto uložit?</translation>
     <name>EntryAttributesModel</name>
     <message>
         <source>Name</source>
-        <translation>Název</translation>
+        <translation>Nazwa</translation>
     </message>
 </context>
 <context>
     <name>EntryHistoryModel</name>
     <message>
         <source>Last modified</source>
-        <translation>Okamžik minulé změny</translation>
+        <translation>Ostatnia modyfikacja</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Titulek</translation>
+        <translation>Tytuł</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Uživatelské jméno</translation>
+        <translation>Użytkownik</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation>URL adresa</translation>
+        <translation>URL</translation>
     </message>
 </context>
 <context>
     <name>EntryModel</name>
     <message>
         <source>Group</source>
-        <translation>Skupina</translation>
+        <translation>Grupa</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Titulek</translation>
+        <translation>Tytuł</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Uživatelské jméno</translation>
+        <translation>Użytkownik</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation>URL adresa</translation>
+        <translation>URL</translation>
     </message>
 </context>
 <context>
     <name>Group</name>
     <message>
         <source>Recycle Bin</source>
-        <translation>Koš</translation>
+        <translation>Kosz</translation>
     </message>
 </context>
 <context>
     <name>HttpPasswordGeneratorWidget</name>
     <message>
         <source>Length:</source>
-        <translation>Délka:</translation>
+        <translation>Długość:</translation>
     </message>
     <message>
         <source>Character Types</source>
-        <translation>Typy znaků</translation>
+        <translation>Typy znaków</translation>
     </message>
     <message>
         <source>Upper Case Letters</source>
-        <translation>Velká písmena</translation>
+        <translation>Wielkie litery</translation>
     </message>
     <message>
         <source>A-Z</source>
@@ -952,7 +962,7 @@ Chcete ji přesto uložit?</translation>
     </message>
     <message>
         <source>Lower Case Letters</source>
-        <translation>Malá písmena</translation>
+        <translation>Małe litery</translation>
     </message>
     <message>
         <source>a-z</source>
@@ -960,7 +970,7 @@ Chcete ji přesto uložit?</translation>
     </message>
     <message>
         <source>Numbers</source>
-        <translation>Čísla</translation>
+        <translation>Liczby</translation>
     </message>
     <message>
         <source>0-9</source>
@@ -968,7 +978,7 @@ Chcete ji přesto uložit?</translation>
     </message>
     <message>
         <source>Special Characters</source>
-        <translation>Zvláštní znaky</translation>
+        <translation>Znaki specjalne</translation>
     </message>
     <message>
         <source>/*_&amp; ...</source>
@@ -976,312 +986,312 @@ Chcete ji přesto uložit?</translation>
     </message>
     <message>
         <source>Exclude look-alike characters</source>
-        <translation>Vyloučit podobné znaky</translation>
+        <translation>Wyklucz podobnie wyglądające znaki</translation>
     </message>
     <message>
         <source>Ensure that the password contains characters from every group</source>
-        <translation>Heslo musí obsahovat znak z každé skupiny</translation>
+        <translation>Zapewnij, że hasło będzie zawierało znaki ze wszystkich grup</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation>Přijmout</translation>
+        <translation>Zaakceptuj</translation>
     </message>
 </context>
 <context>
     <name>KeePass1OpenWidget</name>
     <message>
         <source>Import KeePass1 database</source>
-        <translation>Importovat databázi ve formátu KeePass verze 1</translation>
+        <translation>Importuj bazę danych KeePass1</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Chyba</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <source>Unable to open the database.</source>
-        <translation>Databázi se nedaří otevřít.</translation>
+        <translation>Nie można otworzyć bazy kluczy.</translation>
     </message>
 </context>
 <context>
     <name>KeePass1Reader</name>
     <message>
         <source>Unable to read keyfile.</source>
-        <translation>Nedaří se načíst soubor s klíčem.</translation>
+        <translation>Nie można otworzyć pliku z kluczem.</translation>
     </message>
     <message>
         <source>Not a KeePass database.</source>
-        <translation>Nejedná se o databázi Keepass.</translation>
+        <translation>To nie baza KeePass.</translation>
     </message>
     <message>
         <source>Unsupported encryption algorithm.</source>
-        <translation>Nepodporovaný šifrovací algoritmus.</translation>
+        <translation>Niewspierany algorytm szyfrowania.</translation>
     </message>
     <message>
         <source>Unsupported KeePass database version.</source>
-        <translation>Nepodporovaná verze databáze KeePass.</translation>
+        <translation>Niewspierana wersja bazy KeePass.</translation>
     </message>
     <message>
         <source>Root</source>
-        <translation>Kořen</translation>
+        <translation>Root</translation>
     </message>
     <message>
         <source>Unable to calculate master key</source>
-        <translation>Nedaří se spočítat hlavní klíč</translation>
+        <translation>Nie mogę wyliczyć głównego klucza</translation>
     </message>
     <message>
         <source>Wrong key or database file is corrupt.</source>
-        <translation>Byl zadán chybný klíč, nebo je poškozen databázový soubor.</translation>
+        <translation>Błędny klucz lub baza danych jest uszkodzona.</translation>
     </message>
 </context>
 <context>
     <name>KeePass2Reader</name>
     <message>
         <source>Not a KeePass database.</source>
-        <translation>Nejedná se o databázi KeePass.</translation>
+        <translation>To nie baza KeePass.</translation>
     </message>
     <message>
         <source>Unsupported KeePass database version.</source>
-        <translation>Nepodporovaná verze databáze KeePass.</translation>
+        <translation>Niewspierana wersja bazy KeePass.</translation>
     </message>
     <message>
         <source>Wrong key or database file is corrupt.</source>
-        <translation>Chybný klíč nebo je databáze poškozená.</translation>
+        <translation>Błędny klucz lub baza jest uszkodzona.</translation>
     </message>
     <message>
         <source>Unable to calculate master key</source>
-        <translation>Nedaří se spočítat hlavní klíč</translation>
+        <translation>Nie mogę wyliczyć głównego klucza</translation>
     </message>
     <message>
         <source>The selected file is an old KeePass 1 database (.kdb).
 
 You can import it by clicking on Database &gt; 'Import KeePass 1 database'.
 This is a one-way migration. You won&apos;t be able to open the imported database with the old KeePassX 0.4 version.</source>
-        <translation>Zvolený soubor je databáze ve starém formátu KeePass 1 (.kdb).
+        <translation>Wybrany plik jest bazą starego KeePassX 1 (.kdb).
 
-Můžete ho importovat pomocí Databáze → Importovat databázi KeePass 1.
-Jedná se o jednosměrný převod. Databázi, vzniklou z importu, nepůjde otevřít ve staré verzi KeePassX 0.4.</translation>
+Możesz zaimportować ją przez wybranie Baza &gt; &apos;Importuj bazę danych KeePass 1&apos;.
+Nie będzie można skonwertować nowej bazy do starego programu KeePassX 0.4.</translation>
     </message>
 </context>
 <context>
     <name>Main</name>
     <message>
         <source>Fatal error while testing the cryptographic functions.</source>
-        <translation>Při ověřování šifrovacích funkcí byl zjištěn fatální nedostatek.</translation>
+        <translation>Błąd krytyczny podczas testowania funkcji kryptograficznych.</translation>
     </message>
     <message>
         <source>KeePassXC - Error</source>
-        <translation>KeePassXC – chyba</translation>
+        <translation>KeePassXC - Błąd</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>Database</source>
-        <translation>Databáze</translation>
+        <translation>Baza danych</translation>
     </message>
     <message>
         <source>Open database</source>
-        <translation>Otevřít databázi</translation>
+        <translation>Otwórz bazę danych</translation>
     </message>
     <message>
         <source>Database settings</source>
-        <translation>Nastavení databáze</translation>
+        <translation>Ustawienia bazy danych</translation>
     </message>
     <message>
         <source>Copy username to clipboard</source>
-        <translation>Zkopírovat uživatelské jméno do schránky</translation>
+        <translation>Skopiuj użytkownika do schowka</translation>
     </message>
     <message>
         <source>Copy password to clipboard</source>
-        <translation>Zkopírovat heslo do schránky</translation>
+        <translation>Skopiuj hasło do schowka</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Nastavení</translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>Show toolbar</source>
-        <translation>Zobrazit lištu nástrojů</translation>
+        <translation>Pokaż pasek narzędziowy</translation>
     </message>
     <message>
         <source>read-only</source>
-        <translation>pouze pro čtení</translation>
+        <translation>Tylko do odczytu</translation>
     </message>
     <message>
         <source>Toggle window</source>
-        <translation>Zobrazit/skrýt okno</translation>
+        <translation>Pokaż/ukryj okno</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Nástroje</translation>
+        <translation>Narzędzia</translation>
     </message>
     <message>
         <source>KeePass 2 Database</source>
-        <translation>Databáze ve formátu KeePass 2</translation>
+        <translation>Baza KeePass 2</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>Všechny soubory</translation>
+        <translation>Wszystkie pliki</translation>
     </message>
     <message>
         <source>Save repaired database</source>
-        <translation>Uložit opravenou databázi</translation>
+        <translation>Zapisz naprawioną bazę</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Chyba</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <source>Writing the database failed.</source>
-        <translation>Zápis do databáze se nezdařil.</translation>
+        <translation>Błąd przy zapisie bazy.</translation>
     </message>
     <message>
         <source>&amp;Recent databases</source>
-        <translation>Nedávno otevřené databáze</translation>
+        <translation>&amp;Ostatnie bazy danych</translation>
     </message>
     <message>
         <source>He&amp;lp</source>
-        <translation>Nápověda</translation>
+        <translation>P&amp;omoc</translation>
     </message>
     <message>
         <source>E&amp;ntries</source>
-        <translation>Položky</translation>
+        <translation>W&amp;pisy</translation>
     </message>
     <message>
         <source>Copy att&amp;ribute to clipboard</source>
-        <translation>Zkopí&amp;rovat atribut do schránky</translation>
+        <translation>Skopiuj atry&amp;but do schowka</translation>
     </message>
     <message>
         <source>&amp;Groups</source>
-        <translation>Skupniny</translation>
+        <translation>%Grupy</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation>Zobrazit</translation>
+        <translation>Wi%dok</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation>Ukončit</translation>
+        <translation>Za&amp;kończ</translation>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>O &amp;aplikaci</translation>
+        <translation>&amp;O</translation>
     </message>
     <message>
         <source>&amp;Open database</source>
-        <translation>&amp;Otevřít databázi</translation>
+        <translation>Ot&amp;wórz bazę danych</translation>
     </message>
     <message>
         <source>&amp;Save database</source>
-        <translation>Uložit databázi</translation>
+        <translation>&amp;Zapisz bazę danych</translation>
     </message>
     <message>
         <source>&amp;Close database</source>
-        <translation>Zavřít databázi</translation>
+        <translation>Zamknij bazę da&amp;nych</translation>
     </message>
     <message>
         <source>&amp;New database</source>
-        <translation>&amp;Nová databáze</translation>
+        <translation>&amp;Nowa baza danych</translation>
     </message>
     <message>
         <source>Merge from KeePassX database</source>
-        <translation>Sloučit s databází KeePassX</translation>
+        <translation>Połącz z bazą danych KeePassX</translation>
     </message>
     <message>
         <source>&amp;Add new entry</source>
-        <translation>Přid&amp;at novou položku</translation>
+        <translation>&amp;Dodaj nowy wpis</translation>
     </message>
     <message>
         <source>&amp;View/Edit entry</source>
-        <translation>Zobrazit/Upra&amp;vit položku</translation>
+        <translation>&amp;Podgląd/Edycja wpisu</translation>
     </message>
     <message>
         <source>&amp;Delete entry</source>
-        <translation>Smazat položku</translation>
+        <translation>&amp;Usuń wpis</translation>
     </message>
     <message>
         <source>&amp;Add new group</source>
-        <translation>Přid&amp;at novou skupinu</translation>
+        <translation>Dod&amp;aj nową grupę</translation>
     </message>
     <message>
         <source>&amp;Edit group</source>
-        <translation>Upravit skupinu</translation>
+        <translation>&amp;Edytuj grupę</translation>
     </message>
     <message>
         <source>&amp;Delete group</source>
-        <translation>Smazat skupinu</translation>
+        <translation>U&amp;suń grupę</translation>
     </message>
     <message>
         <source>Sa&amp;ve database as</source>
-        <translation>Uložit databázi jako</translation>
+        <translation>&amp;Zapisz bazę danych jako</translation>
     </message>
     <message>
         <source>Change &amp;master key</source>
-        <translation>Z&amp;měnit hlavní klíč</translation>
+        <translation>Zmień główne &amp;hasło</translation>
     </message>
     <message>
         <source>&amp;Database settings</source>
-        <translation>Nastavení &amp;databáze</translation>
+        <translation>Ustawienia bazy &amp;danych</translation>
     </message>
     <message>
         <source>&amp;Import KeePass 1 database</source>
-        <translation>&amp;Importovat databázi ve formátu KeePass 1</translation>
+        <translation>I&amp;mportuj bazę danych KeePass 1</translation>
     </message>
     <message>
         <source>&amp;Clone entry</source>
-        <translation>Klonovat položku</translation>
+        <translation>&amp;Sklonuj wpis</translation>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation>Najít</translation>
+        <translation>&amp;Znajdź</translation>
     </message>
     <message>
         <source>Copy &amp;username</source>
-        <translation>Zkopírovat &amp;uživatelské jméno</translation>
+        <translation>Skopi&amp;uj użytkownika</translation>
     </message>
     <message>
         <source>Cop&amp;y password</source>
-        <translation>Zkopírovat heslo</translation>
+        <translation>Sko&amp;piuj hasło</translation>
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>Na&amp;stavení</translation>
+        <translation>&amp;Ustawienia</translation>
     </message>
     <message>
         <source>&amp;Perform Auto-Type</source>
-        <translation>&amp;Provést automatické vyplnění</translation>
+        <translation>&amp;Wykonaj auto-uzupełnianie</translation>
     </message>
     <message>
         <source>&amp;Open URL</source>
-        <translation>&amp;Otevřít URL adresu</translation>
+        <translation>&amp;Otwórz URL</translation>
     </message>
     <message>
         <source>&amp;Lock databases</source>
-        <translation>Uzamknout databázi</translation>
+        <translation>&amp;Zablokuj bazy danych</translation>
     </message>
     <message>
         <source>&amp;Title</source>
-        <translation>Nadpis</translation>
+        <translation>&amp;Tytuł</translation>
     </message>
     <message>
         <source>&amp;URL</source>
-        <translation>&amp;URL adresa</translation>
+        <translation>&amp;URL</translation>
     </message>
     <message>
         <source>&amp;Notes</source>
-        <translation>Poz&amp;námky</translation>
+        <translation>&amp;Notatki</translation>
     </message>
     <message>
         <source>&amp;Export to CSV file</source>
-        <translation>&amp;Exportovat do CSV souboru</translation>
+        <translation>&amp;Eksportuj do pliku CSV</translation>
     </message>
     <message>
         <source>Re&amp;pair database</source>
-        <translation>O&amp;pravit databázi</translation>
+        <translation>Na&amp;praw bazę danych</translation>
     </message>
     <message>
         <source>Password Generator</source>
-        <translation>Generátor hesel</translation>
+        <translation>Generator hasła</translation>
     </message>
 </context>
 <context>
@@ -1292,142 +1302,142 @@ Jedná se o jednosměrný převod. Databázi, vzniklou z importu, nepůjde otev�
     </message>
     <message>
         <source>General</source>
-        <translation>Obecné</translation>
+        <translation>Ogólne</translation>
     </message>
     <message>
         <source>Sh&amp;ow a notification when credentials are requested</source>
-        <translation>Z&amp;obrazit oznámení když jsou požadovány přihlašovací údaje</translation>
-    </message>
-    <message>
-        <source>&amp;Return only best matching entries for an URL instead
-of all entries for the whole domain</source>
-        <translation>V%rátit pouze položky, které nejlépe odpovídají dané
-URL adrese namísto položek pro celou doménu</translation>
+        <translation>P&amp;okaż powiadomienie, gdy wymagane są poświadczenia</translation>
     </message>
     <message>
         <source>&amp;Match URL schemes
 Only entries with the same scheme (http://, https://, ftp://, ...) are returned</source>
-        <translation>&amp;Odpovídající schémata URL adres
-Jsou vráceny pouze položky se stejným schématem (http://, https://, ftp://, atp.)</translation>
+        <translation>&amp;Dopasuj schematy URL
+Tylko wpisy z tym samym schematem (http://, https://, ftp://, ...) są zwracane</translation>
     </message>
     <message>
         <source>Sort matching entries by &amp;username</source>
-        <translation>Seřadit odpovídající položky dle &amp;uživatelského jména</translation>
-    </message>
-    <message>
-        <source>R&amp;emove all shared encryption-keys from active database</source>
-        <translation>Z právě otevřené databáze od&amp;ebrat veškeré sdílené šifrovací klíče</translation>
+        <translation>Sortuj dopasowane wpisy według &amp;użytkownika</translation>
     </message>
     <message>
         <source>Re&amp;move all stored permissions from entries in active database</source>
-        <translation>Z právě otevřené databáze odebrat veškerá uložená oprávnění</translation>
+        <translation>U&amp;suń wszystkie przechowywane uprawnienia z wpisów w aktywnej bazie danych</translation>
     </message>
     <message>
         <source>Password generator</source>
-        <translation>Generátor hesel</translation>
+        <translation>Generator hasła</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation>Pokročilé</translation>
-    </message>
-    <message>
-        <source>Activate the following only, if you know what you are doing!</source>
-        <translation>Následující zapněte pouze pokud víte, co děláte!</translation>
+        <translation>Zaawansowane</translation>
     </message>
     <message>
         <source>Always allow &amp;access to entries</source>
-        <translation>Vždy umožnit přístup k veškerým položkám</translation>
+        <translation>Zawsze zezwalaj na d&amp;ostęp do wpisów</translation>
     </message>
     <message>
         <source>Always allow &amp;updating entries</source>
-        <translation>Vždy umožnit akt&amp;ualizovat položky</translation>
+        <translation>Zawsze zezwalaj na a&amp;ktualizowanie wpisów</translation>
     </message>
     <message>
         <source>Searc&amp;h in all opened databases for matching entries</source>
-        <translation>Vy&amp;hledat odpovídající položky ve všech otevřených databázích</translation>
+        <translation>Szuk&amp;aj we wszystkich otwartych bazach dopasowanych wpisów</translation>
     </message>
     <message>
         <source>Only the selected database has to be connected with a client!</source>
-        <translation>Je třeba, aby ke klientovi byly připojené pouze vybrané databáze!</translation>
-    </message>
-    <message>
-        <source>&amp;Return also advanced string fields which start with &quot;KPH: &quot;</source>
-        <translation>V&amp;rátit také pokročilé textové řetězce které začínají na „KPH:“</translation>
-    </message>
-    <message>
-        <source>Automatic creates or updates are not supported for string fields!</source>
-        <translation>Automatická vytváření nebo aktualizace nejsou u textových kolonek podporované!</translation>
+        <translation>Tylko wybrana baza danych musi być podłączona do klienta!</translation>
     </message>
     <message>
         <source>HTTP Port:</source>
-        <translation>HTTP port:</translation>
+        <translation>Port HTTP:</translation>
     </message>
     <message>
         <source>Default port: 19455</source>
-        <translation>Výchozí port: 19455</translation>
+        <translation>Port domyślny: 19455</translation>
     </message>
     <message>
         <source>Re&amp;quest to unlock the database if it is locked</source>
-        <translation>Vyžádat odemknutí zamčené databáze</translation>
+        <translation>Żąda&amp;j odblokowania bazy danych, jeżeli jest zablokowana</translation>
     </message>
     <message>
         <source>Sort &amp;matching entries by title</source>
-        <translation>Seřadit odpovídající položky dle názvu</translation>
+        <translation>Sortuj dopasowane wpisy według &amp;tytułu</translation>
     </message>
     <message>
         <source>Enable KeepassXC HTTP protocol
 This is required for accessing your databases from ChromeIPass or PassIFox</source>
-        <translation>Zapnout protokol KeePassXC HTTP
-Toto je zapotřebí pro přístup do databáze z ChromeIPass nebo PassIFox</translation>
+        <translation>Włącz protokół HTTP KeepassXC
+Jest to wymagane dla dostępu do twoich baz danych z ChromeIPass albo PassIFox</translation>
     </message>
     <message>
         <source>KeePassXC will listen to this port on 127.0.0.1</source>
-        <translation>Na tomto portu bude KeePassXC očekávat spojení na adrese 127.0.0.1</translation>
+        <translation>KeePassXC będzie nasłuchiwać ten port na 127.0.0.1</translation>
     </message>
     <message>
         <source>Cannot bind to privileged ports</source>
-        <translation>S oprávněními uživatele není možné navázat na porty, pro které je třeba oprávnění správce systému</translation>
+        <translation>Nie można powiązać do uprzywilejowanych portów</translation>
     </message>
     <message>
         <source>Cannot bind to privileged ports below 1024!
 Using default port 19455.</source>
-        <translation>Není možné navázat na porty s číslem nižším, než 1024!
-Náhradně bude použit port 19455.</translation>
+        <translation>Nie można powiązać do uprzywilejowanych portów poniżej 1024!
+Używam domyślnego portu 19455.</translation>
+    </message>
+    <message>
+        <source>&amp;Return only best matching entries for a URL instead
+of all entries for the whole domain</source>
+        <translation>&amp;Zwracaj tylko najlepsze dopasowania wpisów dla URL zamiast
+wszystkich wpisów całej domeny</translation>
+    </message>
+    <message>
+        <source>R&amp;emove all shared encryption keys from active database</source>
+        <translation>U&amp;suń wszystkie współdzielone klucze szyfrujące z aktywnej bazy danych</translation>
+    </message>
+    <message>
+        <source>The following options can be dangerous. Change them only if you know what you are doing.</source>
+        <translation>Poniższe opcje mogą być niebezpieczne. Zmieniaj je tylko wtedy, gdy wiesz, co robisz.</translation>
+    </message>
+    <message>
+        <source>&amp;Return advanced string fields which start with &quot;KPH: &quot;</source>
+        <translation>&amp;Zwracaj zaawansowane pola ciągów znaków, które zaczynają się od &quot;KPH: &quot;</translation>
+    </message>
+    <message>
+        <source>Automatically creating or updating string fields is not supported.</source>
+        <translation>Automatyczne tworzenie albo aktualizowanie pól ciągów znaków nie jest obsługiwane.</translation>
     </message>
 </context>
 <context>
     <name>PasswordGeneratorWidget</name>
     <message>
         <source>Password:</source>
-        <translation>Heslo:</translation>
+        <translation>Hasło:</translation>
     </message>
     <message>
         <source>Character Types</source>
-        <translation>Typy znaků</translation>
+        <translation>Typy znaków</translation>
     </message>
     <message>
         <source>Upper Case Letters</source>
-        <translation>Velká písmena</translation>
+        <translation>Duże litery</translation>
     </message>
     <message>
         <source>Lower Case Letters</source>
-        <translation>Malá písmena</translation>
+        <translation>Małe litery</translation>
     </message>
     <message>
         <source>Numbers</source>
-        <translation>Číslice</translation>
+        <translation>Liczby</translation>
     </message>
     <message>
         <source>Special Characters</source>
-        <translation>Zvláštní znaky</translation>
+        <translation>Znaki specjalne</translation>
     </message>
     <message>
         <source>Exclude look-alike characters</source>
-        <translation>Vynechat podobně vypadající znaky (předejití záměně)</translation>
+        <translation>Wyklucz podobnie wyglądające znaki</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation>Přijmout</translation>
+        <translation>Zaakceptuj</translation>
     </message>
     <message>
         <source>%p%</source>
@@ -1435,115 +1445,115 @@ Náhradně bude použit port 19455.</translation>
     </message>
     <message>
         <source>strength</source>
-        <translation>odolnost</translation>
+        <translation>siła</translation>
     </message>
     <message>
         <source>entropy</source>
-        <translation>náhodnost</translation>
+        <translation>entropia</translation>
     </message>
     <message>
         <source>&amp;Length:</source>
-        <translation>Dé&amp;lka:</translation>
+        <translation>%Długość:</translation>
     </message>
     <message>
         <source>Pick characters from every group</source>
-        <translation>Použít znaky ze všech skupin</translation>
+        <translation>Wybierz znaki ze wszystkich grup</translation>
     </message>
     <message>
         <source>Generate</source>
-        <translation>Vytvořit</translation>
+        <translation>Wygeneruj</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Zavřít</translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Použít</translation>
+        <translation>Zastosuj</translation>
     </message>
     <message>
         <source>Entropy: %1 bit</source>
-        <translation>Náhodnost: %1 bit</translation>
+        <translation>Entropia: %1 bity</translation>
     </message>
     <message>
         <source>Password Quality: %1</source>
-        <translation>Odolnost hesla: %1</translation>
+        <translation>Jakość hasła: %1</translation>
     </message>
     <message>
         <source>Poor</source>
-        <translation>Velmi nízká</translation>
+        <translation>Kiepska</translation>
     </message>
     <message>
         <source>Weak</source>
-        <translation>Slabá</translation>
+        <translation>Słaba</translation>
     </message>
     <message>
         <source>Good</source>
-        <translation>Dobrá</translation>
+        <translation>Dobra</translation>
     </message>
     <message>
         <source>Excellent</source>
-        <translation>Skvělá</translation>
+        <translation>Znakomita</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Http</source>
-        <translation>Http</translation>
+        <translation>HTTP</translation>
     </message>
 </context>
 <context>
     <name>QtIOCompressor</name>
     <message>
         <source>Internal zlib error when compressing: </source>
-        <translation>Během komprimace se vyskytla vnitřní chyba v knihovně zlib:</translation>
+        <translation>Błąd wewnętrzny zlib podczas kompresowania:</translation>
     </message>
     <message>
         <source>Error writing to underlying device: </source>
-        <translation>Došlo k chybě při zápisu na zařízení, na kterém se nachází:</translation>
+        <translation>Błąd w zapisie na urządzenie:</translation>
     </message>
     <message>
         <source>Error opening underlying device: </source>
-        <translation>Došlo k chybě při otevírání zařízení, na kterém se nachází:</translation>
+        <translation>Błąd w otwieraniu z urządzenia:</translation>
     </message>
     <message>
         <source>Error reading data from underlying device: </source>
-        <translation>Došlo k chybě při čtení dat ze zařízení, na kterém se nachází:</translation>
+        <translation>Błąd w odczycie danych z urządzenia:</translation>
     </message>
     <message>
         <source>Internal zlib error when decompressing: </source>
-        <translation>Vnitřní chyba knihovny zlib při rozbalování:</translation>
+        <translation>Błąd wewnętrzny zlib podczas dekompresowania:</translation>
     </message>
 </context>
 <context>
     <name>QtIOCompressor::open</name>
     <message>
         <source>The gzip format not supported in this version of zlib.</source>
-        <translation>Použitý formát gzip komprese není podporován verzí knihovny zlib, která je právě používána na tomto systému.</translation>
+        <translation>Format gzip nie wspierany przez tą wersję zlib.</translation>
     </message>
     <message>
         <source>Internal zlib error: </source>
-        <translation>Vnitřní chyba knihovny zlib:</translation>
+        <translation>Błąd wewnętrzny zlib:</translation>
     </message>
 </context>
 <context>
     <name>SearchWidget</name>
     <message>
         <source>Case Sensitive</source>
-        <translation>Rozlišovat velikost písmen</translation>
+        <translation>Rozróżniaj wielkość znaków</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Hledat</translation>
+        <translation>Szukaj</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation>Najít</translation>
+        <translation>Znajdź</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Vyčistit</translation>
+        <translation>Wyczyść</translation>
     </message>
 </context>
 <context>
@@ -1551,236 +1561,236 @@ Náhradně bude použit port 19455.</translation>
     <message>
         <source>A shared encryption-key with the name &quot;%1&quot; already exists.
 Do you want to overwrite it?</source>
-        <translation>Už existuje sdílený šifrovací klíč s názvem „%1“.
-Přejete si ho přepsat?</translation>
+        <translation>Współdzielony klucz szyfrujący o nazwie &quot;%1&quot; już istnieje.
+Czy chcesz go nadpisać?</translation>
     </message>
     <message>
         <source>Do you want to update the information in %1 - %2?</source>
-        <translation>Přejete si aktualizovat informaci v %1 – %2?</translation>
+        <translation>Czy chcesz uaktualnić informację w %1 - %2?</translation>
     </message>
     <message>
         <source>The active database is locked!
 Please unlock the selected database or choose another one which is unlocked.</source>
-        <translation>Právě otevřená databáze je uzamčená!
-Buď jí odemkněte, nebo vyberte jinou, odemčenou.</translation>
+        <translation>Aktywna baza danych jest zablokowana!
+Proszę odblokować wybraną bazę albo wybrać inną, która jest odblokowana.</translation>
     </message>
     <message>
         <source>Successfully removed %1 encryption-%2 from KeePassX/Http Settings.</source>
-        <translation>Z nastavení KeePassX/Http bylo úspěšně odebráno %1 šifrování-%2.</translation>
+        <translation>Pomyślnie usunięto %1 szyfrowanie-%2 z ustawień KeePassX/HTTP.</translation>
     </message>
     <message>
         <source>No shared encryption-keys found in KeePassHttp Settings.</source>
-        <translation>V nastavení KeePassHttp nebyly nalezeny žádné sdílené šifrovací klíče.</translation>
+        <translation>Nie znaleziono współdzielonych kluczy szyfrujących w ustawieniach KeePassHTTP.</translation>
     </message>
     <message>
         <source>The active database does not contain an entry of KeePassHttp Settings.</source>
-        <translation>Právě otevřená databáze neobsahuje žádnou položku nastavení KeePassHttp.</translation>
+        <translation>Aktywna baza danych nie zawiera wpisu z ustawieniami KeePassHTTP.</translation>
     </message>
     <message>
         <source>Removing stored permissions...</source>
-        <translation>Odstraňuji uložená oprávnění...</translation>
+        <translation>Usuwanie przechowywanych uprawnień...</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Přerušit</translation>
+        <translation>Zaniechaj</translation>
     </message>
     <message>
         <source>Successfully removed permissions from %1 %2.</source>
-        <translation>Oprávnění %1 %2 úspěšně odebrána.</translation>
+        <translation>Udanie usunięto uprawnienia z %1 %2.</translation>
     </message>
     <message>
         <source>The active database does not contain an entry with permissions.</source>
-        <translation>Právě otevřená databáze neobsahuje položku s oprávněními.</translation>
+        <translation>Aktywna baza danych nie zawiera wpisu z uprawnieniami.</translation>
     </message>
     <message>
         <source>KeePassXC: New key association request</source>
-        <translation>KeePassXC: nový požadavek na přiřazení klíče</translation>
+        <translation>KeePassXC: Nowe żądanie skojarzenia klucza</translation>
     </message>
     <message>
         <source>You have received an association request for the above key.
 If you would like to allow it access to your KeePassXC database
 give it a unique name to identify and accept it.</source>
-        <translation>Pokud jste obdrželi požadavek na přiřazení pro výše uvedený klíč.
-Pokud chcete umožnit přístup do KeePassXC databáze, dejte jí
-jedinečný název pro její identifikaci a potvrďte ho.</translation>
+        <translation>Otrzymałeś żądanie skojarzenia powyższego klucza.
+Jeżeli chcesz zezwolić na dostęp do twojej bazy danych KeePassXC,
+nadaj unikatową nazwę do zidentyfikowania i zaakceptuj.</translation>
     </message>
     <message>
         <source>KeePassXC: Overwrite existing key?</source>
-        <translation>KeePassXC: Přepsat stávající klíč?</translation>
+        <translation>KeePassXC: Nadpisać istniejący klucz?</translation>
     </message>
     <message>
         <source>KeePassXC: Update Entry</source>
-        <translation>KeePassXC: Aktualizovat položku</translation>
+        <translation>KeePassXC: Aktualizacja wpisu</translation>
     </message>
     <message>
         <source>KeePassXC: Database locked!</source>
-        <translation>KeePassXC: Databáze uzamčena!</translation>
+        <translation>KeePassXC: Baza danych zablokowana!</translation>
     </message>
     <message>
         <source>KeePassXC: Removed keys from database</source>
-        <translation>KeePassXC: Odebrány klíče z databáze</translation>
+        <translation>KeePassXC: Usunięto klucze z bazy danych</translation>
     </message>
     <message>
         <source>KeePassXC: No keys found</source>
-        <translation>KeePassXC: Klíče nebyly nalezeny</translation>
+        <translation>KeePassXC: Nie znaleziono kluczy</translation>
     </message>
     <message>
         <source>KeePassXC: Settings not available!</source>
-        <translation>KeePassXC: Nastavení nejsou k dispozici!</translation>
+        <translation>KeePassXC: Ustawienia niedostępne!</translation>
     </message>
     <message>
         <source>KeePassXC: Removed permissions</source>
-        <translation>KeePassXC: Odebraná oprávnění</translation>
+        <translation>KeePassXC: Usunięto uprawnienia</translation>
     </message>
     <message>
         <source>KeePassXC: No entry with permissions found!</source>
-        <translation>KeePassXC: Nebyla nalezena položka s oprávněními!</translation>
+        <translation>KeePassXC: Nie znaleziono wpisu z uprawnieniami!</translation>
     </message>
 </context>
 <context>
     <name>SettingsWidget</name>
     <message>
         <source>Application Settings</source>
-        <translation>Nastavení aplikace</translation>
+        <translation>Ustawienia aplikacji</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Obecné</translation>
+        <translation>Główne</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation>Zabezpečení</translation>
+        <translation>Bezpieczeństwo</translation>
     </message>
 </context>
 <context>
     <name>SettingsWidgetGeneral</name>
     <message>
         <source>Remember last databases</source>
-        <translation>Pamatovat si nedávno otevřené databáze</translation>
+        <translation>Pamiętaj ostatnią bazę</translation>
     </message>
     <message>
         <source>Automatically save on exit</source>
-        <translation>Před ukončením aplikace automaticky uložit případné změny</translation>
+        <translation>Automatycznie zapisz przy wyjściu</translation>
     </message>
     <message>
         <source>Automatically save after every change</source>
-        <translation>Po každé změně hned automaticky uložit</translation>
+        <translation>Automatycznie zapisz po każdej zmianie</translation>
     </message>
     <message>
         <source>Minimize when copying to clipboard</source>
-        <translation>Po zkopírování údaje do schránky automaticky minimalizovat</translation>
+        <translation>Zminimalizuj po skopiowaniu do schowka</translation>
     </message>
     <message>
         <source>Use group icon on entry creation</source>
-        <translation>Pro vytvářenou položku použít ikonu skupiny, do které spadá</translation>
+        <translation>Użyj ikony grupy podczas tworzenia wpisu</translation>
     </message>
     <message>
         <source>Global Auto-Type shortcut</source>
-        <translation>Klávesová zkratka pro všeobecné automatické vyplňování</translation>
+        <translation>Globalny skrót auto-uzupełnianie</translation>
     </message>
     <message>
         <source>Use entry title to match windows for global auto-type</source>
-        <translation>Všeobecné automatické vyplňování provádět na základě shody titulku položky s titulkem okna.</translation>
+        <translation>Wykorzystaj tytuł wpisu do dopasowania okien dla globalnego auto-wpisywania</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Jazyk</translation>
+        <translation>Język</translation>
     </message>
     <message>
         <source>Show a system tray icon</source>
-        <translation>Zobrazovat ikonu v oznamovací oblasti systémového panelu</translation>
+        <translation>Pokaż ikonę w zasobniku systemowym</translation>
     </message>
     <message>
         <source>Hide window to system tray when minimized</source>
-        <translation>Minimalizovat okno aplikace do oznamovací oblasti systémového panelu</translation>
+        <translation>Schowaj okno do zasobnika podczas minimalizacji</translation>
     </message>
     <message>
         <source>Remember last key files</source>
-        <translation>Pamatovat si nedávno otevřené soubory s klíči</translation>
+        <translation>Zapamiętaj ostatnie pliki klucza</translation>
     </message>
     <message>
         <source>Load previous databases on startup</source>
-        <translation>Při spuštění aplikace načíst minule otevřené databáze</translation>
+        <translation>Załaduj poprzednie bazy danych podczas uruchomienia</translation>
     </message>
     <message>
         <source>Automatically reload the database when modified externally</source>
-        <translation>V okamžiku zásahu do databáze zvenčí ji načíst znovu</translation>
+        <translation>Automatycznie przeładuj bazę danych, gdy zostanie zmodyfikowana zewnętrznie</translation>
     </message>
     <message>
         <source>Hide window to system tray instead of app exit</source>
-        <translation>Namísto zavření minimalizovat okno aplikace do oznamovací oblasti systémového panelu</translation>
+        <translation>Schowaj okno do zasobnika zamiast wyłączenia aplikacji</translation>
     </message>
     <message>
         <source>Minimize window at application startup</source>
-        <translation>Spouštět aplikaci s minimalizovaným oknem</translation>
+        <translation>Minimalizuj okno podczas uruchomienia aplikacji</translation>
     </message>
 </context>
 <context>
     <name>SettingsWidgetSecurity</name>
     <message>
         <source>Clear clipboard after</source>
-        <translation>Vymazat obsah schránky po uplynutí</translation>
+        <translation>Wyczyść schowek po</translation>
     </message>
     <message>
         <source> sec</source>
-        <translation>sek.</translation>
+        <translation>s</translation>
     </message>
     <message>
         <source>Lock databases after inactivity of</source>
-        <translation>Uzamknout databázi při nečinnosti delší než</translation>
+        <translation>Zablokuj bazę po nieaktywności</translation>
     </message>
     <message>
         <source>Show passwords in cleartext by default</source>
-        <translation>Hesla vždy viditelná (nezakrývat hvězdičkami)</translation>
+        <translation>Domyślnie pokazuj hasła</translation>
     </message>
     <message>
         <source>Always ask before performing auto-type</source>
-        <translation>Před provedením automatického vyplnění se vždy dotázat</translation>
+        <translation>Zawsze pytaj przed wykonaniem auto-uzupełninia</translation>
     </message>
     <message>
         <source>Lock databases after minimizing the window</source>
-        <translation>Při minimalizaci okna uzamknout databáze</translation>
+        <translation>Zablokuj bazę danych po zminimalizowaniu okna</translation>
     </message>
     <message>
         <source>Don&apos;t require password repeat when it is visible</source>
-        <translation>Pokud jsou zobrazená, nevyžadovat zopakování hesel</translation>
+        <translation>Nie wymagaj powtarzania hasła, gdy jest widoczne</translation>
     </message>
 </context>
 <context>
     <name>UnlockDatabaseWidget</name>
     <message>
         <source>Unlock database</source>
-        <translation>Odemknout databázi</translation>
+        <translation>Odblokuj bazę</translation>
     </message>
 </context>
 <context>
     <name>WelcomeWidget</name>
     <message>
         <source>Welcome!</source>
-        <translation>Vítejte!</translation>
+        <translation>Witaj!</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
         <source>path to a custom config file</source>
-        <translation>umístění souboru s vlastními nastaveními</translation>
+        <translation>ścieżka do pliku z ustawieniami</translation>
     </message>
     <message>
         <source>key file of the database</source>
-        <translation>soubor s klíčem k databázi</translation>
-    </message>
-    <message>
-        <source>filename(s) of the password database(s) to open (*.kdbx)</source>
-        <translation>názvy databází s hesly (*.kdbx) které otevřít ()()</translation>
+        <translation>plik klucza bazy</translation>
     </message>
     <message>
         <source>KeePassXC - cross-platform password manager</source>
-        <translation>KeePassXC – aplikace pro správu hesel, fungující na vícero operačních systémech</translation>
+        <translation>KeePassXC - wieloplatformowy menedżer haseł</translation>
     </message>
     <message>
         <source>read password of the database from stdin</source>
-        <translation>načíst heslo k databázi ze standardního vstupu</translation>
+        <translation>odczytaj hasło bazy danych z stdin</translation>
+    </message>
+    <message>
+        <source>filenames of the password databases to open (*.kdbx)</source>
+        <translation>nazwy plików baz danych haseł do otwarcia (*.kdbx)</translation>
     </message>
 </context>
 </TS>

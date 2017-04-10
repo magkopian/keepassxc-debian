@@ -2,7 +2,7 @@ Format: 3.0 (quilt)
 Source: keepassxc
 Binary: keepassxc
 Architecture: any
-Version: 2.1.3-1
+Version: 2.1.4-1
 Maintainer: Manolis Agkopian <m.agkopian@gmail.com>
 Homepage: https://keepassxc.org/
 Standards-Version: 3.9.8
@@ -12,11 +12,11 @@ Build-Depends: debhelper (>= 9), cmake (>= 2.8.12), qtbase5-dev (>= 5.2), qttool
 Package-List:
  keepassxc deb utils optional arch=any
 Checksums-Sha1:
- ed0454c8fef525a2d740e82da907bf40ffc9bfec 3329237 keepassxc_2.1.3.orig.tar.gz
- c0b078a476066a2165ffa6668a37fb6fba92ef48 7940 keepassxc_2.1.3-1.debian.tar.xz
+ f4657ab638a6e1626a534aea9d902e9c05c9298b 3345520 keepassxc_2.1.4.orig.tar.gz
+ 66d0b3f444cbc8dd4b722bb530b05c9901bc03b1 7960 keepassxc_2.1.4-1.debian.tar.xz
 Checksums-Sha256:
- 9cfdcb519127197e4b35837160729a3f38c34771f869249b03fa88a8104fb0e4 3329237 keepassxc_2.1.3.orig.tar.gz
- e1ea39e7322b2cea0b93882e20df438947194c8ab01cbdfcbd27fc6e8598f9e5 7940 keepassxc_2.1.3-1.debian.tar.xz
+ 40a990dbcf442eb3cad99452b58ffd36e5855b39e78f213ea20e99fbc7876701 3345520 keepassxc_2.1.4.orig.tar.gz
+ 458bfd11d2f939ce0d56e40e3c80f7f7fa662a4bfb8618cd447bfa9b91479ff4 7960 keepassxc_2.1.4-1.debian.tar.xz
 Files:
- 02ec502801693ced0130df07659ad33b 3329237 keepassxc_2.1.3.orig.tar.gz
- e0ee75675693af3df63291e6ea2795c6 7940 keepassxc_2.1.3-1.debian.tar.xz
+ 5ef08a1c2eb7d0539335f5358bdee24e 3345520 keepassxc_2.1.4.orig.tar.gz
+ bceb6da803cb0b1e77c6739458502366 7960 keepassxc_2.1.4-1.debian.tar.xz
