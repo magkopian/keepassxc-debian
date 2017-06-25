@@ -5,7 +5,7 @@ This repository contains the necessary files for building Debian binary packages
 
 ## Building Dependencies
 
-First make sure that all three `build-essential`, `debootstrap` and `devscripts`, `pbuilder` packages are installed on your system, as they contain the necessary tools for building the package.
+First make sure that all three `build-essential`, `debootstrap`, `devscripts` and `pbuilder` packages are installed on your system, as they contain the necessary tools for building the package.
 
 ```bash
 sudo apt-get update
