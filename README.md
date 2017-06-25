@@ -5,11 +5,11 @@ This repository contains the necessary files for building Debian binary packages
 
 ## Building Dependencies
 
-First make sure that all three `build-essential`, `debootstrap` and `devscripts` packages are installed on your system, as they contain the necessary tools for building the package.
+First make sure that all three `build-essential`, `debootstrap` and `devscripts`, `pbuilder` packages are installed on your system, as they contain the necessary tools for building the package.
 
 ```bash
 sudo apt-get update
-sudo apt-get install build-essential debootstrap devscripts
+sudo apt-get install build-essential debootstrap devscripts pbuilder
 ```
 
 After the installation is complete you will need to configure `pbuilder`. To do so, you will first need to set the `/var/cache/pbuilder/result` directory writable by your user account and then create the directory `/var/cache/pbuilder/hooks`, which again needs to be writable by your user.
