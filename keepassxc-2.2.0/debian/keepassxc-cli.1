@@ -1,0 +1,53 @@
+.TH KEEPASSXC-CLI 1 "Jun 26, 2017"
+
+.SH NAME
+keepassxc-cli \- command line interface of \fBKeePassXC\fP
+
+.SH SYNOPSIS
+.B keepassxc-cli
+.RI [ options ]
+.I command
+
+.SH DESCRIPTION
+\fBkeepassxc-cli\fP is the command line interface of the \fBKeePassXC\fP password manager. It provides the ability of listing the entries of a database, showing the password of an entry and many more, directly from the command line.
+
+.SH COMMANDS
+
+.IP "clip [options] <database> <entry>"
+Copies the password of a database entry to the clipboard. If multiple entries with the same name exist in different groups, only the password for the first one is going to be copied. For coping the password of an entry in a specific group, the group path to the entry should be specified as well, instead of just the name.
+
+.IP "extract <database>"
+Extracts and prints the contents of a database to standard output.
+
+.IP "entropy-meter [-a pwd1 pwd2 ...]"
+Calculates the entropy of a single or multiple passwords specified using the \fI-a\fP option. If no passwords are specified, the program will run in interactive mode and prompt the user to enter a password.
+
+.IP "list [options] <database> [group]"
+Lists all the entries of a database, or optionally of a single group. The \fI--print-uuids\fP or \fI-u\fP option can also be used, for showing the UUIDs of the entries and the groups.
+
+.IP "merge [options] <database1> <database2>"
+Merges two databases together. The first database file is going to be replaced by the result of the merge, for that reason it is advisable to keep a backup of the two database files before attempting a merge. In the case that both databases make use of the same password, the \fI--same-password\fP or \fI-s\fP option can be used.
+
+.IP "show <database> <entry>"
+Shows the password of a database entry. Regarding the occurrence of multiple entries with the same name in different groups, everything stated in the \fIclip\fP command section also applies here.
+
+.SH OPTIONS
+
+.IP "-g, --gui-prompt"
+Displays a GUI prompt for unlocking the database, instead of directly prompting the user for the password in the command line. Currently, the \fIextract\fP and \fIshow\fP commands do not support this option.
+
+.IP "-u, --print-uuids"
+Prints the UUIDs of the entries and the groups.
+
+.IP "-s, --same-password"
+Tells the program to use the same password for unlocking both of the database files, in a merge operation.
+
+.IP "-h, --help"
+Displays help information.
+
+.IP "-v, --version"
+Shows the program version.
+
+.SH AUTHOR
+This manual page was written by Manolis Agkopian <m.agkopian@gmail.com>.
+

@@ -1,0 +1,37 @@
+keepassxc (2.2.0-1) unstable; urgency=low
+
+  * New upstream release
+  * Enabled YubiKey HMAC-SHA1 authentication support
+  * Added manpage for the keepassxc-cli program
+
+ -- Manolis Agkopian <m.agkopian@gmail.com>  Mon, 26 Jun 2017 10:08:19 +0300
+
+keepassxc (2.1.4-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Manolis Agkopian <m.agkopian@gmail.com>  Mon, 10 Apr 2017 11:32:25 +0300
+
+keepassxc (2.1.3-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Manolis Agkopian <m.agkopian@gmail.com>  Fri, 03 Mar 2017 14:03:52 +0200
+
+keepassxc (2.1.2-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Manolis Agkopian <m.agkopian@gmail.com>  Sat, 18 Feb 2017 15:42:40 +0200
+
+keepassxc (2.1.1-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Manolis Agkopian <m.agkopian@gmail.com>  Sun, 12 Feb 2017 23:04:39 +0200
+
+keepassxc (2.1.0-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Manolis Agkopian <m.agkopian@gmail.com>  Tue, 24 Jan 2017 19:21:55 +0200
