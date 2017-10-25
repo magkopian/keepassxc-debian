@@ -3,6 +3,12 @@ KeePassXC Debian Package
 
 This repository contains the necessary files for building Debian binary packages of [KeePassXC](https://keepassxc.org/).
 
+### Update 25/10/2017
+
+The developers of KeePassXC now provide an [official PPA](https://keepassxc.org/blog/2017-10-25-ubuntu-ppa/) for installing KeePassXC on Ubuntu! If you are an Ubuntu user I highly recommend switching to the PPA, so you will automatically receive updates every time there is a new version. The Ubuntu releases that are currently supported by the PPA are the 17.10, 17.04, 16.04 and 14.04.
+
+Starting from the next upstream release, I will also stop providing binary packages for Ubuntu on this repository, to encourage the adoption of the official PPA. If you disagree with that decision though please open a new issue explaining your reasons.
+
 ## Building Dependencies
 
 First make sure that all four `build-essential`, `debootstrap`, `devscripts` and `pbuilder` packages are installed on your system, as they contain the necessary tools for building the package.
