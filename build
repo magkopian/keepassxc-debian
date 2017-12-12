@@ -49,20 +49,3 @@ do
 	done
 done
 
-# Build for Ubuntu 16.04
-for arch in "${architectures[@]}"
-do
-	echo "### pbuilder create --distribution xenial --architecture $arch --components "main restricted universe multiverse" --mirror http://archive.ubuntu.com/ubuntu/ubuntu && pbuilder --update --distribution xenial --architecture $arch --components "main restricted universe multiverse" --mirror http://archive.ubuntu.com/ubuntu/ubuntu && pdebuild"
-	pbuilder create --distribution xenial --architecture $arch --components "main restricted universe multiverse" --mirror http://archive.ubuntu.com/ubuntu/ubuntu && pbuilder --update --distribution xenial --architecture $arch --components "main restricted universe multiverse" --mirror http://archive.ubuntu.com/ubuntu/ubuntu && pdebuild
-
-	# Copy binary package for result directory
-	if [ -e "/var/cache/pbuilder/result/keepassxc_${version}-1_${arch}.deb" ]
-	then
-		echo "### cp /var/cache/pbuilder/result/keepassxc_${version}-1_${arch}.deb ../result/keepassxc_${version}-1_${arch}_16.04_xenial.deb"
-		cp /var/cache/pbuilder/result/keepassxc_${version}-1_${arch}.deb ../result/keepassxc_${version}-1_${arch}_16.04_xenial.deb
-		echo "### rm /var/cache/pbuilder/result/keepassxc_${version}-1_${arch}.deb"
-		rm /var/cache/pbuilder/result/keepassxc_${version}-1_${arch}.deb
-	fi
-
-	echo
-done
