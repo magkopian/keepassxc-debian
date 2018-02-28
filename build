@@ -1,8 +1,8 @@
 #!/bin/bash
 
 version=$1
-distributions=('oldstable' 'stable')
-codenames=('jessie' 'stretch')
+distributions=('stable')
+codenames=('stretch')
 architectures=('amd64' 'i386')
 package_dir="keepassxc-${version}"
 
