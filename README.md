@@ -3,6 +3,10 @@ KeePassXC Debian Package
 
 This repository contains the necessary files for building Debian binary packages of [KeePassXC](https://keepassxc.org/).
 
+### Update 23/3/2019
+
+KeePassXC has been officially packaged and is part of Debian for quite some time now and thus this repository will stop receiving further updates. If you are running Testing (Buster) or Unstable (Sid), you can install KeePassXC by simply running `sudo apt install keepassxc`. If you are on Stretch which is the current Stable, you can install it from `stretch-backports` by running `sudo apt install -t stretch-backports keepassxc`. Make sure that the [backports](https://backports.debian.org/Instructions/) repository is enabled in your system before doing so.
+
 ### Update 25/10/2017
 
 The developers of KeePassXC now provide an [official PPA](https://keepassxc.org/blog/2017-10-25-ubuntu-ppa/) for installing KeePassXC on Ubuntu! If you are an Ubuntu user I highly recommend switching to the PPA, so you will automatically receive updates every time there is a new version. The Ubuntu releases that are currently supported by the PPA are the 17.10, 17.04, 16.04 and 14.04.
